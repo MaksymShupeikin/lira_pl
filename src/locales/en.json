@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "technology": "Technology",
+    "products": "Products",
+    "realizations": "Projects",
+    "contact": "Contact",
+    "hotline": "Technical Hotline"
+  },
+  "header": {
+    "order_call": "Request a Call"
+  },
+  "hero": {
+    "title": "Chimney and<br /> Ventilation <br /> Elements",
+    "description": "Production of precision stainless steel components. Custom diameters, certified steel, perfect fit for industry and construction.",
+    "cta_catalog": "Product Catalog",
+    "cta_contact": "Request a Call"
+  },
+  "trustbar": {
+    "steel_label": "Certified Steel",
+    "steel_title": "AISI 304 / 321",
+    "steel_desc": "Acid and heat resistant",
+    "tech_label": "Joining Technology",
+    "tech_title": "Plasma Welding",
+    "tech_desc": "Perfect weld tightness",
+    "thermal_label": "Thermal Resistance",
+    "thermal_title": "Max 1000°C",
+    "thermal_desc": "Soot fire resistance",
+    "safety_label": "Safety Standards",
+    "safety_title": "PN-EN 1856-1",
+    "safety_desc": "CE Certificate of Conformity"
+  },
+  "safety": {
+    "label": "Quality Assurance",
+    "title": "Uncompromising<br />Safety",
+    "corrosion_title": "Corrosion Resistance",
+    "corrosion_desc": "Forget about chimney replacement for decades. We use only premium acid-resistant steel that does not degrade in aggressive flue gas environments.",
+    "fire_title": "Soot Fire Resistance",
+    "fire_desc": "Withstands extreme temperatures up to 1000°C. Your home and family remain safe even in case of boiler failure or soot ignition.",
+    "warranty_title": "Manufacturer Warranty",
+    "warranty_desc": "Full responsibility for every system element. Our products hold CE Certification and undergo rigorous quality controls."
+  },
+  "catalog_section": {
+    "sidebar": {
+      "mode_label": "Visualization Mode",
+      "diagram_title": "Construction<br />Diagram",
+      "diagram_desc": "Overview of the chimney system elements. See the assembly order.",
+      "help_title": "Need Help?",
+      "help_desc": "Our engineers will help you select the right diameters and elements for your project.",
+      "ask_expert": "Ask an Expert"
+    },
+    "main": {
+      "label": "Parts Catalog",
+      "title": "Elements Overview",
+      "desc": "Full range of precision stainless steel components, categorized by assembly zones."
+    }
+  },
+  "portfolio": {
+    "label": "Photo Report",
+    "title": "Realizations of our<br />products",
+    "project_prefix": "Project #"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Have questions?<br />Let's Talk",
+    "direct_data": "Direct Details",
+    "hotline_label": "Technical Hotline",
+    "email_label": "E-mail Address",
+    "hours_label": "Hotline Hours",
+    "hours_value": "Mon-Fri: 08:00 - 16:00",
+    "response_label": "E-mail Response Time",
+    "response_value": "Avg < 2h (business)",
+    "form_title": "Leave a message, we'll call back",
+    "form_desc": "Fill out the form and our engineer will contact you by phone as soon as possible to discuss your project.",
+    "form_name": "Full Name",
+    "form_name_ph": "Enter your details...",
+    "form_phone": "Phone Number",
+    "form_phone_ph": "+48...",
+    "form_message": "Message",
+    "form_message_ph": "Briefly describe your project or technical question...",
+    "optional": "(optional)",
+    "submit_btn": "Request a Call",
+    "privacy_note": "* Required fields. Your data is processed in accordance with our privacy policy to handle your request."
+  },
+  "catalog": {
+    "code_label": "CODE",
+    "sections": {
+      "section-1": "Outlet (Above Roof)",
+      "section-2": "Routing (Wall)",
+      "section-3": "Base (Boiler Room)"
+    },
+    "products": {
+      "DF-01": "Deflector",
+      "NK-02": "Rotating Cowl \"Rooster\"",
+      "WW-03": "Volper Vent",
+      "PG-04": "Rain Cap / Mushroom",
+      "IS-05": "Spark Arrestor Mesh",
+      "US-06": "Mouthpiece / Cone",
+      "ZK-07": "Chimney Termination",
+      "SO-08": "Protective Mesh",
+      "RP-100": "Straight Pipe 1m",
+      "KL-90": "Elbow 45°",
+      "OS-13": "Wall Bracket",
+      "PP-14": "Pass-through Plate",
+      "RM-15": "Masking Rosette",
+      "TR-90": "Tee 45°",
+      "WC-01": "Cleanout with Door",
+      "OD-18": "Condensate Trap (Funnel)",
+      "PW-19": "Support Plate",
+      "RD-20": "Reduction / Transition",
+      "SZ-21": "Chimney Damper",
+      "RA-22": "Radiator",
+      "WX-23": "Heat Exchanger"
+    }
+  },
+  "product_page": {
+    "back": "Back to catalog"
+  },
+  "configurator": {
+    "thermo_badge": "Thermo",
+    "benefits_title": "Product Benefits",
+    "code_label": "CODE",
+    "config_header": "Element Configuration",
+    "quote_title": "Individual Quote",
+    "quote_desc": "Price depends on order size and technical specifications.",
+    "ask_price_btn": "Ask for Price",
+    "unavailable_combination": "This parameter combination is not available in serial production. Please change parameters.",
+    "unavailable_option": " (Unavailable)",
+    "attributes": {
+      "chimneyType": "Chimney System",
+      "steelGrade": "Steel Grade",
+      "steelThickness": "Steel Thickness",
+      "execution": "Material Version",
+      "insulation": "Insulation",
+      "diameter": "Diameter"
+    }
+  }
+}

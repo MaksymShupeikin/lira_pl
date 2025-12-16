@@ -1,0 +1,329 @@
+{
+  "baseCode": "IS-05",
+  "name": "Iskrochron Siatkowy",
+  "description": "Specjalistyczne zakończenie komina wyposażone w siatkę, która zatrzymuje rozżarzone cząstki. Niezbędny przy dachach wykonanych z materiałów łatwopalnych.",
+  "baseImage": "/assets/iskrochron.png",
+  "benefits": [
+    {
+      "title": "Bezpieczeństwo pożarowe",
+      "text": "Skutecznie rozbija i wygasza iskry wydobywające się z przewodu kominowego, chroniąc dach i otoczenie przed zapłonem."
+    },
+    {
+      "title": "Wymóg prawny",
+      "text": "Stosowanie iskrochronu jest obowiązkowe w przypadku budynków z pokryciem dachowym palnym (np. strzecha, gont drewniany)."
+    }
+  ],
+  "applicableAttributes": [
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais304",
+    "steelThickness": "t08",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "IS-05-S-304-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "IS-05-S-304-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "IS-05-S-321-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    }
+  ]
+}

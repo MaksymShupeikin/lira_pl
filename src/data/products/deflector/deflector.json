@@ -1,0 +1,956 @@
+{
+  "baseCode": "DF-01",
+  "name": "Deflektor",
+  "description": "Urządzenie montowane na szczycie komina, służące do wspomagania ciągu kominowego oraz ochrony przewodu przed opadami atmosferycznymi.",
+  "baseImage": "/assets/deflektor.png",
+  "benefits": [
+    {
+      "title": "Stabilizacja ciągu",
+      "text": "Konstrukcja wykorzystuje siłę wiatru do wytworzenia podciśnienia, co skutecznie poprawia i stabilizuje ciąg w kominie."
+    },
+    {
+      "title": "Ochrona przed wiatrem",
+      "text": "Chroni przewód kominowy przed wiatrem opadającym (fenowym), zapobiegając cofaniu się dymu do wnętrza budynku."
+    }
+  ],
+  "applicableAttributes": [
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais304",
+    "steelThickness": "t08",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "DF-01-S-304-05-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-05-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "DF-01-S-304-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "DF-01-S-321-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    }
+  ]
+}

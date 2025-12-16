@@ -1,0 +1,2663 @@
+{
+  "baseCode": "PG-04",
+  "name": "Parasol / Grzybek",
+  "description": "Klasyczne zakończenie systemu kominowego, chroniące przewód przed opadami atmosferycznymi. Zapewnia swobodny wylot spalin.",
+  "baseImage": "/assets/grzybek.png",
+  "benefits": [
+    {
+      "title": "Ochrona przed opadami",
+      "text": "Skutecznie zabezpiecza wnętrze komina przed deszczem i śniegiem, zapobiegając zawilgoceniu i korozji przewodu."
+    },
+    {
+      "title": "Minimalny opór",
+      "text": "Otwarta konstrukcja nie zakłóca ciągu kominowego, umożliwiając swobodny i bezpieczny wyrzut spalin do atmosfery."
+    }
+  ],
+  "applicableAttributes": [
+    "chimneyType",
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "insulation",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais304",
+    "steelThickness": "t05",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "PG-04-S-304-05-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-05-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "PG-04-S-304-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "PG-04-S-321-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-05-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-08-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-304-10-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-08-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-50-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PG-04-T-321-10-NN-30-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_300"
+      }
+    }
+  ]
+}

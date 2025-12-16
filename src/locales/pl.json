@@ -1,0 +1,137 @@
+{
+    "nav": {
+        "technology": "Technologia",
+        "products": "Produkty",
+        "realizations": "Realizacje",
+        "contact": "Kontakt",
+        "hotline": "Infolinia Techniczna"
+    },
+    "header": {
+        "order_call": "Zamów rozmowę"
+    },
+    "hero": {
+        "title": "Elementy <br /> Kominowe i <br /> Wentylacyjne",
+        "description": "Produkcja precyzyjnych podzespołów ze stali nierdzewnej. Dowolna średnica, certyfikowana stal, idealne spasowanie dla przemysłu i budownictwa.",
+        "cta_catalog": "Katalog Elementów",
+        "cta_contact": "Zamów rozmowę"
+    },
+    "trustbar": {
+        "steel_label": "Stal Certyfikowana",
+        "steel_title": "AISI 304 / 321",
+        "steel_desc": "Kwasoodporna i żaroodporna",
+        "tech_label": "Technologia Łączenia",
+        "tech_title": "Spawanie Plazmą",
+        "tech_desc": "Idealna szczelność spoin",
+        "thermal_label": "Odporność Termiczna",
+        "thermal_title": "Max 1000°C",
+        "thermal_desc": "Odporność na pożar sadzy",
+        "safety_label": "Normy Bezpieczeństwa",
+        "safety_title": "PN-EN 1856-1",
+        "safety_desc": "Certyfikat Zgodności CE"
+    },
+    "safety": {
+        "label": "Gwarancja Jakości",
+        "title": "Bezkompromisowe<br />Bezpieczeństwo",
+        "corrosion_title": "Odporność na korozję",
+        "corrosion_desc": "Zapomnij o wymianie komina przez dekady. Stosujemy wyłącznie stal kwasoodporną klasy premium, która nie ulega degradacji w agresywnym środowisku spalin.",
+        "fire_title": "Odporność na pożar sadzy",
+        "fire_desc": "Wytrzymuje ekstremalne temperatury do 1000°C. Twój dom i rodzina są bezpieczni nawet w przypadku awarii kotła czy zapłonu sadzy.",
+        "warranty_title": "Gwarancja Producenta",
+        "warranty_desc": "Pełna odpowiedzialność za każdy element systemu. Nasze produkty posiadają Certyfikację CE i przechodzą rygorystyczne kontrole jakości."
+    },
+    "catalog_section": {
+        "sidebar": {
+            "mode_label": "Tryb Wizualizacji",
+            "diagram_title": "Schemat<br />Budowy",
+            "diagram_desc": "Poglądowy rozkład elementów systemu kominowego. Zobacz kolejność montażu.",
+            "help_title": "Potrzebujesz pomocy?",
+            "help_desc": "Nasi inżynierowie pomogą dobrać odpowiednie średnice i elementy dla Twojego projektu.",
+            "ask_expert": "Zapytaj Eksperta"
+        },
+        "main": {
+            "label": "Katalog Części",
+            "title": "Przegląd Elementów",
+            "desc": "Pełna gama precyzyjnych komponentów ze stali nierdzewnej, podzielona według stref montażu."
+        }
+    },
+    "portfolio": {
+        "label": "Fotorelacja",
+        "title": "Realizacje naszych<br />produktów",
+        "project_prefix": "Projekt #"
+    },
+    "contact": {
+        "label": "Kontakt",
+        "title": "Masz pytania?<br />Porozmawiajmy",
+        "direct_data": "Dane bezpośrednie",
+        "hotline_label": "Infolinia techniczna",
+        "email_label": "Adres e-mail",
+        "hours_label": "Godziny pracy infolinii",
+        "hours_value": "PN-PT: 08:00 - 16:00",
+        "response_label": "Czas odpowiedzi e-mail",
+        "response_value": "Średnio < 2h (robocze)",
+        "form_title": "Zostaw wiadomość, oddzwonimy",
+        "form_desc": "Wypełnij formularz, a nasz inżynier skontaktuje się z Tobą telefonicznie w najbliższym możliwym terminie, aby omówić Twój projekt.",
+        "form_name": "Imię i Nazwisko",
+        "form_name_ph": "Wpisz swoje dane...",
+        "form_phone": "Numer telefonu",
+        "form_phone_ph": "+48...",
+        "form_message": "Wiadomość",
+        "form_message_ph": "Opisz krótko swój projekt lub pytanie techniczne...",
+        "optional": "(opcjonalne)",
+        "submit_btn": "Zamów rozmowę",
+        "privacy_note": "* Pola wymagane. Twoje dane są przetwarzane zgodnie z naszą polityką prywatności w celu obsługi zgłoszenia."
+    },
+    "catalog": {
+        "code_label": "KOD",
+        "sections": {
+            "section-1": "Wylot (Nad Dachem)",
+            "section-2": "Prowadzenie (Ściana)",
+            "section-3": "Baza (Kotłownia)"
+        },
+        "products": {
+            "DF-01": "Deflektor",
+            "NK-02": "Nasada Obrotowa \"Kogut\"",
+            "WW-03": "Wywietrznik Wołper",
+            "PG-04": "Parasol / Grzybek",
+            "IS-05": "Iskrochron Siatkowy",
+            "US-06": "Ustnik / Stożek",
+            "ZK-07": "Zakończenie Komina",
+            "SO-08": "Siatka Ochronna",
+            "RP-100": "Rura Prosta 1m",
+            "KL-90": "Kolano 45°",
+            "OS-13": "Obejma Ścienna",
+            "PP-14": "Płyta Przelotowa",
+            "RM-15": "Rozeta Maskująca",
+            "TR-90": "Trójnik 45°",
+            "WC-01": "Wyczystka z Drzwiczkami",
+            "OD-18": "Odskraplacz (Lejek)",
+            "PW-19": "Płyta Wspornikowa",
+            "RD-20": "Redukcja / Przejście",
+            "SZ-21": "Szyber Kominowy",
+            "RA-22": "Radiator",
+            "WX-23": "Wymiennik Ciepła"
+        }
+    },
+    "product_page": {
+        "back": "Powrót do katalogu"
+    },
+    "configurator": {
+        "thermo_badge": "Termo",
+        "benefits_title": "Korzyści z produktu",
+        "code_label": "KOD",
+        "config_header": "Konfiguracja elementu",
+        "quote_title": "Wycena indywidualna",
+        "quote_desc": "Cena zależy od wielkości zamówienia oraz specyfikacji technicznej.",
+        "ask_price_btn": "Zapytaj o cenę",
+        "unavailable_combination": "Ta kombinacja parametrów nie jest dostępna w produkcji seryjnej. Zmień parametry.",
+        "unavailable_option": " (Niedostępne)",
+        "attributes": {
+            "chimneyType": "System kominowy",
+            "steelGrade": "Gatunek stali",
+            "steelThickness": "Grubość stali",
+            "execution": "Wersja materiałowa",
+            "insulation": "Izolacja",
+            "diameter": "Średnica"
+        }
+    }
+}
