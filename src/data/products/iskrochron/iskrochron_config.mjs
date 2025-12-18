@@ -65,20 +65,7 @@ addVariants('single', 'ais321', 't08', 'nerzh', null, diams_Single_321_08);
 
 const finalObject = {
     baseCode: "IS-05",
-    name: "Iskrochron Siatkowy",
-    description: "Specjalistyczne zakończenie komina wyposażone w siatkę, która zatrzymuje rozżarzone cząstki. Niezbędny przy dachach wykonanych z materiałów łatwopalnych.",
     baseImage: "/assets/iskrochron.png",
-    benefits: [
-        {
-            title: "Bezpieczeństwo pożarowe",
-            text: "Skutecznie rozbija i wygasza iskry wydobywające się z przewodu kominowego, chroniąc dach i otoczenie przed zapłonem."
-        },
-        {
-            title: "Wymóg prawny",
-            text: "Stosowanie iskrochronu jest obowiązkowe w przypadku budynków z pokryciem dachowym palnym (np. strzecha, gont drewniany)."
-        }
-    ],
-
     applicableAttributes: [
         'steelGrade', 
         'steelThickness',

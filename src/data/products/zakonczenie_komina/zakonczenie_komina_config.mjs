@@ -154,19 +154,7 @@ addVariants('thermo', 'ais321', 't10', 'nerzh_nerzh', 'iso50', diams_Thermo_321_
 
 const finalObject = {
     baseCode: "ZK-07",
-    name: "Zakończenie Komina",
-    description: "Estetyczny element wieńczący wylot komina. Zabezpiecza krawędź rury i nadaje całej instalacji profesjonalny, wykończony wygląd.",
     baseImage: "/assets/zakonczenie_komina.png",
-    benefits: [
-        {
-            title: "Estetyka wykonania",
-            text: "Precyzyjnie wykonany element maskuje krawędzie przewodów kominowych, zapewniając schludne zwieńczenie sytemu na dachu."
-        },
-        {
-            title: "Ochrona mechaniczna",
-            text: "Sztywna konstrukcja ze stali nierdzewnej wzmacnia wylot rury, chroniąc go przed odkształceniami i uszkodzeniami mechanicznymi."
-        }
-    ],
 
     applicableAttributes: [
         'chimneyType', 'steelGrade', 'steelThickness',

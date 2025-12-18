@@ -154,7 +154,7 @@ const ProductConfigurator = ({ productData }) => {
                                 animate={{ opacity: 1, scale: 1 }}
                                 transition={{ duration: 0.5 }}
                                 src={productData.baseImage}
-                                alt={productData.name}
+                                alt={productData.baseImage}
                                 className="max-h-[300px] w-auto object-contain will-change-transform"
                             />
                             {isThermo && (
@@ -185,7 +185,7 @@ const ProductConfigurator = ({ productData }) => {
                         </span>
 
                         <h1 className="text-3xl md:text-4xl font-black text-white uppercase tracking-tight mb-4 leading-none">
-                            {t(`catalog.products.${productData.baseCode}`, productData.name)}
+                            {productData.name}
                         </h1>
 
                         <p className="text-[#A0AEC0] text-sm leading-relaxed max-w-2xl">

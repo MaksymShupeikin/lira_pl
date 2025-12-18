@@ -89,27 +89,370 @@
       "section-3": "Base (Boiler Room)"
     },
     "products": {
-      "DF-01": "Deflector",
-      "NK-02": "Rotating Cowl \"Rooster\"",
-      "WW-03": "Volper Vent",
-      "PG-04": "Rain Cap / Mushroom",
-      "IS-05": "Spark Arrestor Mesh",
-      "US-06": "Mouthpiece / Cone",
-      "ZK-07": "Chimney Termination",
-      "SO-08": "Protective Mesh",
-      "RP-100": "Straight Pipe 1m",
-      "KL-90": "Elbow 45°",
-      "OS-13": "Wall Bracket",
-      "PP-14": "Pass-through Plate",
-      "RM-15": "Masking Rosette",
-      "TR-90": "Tee 45°",
-      "WC-01": "Cleanout with Door",
-      "OD-18": "Condensate Trap (Funnel)",
-      "PW-19": "Support Plate",
-      "RD-20": "Reduction / Transition",
-      "SZ-21": "Chimney Damper",
-      "RA-22": "Radiator",
-      "WX-23": "Heat Exchanger"
+      "DF-01": {
+        "name": "Deflector",
+        "description": "Device mounted on the chimney top, designed to support chimney draft and protect the flue from precipitation.",
+        "benefits": [
+          {
+            "title": "Draft Stabilization",
+            "text": "The structure uses wind force to create negative pressure, effectively improving and stabilizing the chimney draft."
+          },
+          {
+            "title": "Wind Protection",
+            "text": "Protects the flue from downdrafts (katabatic winds), preventing smoke backflow into the building."
+          }
+        ]
+      },
+      "NK-02": {
+        "name": "Rotating Chimney Cowl \"Rooster\"",
+        "description": "Self-adjusting chimney cowl that always aligns with the wind direction. Uses wind force to support draft and protect the flue.",
+        "benefits": [
+          {
+            "title": "Maximum Efficiency",
+            "text": "Thanks to the bearing construction, the cowl rotates smoothly, positioning itself away from the wind and creating negative pressure that effectively extracts exhaust gases."
+          },
+          {
+            "title": "Backdraft Protection",
+            "text": "Special design completely shields the chimney outlet from downdrafts, eliminating the risk of backdraft and smoke entering the room."
+          }
+        ]
+      },
+      "WW-03": {
+        "name": "Volpert Chimney Cowl",
+        "description": "Cylindrical chimney cowl using wind energy to support draft. Protects the flue from precipitation and stabilizes ventilation.",
+        "benefits": [
+          {
+            "title": "Effective Ventilation",
+            "text": "Structure with vertical slats creates negative pressure with every gust of wind, effectively extracting stale air or exhaust gases from the chimney."
+          },
+          {
+            "title": "Compact Design",
+            "text": "No moving parts make it failure-free, silent, and resistant to harsh weather conditions, ideal for gravity ventilation."
+          }
+        ]
+      },
+      "PG-04": {
+        "name": "Rain Cap / Mushroom Cowl",
+        "description": "Classic chimney system termination, protecting the flue from precipitation. Ensures free exhaust gas outlet.",
+        "benefits": [
+          {
+            "title": "Rain Protection",
+            "text": "Effectively protects the chimney interior from rain and snow, preventing dampness and flue corrosion."
+          },
+          {
+            "title": "Minimal Resistance",
+            "text": "Open design does not disturb the chimney draft, allowing for free and safe discharge of exhaust gases into the atmosphere."
+          }
+        ]
+      },
+      "IS-05": {
+        "name": "Mesh Spark Arrestor",
+        "description": "Specialized chimney termination equipped with a mesh that stops glowing particles. Essential for roofs made of flammable materials.",
+        "benefits": [
+          {
+            "title": "Fire Safety",
+            "text": "Effectively breaks up and extinguishes sparks emerging from the flue, protecting the roof and surroundings from ignition."
+          },
+          {
+            "title": "Legal Requirement",
+            "text": "Using a spark arrestor is mandatory for buildings with flammable roofing (e.g., thatch, wooden shingles)."
+          }
+        ]
+      },
+      "US-06": {
+        "name": "Mouthpiece / Cone",
+        "description": "Element closing the upper part of the double-wall (insulated) chimney. Shields the insulation layer from precipitation.",
+        "benefits": [
+          {
+            "title": "Insulation Protection",
+            "text": "Tightly seals the space between the inner pipe and the outer jacket, preventing the mineral wool from getting wet."
+          },
+          {
+            "title": "Aesthetic Finish",
+            "text": "Provides an elegant and professional termination of the chimney system, ensuring its durability and tightness."
+          }
+        ]
+      },
+      "ZK-07": {
+        "name": "Chimney Termination",
+        "description": "Aesthetic element crowning the chimney outlet. Secures the pipe edge and gives the entire installation a professional, finished look.",
+        "benefits": [
+          {
+            "title": "Aesthetic Execution",
+            "text": "Precisely made element masks the edges of chimney flues, ensuring a neat system termination on the roof."
+          },
+          {
+            "title": "Mechanical Protection",
+            "text": "Rigid stainless steel construction reinforces the pipe outlet, protecting it from deformation and mechanical damage."
+          }
+        ]
+      },
+      "SO-08": {
+        "name": "Protective Screen",
+        "description": "Element securing the chimney outlet against birds, leaves, and other debris. Guarantees flue patency.",
+        "benefits": [
+          {
+            "title": "Bird Protection",
+            "text": "Effective physical barrier prevents birds from nesting inside the chimney, avoiding dangerous blockages and carbon monoxide poisoning."
+          },
+          {
+            "title": "Free Flow",
+            "text": "Appropriately selected mesh size ensures free exhaust discharge and ventilation while stopping larger debris."
+          }
+        ]
+      },
+      "RP-100": {
+        "name": "Straight Pipe 1m",
+        "description": "Basic element of the chimney system, 1 meter long. Ensures quick and stable installation of straight chimney sections.",
+        "benefits": [
+          {
+            "title": "High Resistance",
+            "text": "Made of high-quality stainless steel, resistant to aggressive environments, acids, and condensate."
+          },
+          {
+            "title": "Heat Resistance",
+            "text": "Withstands temperatures up to 800°C, ideal for fireplaces, stoves, and solid fuel boilers."
+          }
+        ]
+      },
+      "RP-050": {
+        "name": "Straight Pipe 0.5m",
+        "description": "Chimney element, 0.5 meters long. Used for precise adjustment of chimney height when a full section is too long.",
+        "benefits": [
+          {
+            "title": "High Resistance",
+            "text": "Made of high-quality stainless steel, resistant to acids and condensate."
+          },
+          {
+            "title": "Heat Resistance",
+            "text": "Resistant to temperatures up to 800°C, safe for any type of boiler."
+          }
+        ]
+      },
+      "RP-030": {
+        "name": "Straight Pipe 0.3m",
+        "description": "Short element, 0.3 meters long. Ideal for connecting and fitting sections in limited spaces.",
+        "benefits": [
+          {
+            "title": "High Resistance",
+            "text": "Stainless steel ensures long service life."
+          },
+          {
+            "title": "Universality",
+            "text": "Fits all single-wall and double-wall systems."
+          }
+        ]
+      },
+      "RP-025": {
+        "name": "Straight Pipe 0.25m",
+        "description": "The shortest section (0.25m) for precise adjustment of the flue or chimney liner length.",
+        "benefits": [
+          {
+            "title": "Precision",
+            "text": "Allows for accurate adjustment of the installation length."
+          },
+          {
+            "title": "Durability",
+            "text": "Resistant to corrosion and high temperatures."
+          }
+        ]
+      },
+      "KL-45": {
+        "name": "Elbow 45°",
+        "description": "Element used to change the direction of the flue by 45 degrees. Allows for bypassing obstacles.",
+        "benefits": [
+          {
+            "title": "Precision Execution",
+            "text": "Laser-cut and plasma-welded for perfect tightness."
+          },
+          {
+            "title": "Easy Assembly",
+            "text": "Socket system ensures fast connection."
+          }
+        ]
+      },
+      "KL-90": {
+        "name": "Elbow 90°",
+        "description": "Element used to change the direction of the flue by 90 degrees. Consists of adjustable segments.",
+        "benefits": [
+          {
+            "title": "Precision Execution",
+            "text": "Laser-cut and plasma-welded for perfect tightness."
+          },
+          {
+            "title": "Easy Assembly",
+            "text": "Socket system ensures fast connection."
+          }
+        ]
+      },
+      "OS-13": {
+        "name": "Wall Bracket",
+        "description": "Element fastening the chimney to the wall. Ensures structural stability, preventing displacement.",
+        "benefits": [
+          {
+            "title": "Stability",
+            "text": "Secure fastening of chimney elements to the facade or support structure."
+          },
+          {
+            "title": "Adjustment",
+            "text": "Allows adjustment of the distance from the wall (when using appropriate extensions)."
+          }
+        ]
+      },
+      "PP-14": {
+        "name": "Pass-through Plate",
+        "description": "Element masking the passage of the double-wall chimney through walls or ceilings. Provides an aesthetic finish and covers the mounting hole.",
+        "benefits": [
+          {
+            "title": "Aesthetics",
+            "text": "Masks irregularities of the hole in the wall or ceiling, giving the installation a professional look."
+          },
+          {
+            "title": "Safety",
+            "text": "Made of non-flammable material, acts as an additional shield at the passage through building partitions."
+          }
+        ]
+      },
+      "TR-45": {
+        "name": "Tee 45°",
+        "description": "Element allowing connection of a heating device to the chimney at a 45-degree angle. Ensures optimal exhaust flow and better draft.",
+        "benefits": [
+          {
+            "title": "Smooth Flow",
+            "text": "45-degree inclination angle minimizes exhaust flow resistance, supporting chimney draft."
+          },
+          {
+            "title": "TIG Welding",
+            "text": "Highest quality argon-shielded welded joints guarantee tightness and safety."
+          }
+        ]
+      },
+      "TR-90": {
+        "name": "Tee 90°",
+        "description": "Standard element connecting the flue pipe to the chimney at a right angle. Enables easy connection of a boiler or fireplace.",
+        "benefits": [
+          {
+            "title": "Universality",
+            "text": "Fits most standard boiler and fireplace insert connections."
+          },
+          {
+            "title": "TIG Welding",
+            "text": "Guarantee of durability and tightness of connections thanks to professional welding."
+          }
+        ]
+      },
+      "WC-01": {
+        "name": "Cleanout / Inspection Door",
+        "description": "Element enabling access to the chimney interior for cleaning and inspection. Equipped with a tight door.",
+        "benefits": [
+          {
+            "title": "Service Access",
+            "text": "Essential for periodic soot cleaning and inspection of the flue condition."
+          },
+          {
+            "title": "Tightness",
+            "text": "Doors (insulated in the thermo version) ensure safety and no heat loss."
+          }
+        ]
+      },
+      "OD-18": {
+        "name": "Condensate Collector / Drain",
+        "description": "Element mounted at the bottom of the chimney. Used to drain condensate formed during the combustion process.",
+        "benefits": [
+          {
+            "title": "Boiler Protection",
+            "text": "Prevents acidic condensate from flowing back into the heating device."
+          },
+          {
+            "title": "System Hygiene",
+            "text": "Enables easy and controlled moisture removal from the flue."
+          }
+        ]
+      },
+      "PW-19": {
+        "name": "Support Plate",
+        "description": "Starting element of the chimney mounted on a foundation or bracket. Enables installation of the cleanout tee and condensate drainage.",
+        "benefits": [
+          {
+            "title": "Stable Start",
+            "text": "Provides a solid foundation for the entire vertical chimney stack mounted from the floor."
+          },
+          {
+            "title": "Acid Resistance",
+            "text": "Made entirely of acid-resistant steel 304, guaranteeing longevity."
+          }
+        ]
+      },
+      "RD-20": {
+        "name": "Reducer / Adapter",
+        "description": "Element connecting pipes of different diameters. Essential when changing flue diameter or connecting to a heating device.",
+        "benefits": [
+          {
+            "title": "Fit",
+            "text": "Enables tight connection of elements with different dimensions."
+          },
+          {
+            "title": "Durability",
+            "text": "Made of acid-resistant stainless steel, guaranteeing long service life."
+          }
+        ]
+      },
+      "SZ-21": {
+        "name": "Chimney Damper",
+        "description": "Element used to regulate chimney draft. Allows closing the flue pipe after the stove goes out.",
+        "benefits": [
+          {
+            "title": "Heat Saving",
+            "text": "Prevents warm air from being drawn out of the room through the chimney when the stove is not working."
+          },
+          {
+            "title": "Draft Regulation",
+            "text": "Allows manual control of combustion intensity by changing exhaust flow."
+          }
+        ]
+      },
+      "RA-050": {
+        "name": "Radiator 0.5m",
+        "description": "Element increasing the heating surface of the chimney (0.5m). Recovers heat from exhaust gases, additionally heating the room.",
+        "benefits": [
+          {
+            "title": "Heat Recovery",
+            "text": "Thanks to ribbing, significantly increases heat emission surface, raising heating efficiency."
+          },
+          {
+            "title": "Savings",
+            "text": "Allows better use of combustion energy, resulting in lower fuel consumption."
+          }
+        ]
+      },
+      "RA-100": {
+        "name": "Radiator 1m",
+        "description": "Long radiator element (1m) maximizing heat recovery from the chimney system. Ideal for high rooms.",
+        "benefits": [
+          {
+            "title": "Heat Recovery",
+            "text": "Significantly increases the heating surface of the chimney."
+          },
+          {
+            "title": "Savings",
+            "text": "Maximum utilization of exhaust thermal energy."
+          }
+        ]
+      },
+      "WX-23": {
+        "name": "Water Heat Exchanger 14L (AISI 321 1mm)",
+        "description": "Effective element for heating water using exhaust heat. Tank capacity 14 liters.\n\nThe set consists of three parts:\n1. Smoke pipe 1m (d120mm, 1mm, AISI 321);\n2. Water jacket 0.6m (d220mm, 1mm, AISI 321);\n3. Reducer d120-/120+ (1mm, AISI 321).",
+        "benefits": [
+          {
+            "title": "Energy Saving",
+            "text": "Allows obtaining 14 liters of hot water by utilizing heat that normally escapes through the chimney."
+          },
+          {
+            "title": "Reliable Materials",
+            "text": "All elements made of heat-resistant stainless steel AISI 321, 1mm thick."
+          }
+        ]
+      }
     }
   },
   "product_page": {

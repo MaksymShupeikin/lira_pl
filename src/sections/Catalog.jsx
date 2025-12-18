@@ -201,7 +201,7 @@ const Catalog = () => {
                                 <motion.div key={product.code} variants={cardVariants}>
                                     <ProductCard
                                         code={product.code}
-                                        name={t(`catalog.products.${product.code}`)}
+                                        name={t(`catalog.products.${product.code}.name`)}
                                         image={product.image}
                                     />
                                 </motion.div>

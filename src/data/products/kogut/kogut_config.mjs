@@ -49,20 +49,7 @@ addVariants('single', 'ais304', 't05', 'nerzh', null, diams_Single_304_05);
 
 const finalObject = {
     baseCode: "NK-02",
-    name: "Nasada Obrotowa \"Kogut\"",
-    description: "Samonastawna nasada kominowa, która ustawia się zawsze w kierunku wiejącego wiatru. Wykorzystuje jego siłę do wspomagania ciągu i ochrony przewodu kominowego.",
     baseImage: "/assets/kogut.png",
-    benefits: [
-        {
-            title: "Maksymalna wydajność",
-            text: "Dzięki łożyskowanej konstrukcji nasada obraca się płynnie, ustawiając się tyłem do wiatru i wytwarzając podciśnienie, które skutecznie wysysa spaliny."
-        },
-        {
-            title: "Ochrona przed cofką",
-            text: "Specjalna budowa całkowicie zasłania wylot komina przed wiatrem opadającym, eliminując ryzyko ciągu wstecznego i zadymienia pomieszczeń."
-        }
-    ],
-
     applicableAttributes: [
         'steelGrade',
         'steelThickness',

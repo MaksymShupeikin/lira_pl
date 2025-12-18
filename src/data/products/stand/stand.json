@@ -1,22 +1,6 @@
 {
   "baseCode": "PO-16",
-  "name": "Podstawa / Podpora",
-  "description": "Element startowy komina (na fundamencie). Umożliwia montaż trójnika wyczystkowego i odprowadzenie kondensatu (przy zastosowaniu lejka).",
   "baseImage": "/assets/plyta_wspornikowa.png",
-  "benefits": [
-    {
-      "title": "Stabilny start",
-      "text": "Stanowi solidną podstawę dla całego pionu kominowego montowanego od podłogi."
-    },
-    {
-      "title": "Odporność kwasowa",
-      "text": "Wykonana w całości ze stali kwasoodpornej 304, co gwarantuje długowieczność."
-    },
-    {
-      "title": "Izolacja",
-      "text": "Wersja izolowana zapobiega wychładzaniu spalin w dolnej części komina."
-    }
-  ],
   "applicableAttributes": [
     "steelGrade",
     "steelThickness",

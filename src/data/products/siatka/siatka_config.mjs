@@ -70,19 +70,7 @@ addVariants('single', 'ais321', 't10', 'nerzh', null, diams_Single_321_10);
 
 const finalObject = {
     baseCode: "SO-08",
-    name: "Siatka Ochronna",
-    description: "Element zabezpieczający wylot komina przed ptactwem, liśćmi oraz innymi zanieczyszczeniami. Gwarantuje drożność przewodu kominowego.",
     baseImage: "/assets/siatka.png",
-    benefits: [
-        {
-            title: "Ochrona przed ptakami",
-            text: "Skuteczna bariera fizyczna uniemożliwia ptakom zakładanie gniazd wewnątrz komina, zapobiegając niebezpiecznym zatorom i zatruciom czadem."
-        },
-        {
-            title: "Swobodny przepływ",
-            text: "Odpowiednio dobrana wielkość oczek zapewnia swobodny wyrzut spalin i wentylację, jednocześnie zatrzymując większe zanieczyszczenia."
-        }
-    ],
 
     applicableAttributes: [
         'steelGrade',

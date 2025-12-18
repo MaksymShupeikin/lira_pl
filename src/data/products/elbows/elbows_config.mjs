@@ -187,16 +187,12 @@ const products = [
         filename: 'elbow45.json',
         angle: '45',
         baseCode: 'KL-45',
-        name: "Kolano 45°",
-        description: "Element służący do zmiany kierunku przewodu kominowego o kąt 45 stopni. Umożliwia omijanie przeszkód.",
         image: "/assets/kolano.png"
     },
     {
         filename: 'elbow90.json',
         angle: '90',
         baseCode: 'KL-90',
-        name: "Kolano 90°",
-        description: "Element służący do zmiany kierunku przewodu kominowego o kąt 90 stopni. Składa się z segmentów regulowanych.",
         image: "/assets/kolano90.png"
     }
 ];
@@ -206,23 +202,7 @@ products.forEach(prod => {
     
     const finalObject = {
         baseCode: prod.baseCode,
-        name: prod.name,
-        description: prod.description,
         baseImage: prod.image,
-        benefits: [
-            {
-                title: "Precyzja wykonania",
-                text: "Wszystkie elementy są cięte laserowo i spawane plazmowo, co zapewnia idealną szczelność."
-            },
-            {
-                title: "Łatwy montaż",
-                text: "System kielichowy pozwala na szybkie i stabilne łączenie elementów."
-            },
-            {
-                title: "Trwałość",
-                text: "Wysoka odporność na działanie kwasów i wysokich temperatur."
-            }
-        ],
         applicableAttributes: [
             'chimneyType', 'steelGrade', 'steelThickness',
             'execution', 'insulation', 'diameter'

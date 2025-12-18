@@ -118,29 +118,21 @@ const products = [
     {
         filename: 'pipe1m.json',
         baseCode: 'RP-100',
-        name: "Rura Prosta 1m",
-        description: "Основний елемент димохідної системи довжиною 1 метр. Забезпечує швидкий монтаж прямих ділянок.",
         image: "/assets/rura.png"
     },
     {
         filename: 'pipe05m.json',
         baseCode: 'RP-050',
-        name: "Rura Prosta 0.5m",
-        description: "Елемент димоходу довжиною 0.5 метра. Використовується для точного підбору висоти димоходу.",
         image: "/assets/rura5.png"
     },
     {
         filename: 'pipe03m.json',
         baseCode: 'RP-030',
-        name: "Rura Prosta 0.3m",
-        description: "Короткий елемент довжиною 0.3 метра для з'єднання та підгонки ділянок димоходу.",
         image: "/assets/rura3.png"
     },
     {
         filename: 'pipe025m.json',
         baseCode: 'RP-025',
-        name: "Rura Prosta 0.25m",
-        description: "Найкоротший елемент (0.25м) для точного регулювання висоти системи.",
         image: "/assets/rura25.png"
     }
 ];
@@ -148,26 +140,10 @@ const products = [
 
 products.forEach(prod => {
     const variants = generateVariants(prod.baseCode);
-    
+
     const finalObject = {
         baseCode: prod.baseCode,
-        name: prod.name,
-        description: prod.description,
         baseImage: prod.image,
-        benefits: [
-            {
-                title: "Wysoka odporność na korozję",
-                text: "Wykonana z wysokiej jakości stali nierdzewnej, odpornej na działanie agresywnych środowisk, kwasów i kondensatu."
-            },
-            {
-                title: "Żaroodporność",
-                text: "Wytrzymuje temperatury do 800°C, idealna do kominków, pieców oraz kotłów na paliwo stałe."
-            },
-            {
-                title: "Szczelność systemu",
-                text: "Precyzyjne połączenia kielichowe gwarantują szczelność i łatwość montażu."
-            }
-        ],
         applicableAttributes: [
             'chimneyType', 'steelGrade', 'steelThickness',
             'execution', 'insulation', 'diameter'

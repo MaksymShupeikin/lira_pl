@@ -1,5 +1,5 @@
 import fs from 'fs';
-
+// node src/data/products/stand/stand_config.mjs
 
 const diams_304_t05 = [
     '100/160', '110/180', '120/180', '130/200', '140/200', 
@@ -53,8 +53,6 @@ const generateVariants = () => {
 const product = {
     filename: 'stand.json',
     baseCode: 'PO-16',
-    name: "Podstawa / Podpora",
-    description: "Element startowy komina (na fundamencie). Umożliwia montaż trójnika wyczystkowego i odprowadzenie kondensatu (przy zastosowaniu lejka).",
     image: "/assets/plyta_wspornikowa.png"
 };
 
@@ -63,23 +61,8 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Stabilny start",
-            text: "Stanowi solidną podstawę dla całego pionu kominowego montowanego od podłogi."
-        },
-        {
-            title: "Odporność kwasowa",
-            text: "Wykonana w całości ze stali kwasoodpornej 304, co gwarantuje długowieczność."
-        },
-        {
-            title: "Izolacja",
-            text: "Wersja izolowana zapobiega wychładzaniu spalin w dolnej części komina."
-        }
-    ],
+
     applicableAttributes: [
         'steelGrade', 
         'steelThickness',

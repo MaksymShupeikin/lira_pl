@@ -153,19 +153,7 @@ addVariants('thermo', 'ais321', 't10', 'nerzh_nerzh', 'iso30', diams_Thermo_321_
 
 const finalObject = {
     baseCode: "PG-04",
-    name: "Parasol / Grzybek",
-    description: "Klasyczne zakończenie systemu kominowego, chroniące przewód przed opadami atmosferycznymi. Zapewnia swobodny wylot spalin.",
     baseImage: "/assets/grzybek.png",
-    benefits: [
-        {
-            title: "Ochrona przed opadami",
-            text: "Skutecznie zabezpiecza wnętrze komina przed deszczem i śniegiem, zapobiegając zawilgoceniu i korozji przewodu."
-        },
-        {
-            title: "Minimalny opór",
-            text: "Otwarta konstrukcja nie zakłóca ciągu kominowego, umożliwiając swobodny i bezpieczny wyrzut spalin do atmosfery."
-        }
-    ],
 
     applicableAttributes: [
         'chimneyType',

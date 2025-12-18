@@ -55,8 +55,6 @@ const generateVariants = () => {
 const product = {
     filename: 'reducer.json',
     baseCode: 'RD-20',
-    name: "Redukcja / Przejście (Перехідник)",
-    description: "Element łączący rury o różnych średnicach. Niezbędny przy zmianie średnicy przewodu kominowego lub podłączeniu do urządzenia grzewczego.",
     image: "/assets/redukcja.png"
 };
 
@@ -65,23 +63,8 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Dopasowanie",
-            text: "Umożliwia szczelne połączenie elementów o różnych wymiarach."
-        },
-        {
-            title: "Trwałość",
-            text: "Wykonana z kwasoodpornej stali nierdzewnej, gwarantującej długą żywotność."
-        },
-        {
-            title: "Uniwersalność",
-            text: "Dostępna w szerokim zakresie średnic dla każdego typu instalacji."
-        }
-    ],
+    
     applicableAttributes: [
         'steelGrade', 'steelThickness',
         'execution', 'diameter'

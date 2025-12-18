@@ -76,25 +76,11 @@ addVariants('single', 'ais321', 't10', 'nerzh', null, diams_Single_321_1);
 
 const finalObject = {
     baseCode: "DF-01",
-    name: "Deflektor",
-    description: "Urządzenie montowane na szczycie komina, służące do wspomagania ciągu kominowego oraz ochrony przewodu przed opadami atmosferycznymi.",
     baseImage: "/assets/deflektor.png",
-    benefits: [
-        {
-            title: "Stabilizacja ciągu",
-            text: "Konstrukcja wykorzystuje siłę wiatru do wytworzenia podciśnienia, co skutecznie poprawia i stabilizuje ciąg w kominie."
-        },
-        {
-            title: "Ochrona przed wiatrem",
-            text: "Chroni przewód kominowy przed wiatrem opadającym (fenowym), zapobiegając cofaniu się dymu do wnętrza budynku."
-        }
-    ],
-
     applicableAttributes: [
         'steelGrade', 'steelThickness',
         'execution', 'diameter'
     ],
-
     defaultSelections: {
         chimneyType: 'single',
         steelGrade: 'ais304',

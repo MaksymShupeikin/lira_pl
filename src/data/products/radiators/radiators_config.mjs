@@ -53,16 +53,12 @@ const products = [
         filename: 'radiator05m.json',
         length: '0.5m',
         baseCode: 'RA-050',
-        name: "Radiator 0.5m (Радіатор 0.5м)",
-        description: "Element zwiększający powierzchnię grzewczą komina (0.5m). Odzyskuje ciepło ze spalin, ogrzewając pomieszczenie.",
         image: "/assets/radiator.png"
     },
     {
         filename: 'radiator1m.json',
         length: '1m',
         baseCode: 'RA-100',
-        name: "Radiator 1m (Радіатор 1м)",
-        description: "Długi element radiatorowy (1m) maksymalizujący odzysk ciepła z systemu kominowego.",
         image: "/assets/radiator.png"
     }
 ];
@@ -72,23 +68,8 @@ products.forEach(prod => {
 
     const finalObject = {
         baseCode: prod.baseCode,
-        name: prod.name,
-        description: prod.description,
         baseImage: prod.image,
-        benefits: [
-            {
-                title: "Odzysk ciepła",
-                text: "Dzięki ożebrowaniu znacznie zwiększa powierzchnię oddawania ciepła, podnosząc efektywność ogrzewania."
-            },
-            {
-                title: "Oszczędność",
-                text: "Pozwala lepiej wykorzystać energię spalania, co przekłada się na niższe zużycie opału."
-            },
-            {
-                title: "Trwałość",
-                text: "Wykonany z wysokogatunkowej stali nierdzewnej, odpornej na wysokie temperatury."
-            }
-        ],
+        
         applicableAttributes: [
             'steelGrade', 'steelThickness',
             'execution', 'diameter'

@@ -1,22 +1,6 @@
 {
   "baseCode": "RA-050",
-  "name": "Radiator 0.5m (Радіатор 0.5м)",
-  "description": "Element zwiększający powierzchnię grzewczą komina (0.5m). Odzyskuje ciepło ze spalin, ogrzewając pomieszczenie.",
   "baseImage": "/assets/radiator.png",
-  "benefits": [
-    {
-      "title": "Odzysk ciepła",
-      "text": "Dzięki ożebrowaniu znacznie zwiększa powierzchnię oddawania ciepła, podnosząc efektywność ogrzewania."
-    },
-    {
-      "title": "Oszczędność",
-      "text": "Pozwala lepiej wykorzystać energię spalania, co przekłada się na niższe zużycie opału."
-    },
-    {
-      "title": "Trwałość",
-      "text": "Wykonany z wysokogatunkowej stali nierdzewnej, odpornej na wysokie temperatury."
-    }
-  ],
   "applicableAttributes": [
     "steelGrade",
     "steelThickness",

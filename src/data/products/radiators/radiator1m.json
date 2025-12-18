@@ -1,22 +1,6 @@
 {
   "baseCode": "RA-100",
-  "name": "Radiator 1m (Радіатор 1м)",
-  "description": "Długi element radiatorowy (1m) maksymalizujący odzysk ciepła z systemu kominowego.",
   "baseImage": "/assets/radiator.png",
-  "benefits": [
-    {
-      "title": "Odzysk ciepła",
-      "text": "Dzięki ożebrowaniu znacznie zwiększa powierzchnię oddawania ciepła, podnosząc efektywność ogrzewania."
-    },
-    {
-      "title": "Oszczędność",
-      "text": "Pozwala lepiej wykorzystać energię spalania, co przekłada się na niższe zużycie opału."
-    },
-    {
-      "title": "Trwałość",
-      "text": "Wykonany z wysokogatunkowej stali nierdzewnej, odpornej na wysokie temperatury."
-    }
-  ],
   "applicableAttributes": [
     "steelGrade",
     "steelThickness",

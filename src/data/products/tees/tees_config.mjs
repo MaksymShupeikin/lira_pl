@@ -1,6 +1,6 @@
 import fs from 'fs';
 // node src/data/products/tees/tees_config.mjs
-
+``
 
 const single_201_t05_45 = [100, 110, 120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
 const single_201_t08_45 = [120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
@@ -184,42 +184,22 @@ const products = [
         filename: 'tee45.json',
         angle: '45',
         baseCode: 'TR-45',
-        name: "Trójnik 45° (Трійник 45°)",
-        description: "Використовується для з'єднання димоходу з опалювальним приладом під кутом 45 градусів. Забезпечує кращу тягу.",
         image: "/assets/trojnik.png"
     },
     {
         filename: 'tee90.json',
         angle: '90',
-        baseCode: 'TR-87',
-        name: "Trójnik 87°",
-        description: "Класичний трійник для підключення димоходу під прямим кутом. Має ревізійний отвір.",
+        baseCode: 'TR-90',
         image: "/assets/trojnik87.png"
     }
 ];
 
 products.forEach(prod => {
     const variants = generateVariants(prod.angle);
-    
+
     const finalObject = {
         baseCode: prod.baseCode,
-        name: prod.name,
-        description: prod.description,
         baseImage: prod.image,
-        benefits: [
-            {
-                title: "Універсальність підключення",
-                text: "Дозволяє легко підключити котел або камін до основного димоходу."
-            },
-            {
-                title: "Зварювання TIG",
-                text: "Всі шви зварені методом TIG в середовищі аргону, що гарантує міцність та герметичність."
-            },
-            {
-                title: "Ідеальна геометрія",
-                text: "Лазерний розкрій металу забезпечує точні розміри та легку збірку."
-            }
-        ],
         applicableAttributes: [
             'chimneyType', 'steelGrade', 'steelThickness',
             'execution', 'insulation', 'diameter'

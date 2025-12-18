@@ -49,27 +49,13 @@ addVariants('single', 'ais304', 't05', 'nerzh', null, diams_Single_304_05);
 
 const finalObject = {
     baseCode: "WW-03",
-    name: "Wywietrznik Wołper",
-    description: "Cylindryczna nasada kominowa wykorzystująca energię wiatru do wspomagania ciągu. Chroni przewód przed opadami i stabilizuje wentylację.",
     baseImage: "/assets/wolper.png",
-    benefits: [
-        {
-            title: "Skuteczna wentylacja",
-            text: "Konstrukcja z pionowymi lamelami tworzy podciśnienie przy każdym powiewie wiatru, skutecznie wysysając zużyte powietrze lub spaliny z komina."
-        },
-        {
-            title: "Kompaktowa budowa",
-            text: "Brak elementów ruchomych sprawia, że jest bezawaryjny, cichy i odporny na trudne warunki atmosferyczne, idealny do wentylacji grawitacyjnej."
-        }
-    ],
-
     applicableAttributes: [
         'steelGrade', 
         'steelThickness',
         'execution', 
         'diameter'
     ],
-
     defaultSelections: {
         chimneyType: 'single',
         steelGrade: 'ais304',

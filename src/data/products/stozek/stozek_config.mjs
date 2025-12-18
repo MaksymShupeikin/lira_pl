@@ -130,22 +130,9 @@ addVariants('thermo', 'ais321', 't10', 'nerzh_nerzh', 'iso50', diams_Thermo_321_
 
 const finalObject = {
     baseCode: "US-06",
-    name: "Ustnik / Stożek",
-    description: "Element zamykający górną część komina dwuściennego (izolowanego). Osłania warstwę izolacji przed opadami atmosferycznymi.",
     baseImage: "/assets/stozek.png",
-    benefits: [
-        {
-            title: "Ochrona izolacji",
-            text: "Szczelnie zamyka przestrzeń między rurą wewnętrzną a płaszczem zewnętrznym, zapobiegając zamoknięciu wełny mineralnej."
-        },
-        {
-            title: "Estetyczne wykończenie",
-            text: "Stanowi eleganckie i profesjonalne zwieńczenie systemu kominowego, zapewniając jego trwałość i szczelność."
-        }
-    ],
 
     applicableAttributes: [
-        'chimneyType',
         'steelGrade',
         'steelThickness',
         'execution',

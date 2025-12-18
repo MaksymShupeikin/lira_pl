@@ -89,33 +89,370 @@
             "section-3": "Baza (Kotłownia)"
         },
         "products": {
-            "DF-01": "Deflektor",
-            "NK-02": "Nasada Obrotowa \"Kogut\"",
-            "WW-03": "Wywietrznik Wołper",
-            "PG-04": "Parasol / Grzybek",
-            "IS-05": "Iskrochron Siatkowy",
-            "US-06": "Ustnik / Stożek",
-            "ZK-07": "Zakończenie Komina",
-            "SO-08": "Siatka Ochronna",
-            "RP-100": "Rura Prosta 1m",
-            "RP-050": "Rura Prosta 0.5m",
-            "RP-030": "Rura Prosta 0.3m",
-            "RP-025": "Rura Prosta 0.25m",
-            "KL-90": "Kolano 90°",
-            "KL-45": "Kolano 45°",
-            "OS-13": "Obejma Ścienna",
-            "PP-14": "Płyta Przelotowa",
-            "RM-15": "Rozeta Maskująca",
-            "TR-90": "Trójnik 90°",
-            "TR-45": "Trójnik 45°",
-            "WC-01": "Wyczystka z Drzwiczkami",
-            "OD-18": "Odskraplacz (Lejek)",
-            "PW-19": "Płyta Wspornikowa",
-            "RD-20": "Redukcja / Przejście",
-            "SZ-21": "Szyber Kominowy",
-            "RA-100": "Radiator 1m",
-            "RA-050": "Radiator 0.5m",
-            "WX-23": "Wymiennik Ciepła"
+            "DF-01": {
+                "name": "Deflektor",
+                "description": "Urządzenie montowane na szczycie komina, służące do wspomagania ciągu kominowego oraz ochrony przewodu przed opadami atmosferycznymi.",
+                "benefits": [
+                    {
+                        "title": "Stabilizacja ciągu",
+                        "text": "Konstrukcja wykorzystuje siłę wiatru do wytworzenia podciśnienia, co skutecznie poprawia i stabilizuje ciąg w kominie."
+                    },
+                    {
+                        "title": "Ochrona przed wiatrem",
+                        "text": "Chroni przewód kominowy przed wiatrem opadającym (fenowym), zapobiegając cofaniu się dymu do wnętrza budynku."
+                    }
+                ]
+            },
+            "NK-02": {
+                "name": "Nasada Obrotowa \"Kogut\"",
+                "description": "Samonastawna nasada kominowa, która ustawia się zawsze w kierunku wiejącego wiatru. Wykorzystuje jego siłę do wspomagania ciągu i ochrony przewodu kominowego.",
+                "benefits": [
+                    {
+                        "title": "Maksymalna wydajność",
+                        "text": "Dzięki łożyskowanej konstrukcji nasada obraca się płynnie, ustawiając się tyłem do wiatru i wytwarzając podciśnienie, które skutecznie wysysa spaliny."
+                    },
+                    {
+                        "title": "Ochrona przed cofką",
+                        "text": "Specjalna budowa całkowicie zasłania wylot komina przed wiatrem opadającym, eliminując ryzyko ciągu wstecznego i zadymienia pomieszczeń."
+                    }
+                ]
+            },
+            "WW-03": {
+                "name": "Wywietrznik Wołper",
+                "description": "Cylindryczna nasada kominowa wykorzystująca energię wiatru do wspomagania ciągu. Chroni przewód przed opadami i stabilizuje wentylację.",
+                "benefits": [
+                    {
+                        "title": "Skuteczna wentylacja",
+                        "text": "Konstrukcja z pionowymi lamelami tworzy podciśnienie przy każdym powiewie wiatru, skutecznie wysysając zużyte powietrze lub spaliny z komina."
+                    },
+                    {
+                        "title": "Kompaktowa budowa",
+                        "text": "Brak elementów ruchomych sprawia, że jest bezawaryjny, cichy i odporny na trudne warunki atmosferyczne, idealny do wentylacji grawitacyjnej."
+                    }
+                ]
+            },
+            "PG-04": {
+                "name": "Parasol / Grzybek",
+                "description": "Klasyczne zakończenie systemu kominowego, chroniące przewód przed opadami atmosferycznymi. Zapewnia swobodny wylot spalin.",
+                "benefits": [
+                    {
+                        "title": "Ochrona przed opadami",
+                        "text": "Skutecznie zabezpiecza wnętrze komina przed deszczem i śniegiem, zapobiegając zawilgoceniu i korozji przewodu."
+                    },
+                    {
+                        "title": "Minimalny opór",
+                        "text": "Otwarta konstrukcja nie zakłóca ciągu kominowego, umożliwiając swobodny i bezpieczny wyrzut spalin do atmosfery."
+                    }
+                ]
+            },
+            "IS-05": {
+                "name": "Iskrochron Siatkowy",
+                "description": "Specjalistyczne zakończenie komina wyposażone w siatkę, która zatrzymuje rozżarzone cząstki. Niezbędny przy dachach wykonanych z materiałów łatwopalnych.",
+                "benefits": [
+                    {
+                        "title": "Bezpieczeństwo pożarowe",
+                        "text": "Skutecznie rozbija i wygasza iskry wydobywające się z przewodu kominowego, chroniąc dach i otoczenie przed zapłonem."
+                    },
+                    {
+                        "title": "Wymóg prawny",
+                        "text": "Stosowanie iskrochronu jest obowiązkowe w przypadku budynków z pokryciem dachowym palnym (np. strzecha, gont drewniany)."
+                    }
+                ]
+            },
+            "US-06": {
+                "name": "Ustnik / Stożek",
+                "description": "Element zamykający górną część komina dwuściennego (izolowanego). Osłania warstwę izolacji przed opadami atmosferycznymi.",
+                "benefits": [
+                    {
+                        "title": "Ochrona izolacji",
+                        "text": "Szczelnie zamyka przestrzeń między rurą wewnętrzną a płaszczem zewnętrznym, zapobiegając zamoknięciu wełny mineralnej."
+                    },
+                    {
+                        "title": "Estetyczne wykończenie",
+                        "text": "Stanowi eleganckie i profesjonalne zwieńczenie systemu kominowego, zapewniając jego trwałość i szczelność."
+                    }
+                ]
+            },
+            "ZK-07": {
+                "name": "Zakończenie Komina",
+                "description": "Estetyczny element wieńczący wylot komina. Zabezpiecza krawędź rury i nadaje całej instalacji profesjonalny, wykończony wygląd.",
+                "benefits": [
+                    {
+                        "title": "Estetyka wykonania",
+                        "text": "Precyzyjnie wykonany element maskuje krawędzie przewodów kominowych, zapewniając schludne zwieńczenie sytemu na dachu."
+                    },
+                    {
+                        "title": "Ochrona mechaniczna",
+                        "text": "Sztywna konstrukcja ze stali nierdzewnej wzmacnia wylot rury, chroniąc go przed odkształceniami i uszkodzeniami mechanicznymi."
+                    }
+                ]
+            },
+            "SO-08": {
+                "name": "Siatka Ochronna",
+                "description": "Element zabezpieczający wylot komina przed ptactwem, liśćmi oraz innymi zanieczyszczeniami. Gwarantuje drożność przewodu kominowego.",
+                "benefits": [
+                    {
+                        "title": "Ochrona przed ptakami",
+                        "text": "Skuteczna bariera fizyczna uniemożliwia ptakom zakładanie gniazd wewnątrz komina, zapobiegając niebezpiecznym zatorom i zatruciom czadem."
+                    },
+                    {
+                        "title": "Swobodny przepływ",
+                        "text": "Odpowiednio dobrana wielkość oczek zapewnia swobodny wyrzut spalin i wentylację, jednocześnie zatrzymując większe zanieczyszczenia."
+                    }
+                ]
+            },
+            "RP-100": {
+                "name": "Rura Prosta 1m",
+                "description": "Podstawowy element systemu kominowego o długości 1 metra. Zapewnia szybki i stabilny montaż prostych odcinków komina.",
+                "benefits": [
+                    {
+                        "title": "Wysoka odporność",
+                        "text": "Wykonana z wysokiej jakości stali nierdzewnej, odpornej na działanie agresywnych środowisk, kwasów i kondensatu."
+                    },
+                    {
+                        "title": "Żaroodporność",
+                        "text": "Wytrzymuje temperatury do 800°C, idealna do kominków, pieców oraz kotłów na paliwo stałe."
+                    }
+                ]
+            },
+            "RP-050": {
+                "name": "Rura Prosta 0.5m",
+                "description": "Element kominowy o długości 0.5 metra. Stosowany do precyzyjnego dopasowania wysokości komina, gdy pełny odcinek jest za długi.",
+                "benefits": [
+                    {
+                        "title": "Wysoka odporność",
+                        "text": "Wykonana z wysokiej jakości stali nierdzewnej, odpornej na kwasy i kondensat."
+                    },
+                    {
+                        "title": "Żaroodporność",
+                        "text": "Odporna na temperatury do 800°C, bezpieczna dla każdego rodzaju kotła."
+                    }
+                ]
+            },
+            "RP-030": {
+                "name": "Rura Prosta 0.3m",
+                "description": "Krótki element o długości 0.3 metra. Idealny do łączenia i dopasowywania odcinków w miejscach o ograniczonej przestrzeni.",
+                "benefits": [
+                    {
+                        "title": "Wysoka odporność",
+                        "text": "Stal nierdzewna gwarantuje długą żywotność."
+                    },
+                    {
+                        "title": "Uniwersalność",
+                        "text": "Pasuje do wszystkich systemów jedno- i dwuściennych."
+                    }
+                ]
+            },
+            "RP-025": {
+                "name": "Rura Prosta 0.25m",
+                "description": "Najkrótszy odcinek (0.25m) do precyzyjnej regulacji długości czopucha lub wkładu kominowego.",
+                "benefits": [
+                    {
+                        "title": "Precyzja",
+                        "text": "Pozwala na dokładne dopasowanie długości instalacji."
+                    },
+                    {
+                        "title": "Trwałość",
+                        "text": "Odporna na korozję i wysokie temperatury."
+                    }
+                ]
+            },
+            "KL-45": {
+                "name": "Kolano 45°",
+                "description": "Element służący do zmiany kierunku przewodu kominowego o kąt 45 stopni. Umożliwia omijanie przeszkód.",
+                "benefits": [
+                    {
+                        "title": "Precyzja wykonania",
+                        "text": "Cięte laserowo i spawane plazmowo dla idealnej szczelności."
+                    },
+                    {
+                        "title": "Łatwy montaż",
+                        "text": "System kielichowy zapewnia szybkie łączenie."
+                    }
+                ]
+            },
+            "KL-90": {
+                "name": "Kolano 90°",
+                "description": "Element służący do zmiany kierunku przewodu kominowego o kąt 90 stopni. Składa się z regulowanych segmentów.",
+                "benefits": [
+                    {
+                        "title": "Precyzja wykonania",
+                        "text": "Cięte laserowo i spawane plazmowo dla idealnej szczelności."
+                    },
+                    {
+                        "title": "Łatwy montaż",
+                        "text": "System kielichowy zapewnia szybkie łączenie."
+                    }
+                ]
+            },
+            "OS-13": {
+                "name": "Obejma Ścienna",
+                "description": "Element mocujący komin do ściany. Zapewnia stabilność konstrukcji, zapobiegając jej przemieszczaniu się.",
+                "benefits": [
+                    {
+                        "title": "Stabilność",
+                        "text": "Pewne mocowanie elementów kominowych do elewacji lub konstrukcji wsporczej."
+                    },
+                    {
+                        "title": "Regulacja",
+                        "text": "Umożliwia korektę odległości od ściany (przy zastosowaniu odpowiednich przedłużek)."
+                    }
+                ]
+            },
+            "PP-14": {
+                "name": "Płyta Przelotowa",
+                "description": "Element maskujący przejście komina dwuściennego przez ściany lub stropy. Zapewnia estetyczne wykończenie i osłonę otworu montażowego.",
+                "benefits": [
+                    {
+                        "title": "Estetyka",
+                        "text": "Maskuje nierówności otworu w ścianie lub stropie, nadając instalacji profesjonalny wygląd."
+                    },
+                    {
+                        "title": "Bezpieczeństwo",
+                        "text": "Wykonana z materiału niepalnego, stanowi dodatkową osłonę w miejscu przejścia przez przegrody budowlane."
+                    }
+                ]
+            },
+            "TR-45": {
+                "name": "Trójnik 45°",
+                "description": "Element umożliwiający podłączenie urządzenia grzewczego do komina pod kątem 45 stopni. Zapewnia optymalny przepływ spalin i lepszy ciąg.",
+                "benefits": [
+                    {
+                        "title": "Płynny przepływ",
+                        "text": "Kąt nachylenia 45 stopni minimalizuje opory przepływu spalin, co wspomaga ciąg kominowy."
+                    },
+                    {
+                        "title": "Spawanie TIG",
+                        "text": "Najwyższa jakość połączeń spawanych w osłonie argonu gwarantuje szczelność i bezpieczeństwo."
+                    }
+                ]
+            },
+            "TR-90": {
+                "name": "Trójnik 90°",
+                "description": "Standardowy element łączący czopuch z kominem pod kątem prostym. Umożliwia łatwe podłączenie kotła lub kominka.",
+                "benefits": [
+                    {
+                        "title": "Uniwersalność",
+                        "text": "Pasuje do większości standardowych podłączeń kotłów i wkładów kominkowych."
+                    },
+                    {
+                        "title": "Spawanie TIG",
+                        "text": "Gwarancja trwałości i szczelności połączeń dzięki profesjonalnemu spawaniu."
+                    }
+                ]
+            },
+            "WC-01": {
+                "name": "Wyczystka / Rewizja",
+                "description": "Element umożliwiający dostęp do wnętrza komina w celu jego czyszczenia i kontroli. Wyposażona w szczelne drzwiczki.",
+                "benefits": [
+                    {
+                        "title": "Dostęp serwisowy",
+                        "text": "Niezbędna do okresowego czyszczenia sadzy i kontroli stanu przewodu kominowego."
+                    },
+                    {
+                        "title": "Szczelność",
+                        "text": "Drzwiczki (w wersji termo z izolacją) zapewniają bezpieczeństwo i brak strat ciepła."
+                    }
+                ]
+            },
+            "OD-18": {
+                "name": "Odskraplacz (Lejek)",
+                "description": "Element montowany w dolnej części komina. Służy do odprowadzania skroplin (kondensatu) powstających w procesie spalania.",
+                "benefits": [
+                    {
+                        "title": "Ochrona kotła",
+                        "text": "Zapobiega spływaniu kwaśnego kondensatu z powrotem do urządzenia grzewczego."
+                    },
+                    {
+                        "title": "Higiena systemu",
+                        "text": "Umożliwia łatwe i kontrolowane odprowadzanie wilgoci z przewodu kominowego."
+                    }
+                ]
+            },
+            "PW-19": {
+                "name": "Płyta Wspornikowa",
+                "description": "Element startowy komina montowany na fundamencie lub konsoli. Umożliwia montaż trójnika wyczystkowego i odprowadzenie kondensatu.",
+                "benefits": [
+                    {
+                        "title": "Stabilny start",
+                        "text": "Stanowi solidną podstawę dla całego pionu kominowego montowanego od podłogi."
+                    },
+                    {
+                        "title": "Odporność kwasowa",
+                        "text": "Wykonana w całości ze stali kwasoodpornej, co gwarantuje długowieczność."
+                    }
+                ]
+            },
+            "RD-20": {
+                "name": "Redukcja / Przejście",
+                "description": "Element łączący rury o różnych średnicach. Niezbędny przy zmianie średnicy przewodu kominowego lub podłączeniu do urządzenia grzewczego.",
+                "benefits": [
+                    {
+                        "title": "Dopasowanie",
+                        "text": "Umożliwia szczelne połączenie elementów o różnych wymiarach."
+                    },
+                    {
+                        "title": "Trwałość",
+                        "text": "Wykonana z kwasoodpornej stali nierdzewnej, gwarantującej długą żywotność."
+                    }
+                ]
+            },
+            "SZ-21": {
+                "name": "Szyber Kominowy",
+                "description": "Element służący do regulacji ciągu kominowego. Umożliwia przymknięcie przewodu dymowego po wygaszeniu pieca.",
+                "benefits": [
+                    {
+                        "title": "Oszczędność ciepła",
+                        "text": "Zapobiega wyciąganiu ciepłego powietrza z pomieszczenia przez komin, gdy piec nie pracuje."
+                    },
+                    {
+                        "title": "Regulacja ciągu",
+                        "text": "Pozwala na manualną kontrolę intensywności spalania poprzez zmianę przepływu spalin."
+                    }
+                ]
+            },
+            "RA-050": {
+                "name": "Radiator 0.5m",
+                "description": "Element zwiększający powierzchnię grzewczą komina (0.5m). Odzyskuje ciepło ze spalin, dodatkowo ogrzewając pomieszczenie.",
+                "benefits": [
+                    {
+                        "title": "Odzysk ciepła",
+                        "text": "Dzięki ożebrowaniu znacznie zwiększa powierzchnię oddawania ciepła, podnosząc efektywność ogrzewania."
+                    },
+                    {
+                        "title": "Oszczędność",
+                        "text": "Pozwala lepiej wykorzystać energię spalania, co przekłada się na niższe zużycie opału."
+                    }
+                ]
+            },
+            "RA-100": {
+                "name": "Radiator 1m",
+                "description": "Długi element radiatorowy (1m) maksymalizujący odzysk ciepła z systemu kominowego. Idealny do wysokich pomieszczeń.",
+                "benefits": [
+                    {
+                        "title": "Odzysk ciepła",
+                        "text": "Znacznie zwiększa powierzchnię grzewczą komina."
+                    },
+                    {
+                        "title": "Oszczędność",
+                        "text": "Maksymalne wykorzystanie energii cieplnej spalin."
+                    }
+                ]
+            },
+            "WX-23": {
+                "name": "Wymiennik Ciepła 14L (AISI 321 1mm)",
+                "description": "Efektywny element do podgrzewania wody ciepłem spalin. Pojemność zbiornika 14 litrów.\n\nZestaw składa się z trzech części:\n1. Rura dymowa 1m (d120mm, 1mm, AISI 321);\n2. Płaszcz wodny 0,6m (d220mm, 1mm, AISI 321);\n3. Redukcja d120-/120+ (1mm, AISI 321).",
+                "benefits": [
+                    {
+                        "title": "Oszczędność energii",
+                        "text": "Pozwala uzyskać 14 litrów gorącej wody dzięki wykorzystaniu ciepła, które normalnie ucieka przez komin."
+                    },
+                    {
+                        "title": "Niezawodne materiały",
+                        "text": "Wszystkie elementy wykonane są z żaroodpornej stali nierdzewnej AISI 321 o grubości 1mm."
+                    }
+                ]
+            }
         }
     },
     "product_page": {

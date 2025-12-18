@@ -100,8 +100,6 @@ const generateVariants = () => {
 const product = {
     filename: 'damper.json',
     baseCode: 'SZ-21',
-    name: "Szyber / Szyber Kominowy (Кагла)",
-    description: "Element służący do regulacji ciągu kominowego. Umożliwia przymknięcie przewodu dymowego po wygaszeniu pieca.",
     image: "/assets/szyber.png"
 };
 
@@ -110,23 +108,8 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Oszczędność ciepła",
-            text: "Zapobiega wyciąganiu ciepłego powietrza z pomieszczenia przez komin, gdy piec nie pracuje."
-        },
-        {
-            title: "Regulacja ciągu",
-            text: "Pozwala na manualną kontrolę intensywności spalania poprzez zmianę przepływu spalin."
-        },
-        {
-            title: "Wygoda",
-            text: "Wydłużona rączka ułatwia sterowanie przepustnicą, nawet w systemach izolowanych."
-        }
-    ],
+
     applicableAttributes: [
         'chimneyType', 'steelGrade', 'steelThickness',
         'execution', 'insulation', 'diameter'

@@ -99,8 +99,6 @@ const generateVariants = () => {
 const product = {
     filename: 'revision.json',
     baseCode: 'WC-01',
-    name: "Wyczystka / Rewizja (Ревізія)",
-    description: "Element umożliwiający dostęp do wnętrza komina w celu jego czyszczenia i kontroli. Wyposażona w szczelne drzwiczki.",
     image: "/assets/wyczystka.png"
 };
 
@@ -109,23 +107,8 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Dostęp serwisowy",
-            text: "Niezbędna do okresowego czyszczenia sadzy i kontroli stanu przewodu kominowego."
-        },
-        {
-            title: "Szczelność",
-            text: "Drzwiczki z izolacją termiczną (w wersji termo) zapewniają bezpieczeństwo i brak strat ciepła."
-        },
-        {
-            title: "Odprowadzanie skroplin",
-            text: "Konstrukcja zapobiega wydostawaniu się kondensatu na zewnątrz."
-        }
-    ],
+    
     applicableAttributes: [
         'chimneyType', 'steelGrade', 'steelThickness',
         'execution', 'insulation', 'diameter'

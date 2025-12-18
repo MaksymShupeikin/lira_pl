@@ -1,22 +1,6 @@
 {
   "baseCode": "OS-13",
-  "name": "Obejma Ścienna (Скоба кріпильна)",
-  "description": "Element mocujący komin do ściany. Zapewnia stabilność konstrukcji.",
   "baseImage": "/assets/obejma.png",
-  "benefits": [
-    {
-      "title": "Stabilność",
-      "text": "Pewne mocowanie elementów kominowych do elewacji lub konstrukcji wsporczej."
-    },
-    {
-      "title": "Regulacja",
-      "text": "Umożliwia korektę odległości od ściany (przy zastosowaniu odpowiednich przedłużek)."
-    },
-    {
-      "title": "Estetyka",
-      "text": "Wykonana ze stali nierdzewnej, estetycznie komponuje się z resztą systemu."
-    }
-  ],
   "applicableAttributes": [
     "steelGrade",
     "steelThickness",

@@ -43,8 +43,6 @@ const generateVariants = () => {
 const product = {
     filename: 'bracket.json',
     baseCode: 'OS-13',
-    name: "Obejma Ścienna (Скоба кріпильна)",
-    description: "Element mocujący komin do ściany. Zapewnia stabilność konstrukcji.",
     image: "/assets/obejma.png"
 };
 
@@ -52,26 +50,10 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Stabilność",
-            text: "Pewne mocowanie elementów kominowych do elewacji lub konstrukcji wsporczej."
-        },
-        {
-            title: "Regulacja",
-            text: "Umożliwia korektę odległości od ściany (przy zastosowaniu odpowiednich przedłużek)."
-        },
-        {
-            title: "Estetyka",
-            text: "Wykonana ze stali nierdzewnej, estetycznie komponuje się z resztą systemu."
-        }
-    ],
     applicableAttributes: [
         'steelGrade', 'steelThickness',
-        'execution', 'diameter'
+        'execution', 'diameter',
     ],
     defaultSelections: {
         chimneyType: 'single',

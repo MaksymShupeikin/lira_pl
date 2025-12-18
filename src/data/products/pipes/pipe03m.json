@@ -1,22 +1,6 @@
 {
   "baseCode": "RP-030",
-  "name": "Rura Prosta 0.3m",
-  "description": "Короткий елемент довжиною 0.3 метра для з'єднання та підгонки ділянок димоходу.",
   "baseImage": "/assets/rura3.png",
-  "benefits": [
-    {
-      "title": "Wysoka odporność na korozję",
-      "text": "Wykonana z wysokiej jakości stali nierdzewnej, odpornej na działanie agresywnych środowisk, kwasów i kondensatu."
-    },
-    {
-      "title": "Żaroodporność",
-      "text": "Wytrzymuje temperatury do 800°C, idealna do kominków, pieców oraz kotłów na paliwo stałe."
-    },
-    {
-      "title": "Szczelność systemu",
-      "text": "Precyzyjne połączenia kielichowe gwarantują szczelność i łatwość montażu."
-    }
-  ],
   "applicableAttributes": [
     "chimneyType",
     "steelGrade",

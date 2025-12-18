@@ -1,22 +1,6 @@
 {
   "baseCode": "SZ-21",
-  "name": "Szyber / Szyber Kominowy (Кагла)",
-  "description": "Element służący do regulacji ciągu kominowego. Umożliwia przymknięcie przewodu dymowego po wygaszeniu pieca.",
   "baseImage": "/assets/szyber.png",
-  "benefits": [
-    {
-      "title": "Oszczędność ciepła",
-      "text": "Zapobiega wyciąganiu ciepłego powietrza z pomieszczenia przez komin, gdy piec nie pracuje."
-    },
-    {
-      "title": "Regulacja ciągu",
-      "text": "Pozwala na manualną kontrolę intensywności spalania poprzez zmianę przepływu spalin."
-    },
-    {
-      "title": "Wygoda",
-      "text": "Wydłużona rączka ułatwia sterowanie przepustnicą, nawet w systemach izolowanych."
-    }
-  ],
   "applicableAttributes": [
     "chimneyType",
     "steelGrade",

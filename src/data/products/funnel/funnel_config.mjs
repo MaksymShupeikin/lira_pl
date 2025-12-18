@@ -1,4 +1,5 @@
 import fs from 'fs';
+// node src/data/products/funnel/funnel_config.mjs
 
 
 const single_304_t05 = [100, 110, 120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
@@ -47,8 +48,6 @@ const generateVariants = () => {
 const product = {
     filename: 'funnel.json',
     baseCode: 'OD-18',
-    name: "Odskraplacz / Lejek (Лейка)",
-    description: "Element montowany w dolnej części komina. Służy do odprowadzania skroplin (kondensatu) powstających w procesie spalania.",
     image: "/assets/lejek.png"
 };
 
@@ -57,23 +56,8 @@ const variants = generateVariants();
 
 const finalObject = {
     baseCode: product.baseCode,
-    name: product.name,
-    description: product.description,
     baseImage: product.image,
-    benefits: [
-        {
-            title: "Ochrona kotła",
-            text: "Zapobiega spływaniu kwaśnego kondensatu z powrotem do urządzenia grzewczego."
-        },
-        {
-            title: "Higiena systemu",
-            text: "Umożliwia łatwe i kontrolowane odprowadzanie wilgoci z przewodu kominowego."
-        },
-        {
-            title: "Trwałość",
-            text: "Wykonany ze stali kwasoodpornej, odpornej na agresywne działanie skroplin."
-        }
-    ],
+
     applicableAttributes: [
         'steelGrade', 'steelThickness',
         'execution', 'diameter'
