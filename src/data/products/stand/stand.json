@@ -1,0 +1,312 @@
+{
+  "baseCode": "PO-16",
+  "name": "Podstawa / Podpora",
+  "description": "Element startowy komina (na fundamencie). Umożliwia montaż trójnika wyczystkowego i odprowadzenie kondensatu (przy zastosowaniu lejka).",
+  "baseImage": "/assets/plyta_wspornikowa.png",
+  "benefits": [
+    {
+      "title": "Stabilny start",
+      "text": "Stanowi solidną podstawę dla całego pionu kominowego montowanego od podłogi."
+    },
+    {
+      "title": "Odporność kwasowa",
+      "text": "Wykonana w całości ze stali kwasoodpornej 304, co gwarantuje długowieczność."
+    },
+    {
+      "title": "Izolacja",
+      "text": "Wersja izolowana zapobiega wychładzaniu spalin w dolnej części komina."
+    }
+  ],
+  "applicableAttributes": [
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "insulation",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "thermo",
+    "steelGrade": "ais304",
+    "steelThickness": "t05",
+    "execution": "nerzh_nerzh",
+    "insulation": "iso30",
+    "diameter": "d150_220"
+  },
+  "variants": [
+    {
+      "sku": "PW-19-T-304-05-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "PW-19-T-304-05-NN-30-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_300"
+      }
+    }
+  ]
+}

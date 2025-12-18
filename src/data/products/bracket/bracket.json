@@ -1,0 +1,234 @@
+{
+  "baseCode": "OS-13",
+  "name": "Obejma Ścienna (Скоба кріпильна)",
+  "description": "Element mocujący komin do ściany. Zapewnia stabilność konstrukcji.",
+  "baseImage": "/assets/obejma.png",
+  "benefits": [
+    {
+      "title": "Stabilność",
+      "text": "Pewne mocowanie elementów kominowych do elewacji lub konstrukcji wsporczej."
+    },
+    {
+      "title": "Regulacja",
+      "text": "Umożliwia korektę odległości od ściany (przy zastosowaniu odpowiednich przedłużek)."
+    },
+    {
+      "title": "Estetyka",
+      "text": "Wykonana ze stali nierdzewnej, estetycznie komponuje się z resztą systemu."
+    }
+  ],
+  "applicableAttributes": [
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais304",
+    "steelThickness": "t05",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "OS-13-S-304-05-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "OS-13-S-304-05-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    }
+  ]
+}

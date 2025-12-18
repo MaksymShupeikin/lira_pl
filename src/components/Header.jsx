@@ -1,4 +1,3 @@
-import React from 'react';
 import { Menu, X } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useHeader } from '../hooks/useHeader';
@@ -26,27 +25,20 @@ const Header = () => {
       >
         <div className="max-w-[1920px] mx-auto px-6 flex items-center justify-between">
 
-
           <Link
             to="/"
             className="flex items-center gap-2 group cursor-pointer"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           >
-
-            <div className={`bg-[#FF4F00] flex items-center justify-center transform group-hover:rotate-12 transition-all duration-300 sharp-border
-                            ${isScrolled ? 'w-10 h-10' : 'w-12 h-12'}`}
-            >
-              <span className={`font-bold text-white transition-all duration-300 ${isScrolled ? 'text-xl' : 'text-2xl'}`}>L</span>
-            </div>
+            <img
+              src="/assets/logo.png"
+              alt="Lira LTD Logo"
+              className={`transform group-hover:-translate-y-1 transition-all duration-300 object-contain w-auto
+                          ${isScrolled ? 'h-10' : 'h-12'}`}
+            />
 
             <div className="flex flex-col">
-              <span className={`font-black tracking-tighter uppercase text-white leading-none transition-all duration-300 
-                                ${isScrolled ? 'text-lg' : 'text-2xl'}`}>
-                LIRA<span className="text-[#FF4F00]">.</span>PL
-              </span>
-              <span className="text-[10px] text-[#A0AEC0] tracking-widest uppercase leading-none mt-0.5">
-                Systemy Kominowe
-              </span>
+
             </div>
           </Link>
 

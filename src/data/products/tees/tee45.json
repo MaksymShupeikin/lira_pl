@@ -1,0 +1,5142 @@
+{
+  "baseCode": "TR-45",
+  "name": "Trójnik 45° (Трійник 45°)",
+  "description": "Використовується для з'єднання димоходу з опалювальним приладом під кутом 45 градусів. Забезпечує кращу тягу.",
+  "baseImage": "/assets/trojnik.png",
+  "benefits": [
+    {
+      "title": "Універсальність підключення",
+      "text": "Дозволяє легко підключити котел або камін до основного димоходу."
+    },
+    {
+      "title": "Зварювання TIG",
+      "text": "Всі шви зварені методом TIG в середовищі аргону, що гарантує міцність та герметичність."
+    },
+    {
+      "title": "Ідеальна геометрія",
+      "text": "Лазерний розкрій металу забезпечує точні розміри та легку збірку."
+    }
+  ],
+  "applicableAttributes": [
+    "chimneyType",
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "insulation",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais201",
+    "steelThickness": "t05",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "TR-45-S-201-05-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-05-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-201-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-05-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-304-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-100",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d100"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-110",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d110"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-08-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-125",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d125"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-140",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d140"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-300",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d300"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-350",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d350"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-400",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d400"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-450",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d450"
+      }
+    },
+    {
+      "sku": "TR-45-S-321-10-N-500",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d500"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-05-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-08-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-201-10-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais201",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-05-NO-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-08-NO-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-304-10-NO-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-100-160",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_160"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-100-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d100_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-110-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d110_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-08-NO-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-120-180",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_180"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-120-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d120_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-130-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-130-230",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d130_230"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-140-200",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d140_200"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-150-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d150_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-160-220",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d160_220"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-180-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d180_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-200-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d200_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-220-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d220_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-230-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d230_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-250-320",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d250_320"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-300-360",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d300_360"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-350-420",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d350_420"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-400-460",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d400_460"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-450-520",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d450_520"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-30-500-560",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso30",
+        "diameter": "d500_560"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NN-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_nerzh",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-50-140-240",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d140_240"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-50-150-250",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d150_250"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-50-160-260",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d160_260"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-50-180-280",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d180_280"
+      }
+    },
+    {
+      "sku": "TR-45-T-321-10-NO-50-200-300",
+      "attributes": {
+        "chimneyType": "thermo",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh_oc",
+        "insulation": "iso50",
+        "diameter": "d200_300"
+      }
+    }
+  ]
+}

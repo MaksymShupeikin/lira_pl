@@ -18,24 +18,35 @@ export const catalogSections = [
         number: "02",
         products: [
             { code: "RP-100", image: "/assets/rura.png" },
-            { code: "KL-90", image: "/assets/kolano.png" },
+            { code: "RP-050", image: "/assets/rura5.png" },
+            { code: "RP-030", image: "/assets/rura3.png" }, 
+            { code: "RP-025", image: "/assets/rura25.png" }, 
+            
+            { code: "KL-90", image: "/assets/kolano90.png" },
+            { code: "KL-45", image: "/assets/kolano.png" },
+            
             { code: "OS-13", image: "/assets/obejma.png" },
             { code: "PP-14", image: "/assets/plyta_przelotowa.png" },
-            { code: "RM-15", image: "/assets/rozeta.png" },
+            //{ code: "RM-15", image: "/assets/rozeta.png" },
         ]
     },
     {
         id: "section-3",
         number: "03",
         products: [
-            { code: "TR-90", image: "/assets/trojnik.png" },
+            { code: "TR-90", image: "/assets/trojnik87.png" },
+            { code: "TR-45", image: "/assets/trojnik.png" },
+            
             { code: "WC-01", image: "/assets/wyczystka.png" },
             { code: "OD-18", image: "/assets/lejek.png" },
             { code: "PW-19", image: "/assets/plyta_wspornikowa.png" },
+            
             { code: "RD-20", image: "/assets/redukcja.png" },
+            
             { code: "SZ-21", image: "/assets/szyber.png" },
-            { code: "RA-22", image: "/assets/radiator.png" },
-            { code: "WX-23", image: "/assets/wymiennik_ ciepła.png" }, // Проверь имя файла, там пробел
+            { code: "RA-100", image: "/assets/radiator.png" },
+            { code: "RA-050", image: "/assets/radiator.png" },
+            { code: "WX-23", image: "/assets/wymiennik_ciepla.png" },
         ]
     },
 ];

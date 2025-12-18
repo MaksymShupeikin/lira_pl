@@ -1,0 +1,531 @@
+{
+  "baseCode": "RA-050",
+  "name": "Radiator 0.5m (Радіатор 0.5м)",
+  "description": "Element zwiększający powierzchnię grzewczą komina (0.5m). Odzyskuje ciepło ze spalin, ogrzewając pomieszczenie.",
+  "baseImage": "/assets/radiator.png",
+  "benefits": [
+    {
+      "title": "Odzysk ciepła",
+      "text": "Dzięki ożebrowaniu znacznie zwiększa powierzchnię oddawania ciepła, podnosząc efektywność ogrzewania."
+    },
+    {
+      "title": "Oszczędność",
+      "text": "Pozwala lepiej wykorzystać energię spalania, co przekłada się na niższe zużycie opału."
+    },
+    {
+      "title": "Trwałość",
+      "text": "Wykonany z wysokogatunkowej stali nierdzewnej, odpornej na wysokie temperatury."
+    }
+  ],
+  "applicableAttributes": [
+    "steelGrade",
+    "steelThickness",
+    "execution",
+    "diameter"
+  ],
+  "defaultSelections": {
+    "chimneyType": "single",
+    "steelGrade": "ais304",
+    "steelThickness": "t08",
+    "execution": "nerzh",
+    "insulation": null,
+    "diameter": "d150"
+  },
+  "variants": [
+    {
+      "sku": "RA-050-S-304-05-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-05-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t05",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "RA-050-S-304-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais304",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-08-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t08",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-120",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d120"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-130",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d130"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-150",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d150"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-160",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d160"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-180",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d180"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-200",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d200"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-220",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d220"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-230",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d230"
+      }
+    },
+    {
+      "sku": "RA-050-S-321-10-N-250",
+      "attributes": {
+        "chimneyType": "single",
+        "steelGrade": "ais321",
+        "steelThickness": "t10",
+        "execution": "nerzh",
+        "insulation": null,
+        "diameter": "d250"
+      }
+    }
+  ]
+}

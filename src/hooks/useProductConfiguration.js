@@ -10,6 +10,7 @@ export const useProductConfiguration = (productData) => {
     const [currentVariantSku, setCurrentVariantSku] = useState(null);
 
     const isThermo = selections.chimneyType === 'thermo';
+    
     const availableDiameters = useMemo(() => {
         return isThermo ? diametersThermo : diametersSingle;
     }, [isThermo]);
@@ -42,7 +43,9 @@ export const useProductConfiguration = (productData) => {
                 const newIsThermo = newValue === 'thermo';
 
                 if (newIsThermo) {
-                    next.insulation = allAttributesDefinitions.insulation[0].id;
+                    if (!next.insulation) {
+                        next.insulation = allAttributesDefinitions.insulation[0].id;
+                    }
                 } else {
                     next.insulation = null;
                 }
@@ -52,7 +55,7 @@ export const useProductConfiguration = (productData) => {
                     : ['nerzh', 'oc'];
 
                 if (!validExecs.includes(next.execution)) {
-                    next.execution = validExecs[1];
+                    next.execution = validExecs[0]; 
                 }
             }
 
@@ -62,6 +65,7 @@ export const useProductConfiguration = (productData) => {
                 steelThickness: next.steelThickness,
                 execution: next.execution,
             };
+            
             if (next.chimneyType === 'thermo') {
                 filtersForDiameter.insulation = next.insulation;
             }

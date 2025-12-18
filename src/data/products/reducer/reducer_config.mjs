@@ -1,0 +1,101 @@
+import fs from 'fs';
+// node src/data/products/reducer/reducer_config.mjs 
+
+
+const single_304_t05 = [100, 110, 120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
+const single_304_t08 = [100, 110, 120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
+const single_304_t10 = [120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
+
+const single_321_t08 = [100, 110, 120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
+const single_321_t10 = [120, 125, 130, 140, 150, 160, 180, 200, 220, 230, 250, 300, 350, 400, 450, 500];
+
+
+const generateVariants = () => {
+    const variants = [];
+    const baseCode = 'RD-20';
+
+    const add = (type, grade, thick, exec, ins, diameters) => {
+        diameters.forEach(d => {
+            const dStr = String(d);
+            const safeId = `d${dStr.replace('/', '_')}`;
+            const safeSkuDiam = dStr.replace('/', '-');
+
+            const typeCode = type === 'single' ? 'S' : 'T';
+            const gradeCode = grade.slice(3);
+            const thickCode = thick.slice(1);
+
+            let execCode = 'N';
+
+            const sku = `${baseCode}-${typeCode}-${gradeCode}-${thickCode}-${execCode}-${safeSkuDiam}`;
+
+            variants.push({
+                sku: sku,
+                attributes: {
+                    chimneyType: type,
+                    steelGrade: grade,
+                    steelThickness: thick,
+                    execution: exec,
+                    insulation: ins,
+                    diameter: safeId,
+                }
+            });
+        });
+    };
+
+    add('single', 'ais304', 't05', 'nerzh', null, single_304_t05);
+    add('single', 'ais304', 't08', 'nerzh', null, single_304_t08);
+    add('single', 'ais304', 't10', 'nerzh', null, single_304_t10);
+
+    add('single', 'ais321', 't08', 'nerzh', null, single_321_t08);
+    add('single', 'ais321', 't10', 'nerzh', null, single_321_t10);
+
+    return variants;
+};
+
+const product = {
+    filename: 'reducer.json',
+    baseCode: 'RD-20',
+    name: "Redukcja / Przejście (Перехідник)",
+    description: "Element łączący rury o różnych średnicach. Niezbędny przy zmianie średnicy przewodu kominowego lub podłączeniu do urządzenia grzewczego.",
+    image: "/assets/redukcja.png"
+};
+
+
+const variants = generateVariants();
+
+const finalObject = {
+    baseCode: product.baseCode,
+    name: product.name,
+    description: product.description,
+    baseImage: product.image,
+    benefits: [
+        {
+            title: "Dopasowanie",
+            text: "Umożliwia szczelne połączenie elementów o różnych wymiarach."
+        },
+        {
+            title: "Trwałość",
+            text: "Wykonana z kwasoodpornej stali nierdzewnej, gwarantującej długą żywotność."
+        },
+        {
+            title: "Uniwersalność",
+            text: "Dostępna w szerokim zakresie średnic dla każdego typu instalacji."
+        }
+    ],
+    applicableAttributes: [
+        'steelGrade', 'steelThickness',
+        'execution', 'diameter'
+    ],
+    defaultSelections: {
+        chimneyType: 'single',
+        steelGrade: 'ais304',
+        steelThickness: 't05',
+        execution: 'nerzh',
+        insulation: null,
+        diameter: 'd150'
+    },
+    variants: variants
+};
+
+fs.writeFileSync(product.filename, JSON.stringify(finalObject, null, 2), 'utf-8');
+console.log(`Generated ${product.filename} with ${variants.length} variants.`);

@@ -1,8 +1,8 @@
 {
-  "baseCode": "RP-100",
-  "name": "Rura Prosta 1m",
-  "description": "Основний елемент димохідної системи. Виготовляється з кислотостійкої нержавіючої сталі.",
-  "baseImage": "/assets/rura.png",
+  "baseCode": "RP-050",
+  "name": "Rura Prosta 0.5m",
+  "description": "Елемент димоходу довжиною 0.5 метра. Використовується для точного підбору висоти димоходу.",
+  "baseImage": "/assets/rura5.png",
   "benefits": [
     {
       "title": "Wysoka odporność na korozję",
@@ -11,6 +11,10 @@
     {
       "title": "Żaroodporność",
       "text": "Wytrzymuje temperatury do 800°C, idealna do kominków, pieców oraz kotłów na paliwo stałe."
+    },
+    {
+      "title": "Szczelność systemu",
+      "text": "Precyzyjne połączenia kielichowe gwarantują szczelność i łatwość montażu."
     }
   ],
   "applicableAttributes": [
@@ -31,7 +35,7 @@
   },
   "variants": [
     {
-      "sku": "RP-S-201-05-N-100",
+      "sku": "RP-050-S-201-05-N-100",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -42,7 +46,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-110",
+      "sku": "RP-050-S-201-05-N-110",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -53,7 +57,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-120",
+      "sku": "RP-050-S-201-05-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -64,7 +68,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-125",
+      "sku": "RP-050-S-201-05-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -75,7 +79,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-130",
+      "sku": "RP-050-S-201-05-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -86,7 +90,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-140",
+      "sku": "RP-050-S-201-05-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -97,7 +101,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-150",
+      "sku": "RP-050-S-201-05-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -108,7 +112,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-160",
+      "sku": "RP-050-S-201-05-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -119,7 +123,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-180",
+      "sku": "RP-050-S-201-05-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -130,7 +134,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-200",
+      "sku": "RP-050-S-201-05-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -141,7 +145,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-220",
+      "sku": "RP-050-S-201-05-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -152,7 +156,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-230",
+      "sku": "RP-050-S-201-05-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -163,7 +167,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-250",
+      "sku": "RP-050-S-201-05-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -174,7 +178,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-300",
+      "sku": "RP-050-S-201-05-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -185,7 +189,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-350",
+      "sku": "RP-050-S-201-05-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -196,7 +200,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-400",
+      "sku": "RP-050-S-201-05-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -207,7 +211,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-450",
+      "sku": "RP-050-S-201-05-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -218,7 +222,7 @@
       }
     },
     {
-      "sku": "RP-S-201-05-N-500",
+      "sku": "RP-050-S-201-05-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -229,7 +233,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-100",
+      "sku": "RP-050-S-201-08-N-100",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -240,7 +244,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-110",
+      "sku": "RP-050-S-201-08-N-110",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -251,7 +255,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-120",
+      "sku": "RP-050-S-201-08-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -262,7 +266,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-125",
+      "sku": "RP-050-S-201-08-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -273,7 +277,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-130",
+      "sku": "RP-050-S-201-08-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -284,7 +288,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-140",
+      "sku": "RP-050-S-201-08-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -295,7 +299,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-150",
+      "sku": "RP-050-S-201-08-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -306,7 +310,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-160",
+      "sku": "RP-050-S-201-08-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -317,7 +321,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-180",
+      "sku": "RP-050-S-201-08-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -328,7 +332,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-200",
+      "sku": "RP-050-S-201-08-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -339,7 +343,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-220",
+      "sku": "RP-050-S-201-08-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -350,7 +354,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-230",
+      "sku": "RP-050-S-201-08-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -361,7 +365,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-250",
+      "sku": "RP-050-S-201-08-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -372,7 +376,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-300",
+      "sku": "RP-050-S-201-08-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -383,7 +387,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-350",
+      "sku": "RP-050-S-201-08-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -394,7 +398,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-400",
+      "sku": "RP-050-S-201-08-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -405,7 +409,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-450",
+      "sku": "RP-050-S-201-08-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -416,7 +420,7 @@
       }
     },
     {
-      "sku": "RP-S-201-08-N-500",
+      "sku": "RP-050-S-201-08-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -427,7 +431,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-120",
+      "sku": "RP-050-S-201-10-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -438,7 +442,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-125",
+      "sku": "RP-050-S-201-10-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -449,7 +453,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-130",
+      "sku": "RP-050-S-201-10-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -460,7 +464,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-140",
+      "sku": "RP-050-S-201-10-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -471,7 +475,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-150",
+      "sku": "RP-050-S-201-10-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -482,7 +486,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-160",
+      "sku": "RP-050-S-201-10-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -493,7 +497,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-180",
+      "sku": "RP-050-S-201-10-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -504,7 +508,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-200",
+      "sku": "RP-050-S-201-10-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -515,7 +519,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-220",
+      "sku": "RP-050-S-201-10-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -526,7 +530,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-230",
+      "sku": "RP-050-S-201-10-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -537,7 +541,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-250",
+      "sku": "RP-050-S-201-10-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -548,7 +552,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-300",
+      "sku": "RP-050-S-201-10-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -559,7 +563,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-350",
+      "sku": "RP-050-S-201-10-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -570,7 +574,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-400",
+      "sku": "RP-050-S-201-10-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -581,7 +585,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-450",
+      "sku": "RP-050-S-201-10-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -592,7 +596,7 @@
       }
     },
     {
-      "sku": "RP-S-201-10-N-500",
+      "sku": "RP-050-S-201-10-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais201",
@@ -603,7 +607,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-100",
+      "sku": "RP-050-S-304-05-N-100",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -614,7 +618,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-110",
+      "sku": "RP-050-S-304-05-N-110",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -625,7 +629,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-120",
+      "sku": "RP-050-S-304-05-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -636,7 +640,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-125",
+      "sku": "RP-050-S-304-05-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -647,7 +651,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-130",
+      "sku": "RP-050-S-304-05-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -658,7 +662,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-140",
+      "sku": "RP-050-S-304-05-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -669,7 +673,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-150",
+      "sku": "RP-050-S-304-05-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -680,7 +684,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-160",
+      "sku": "RP-050-S-304-05-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -691,7 +695,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-180",
+      "sku": "RP-050-S-304-05-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -702,7 +706,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-200",
+      "sku": "RP-050-S-304-05-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -713,7 +717,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-220",
+      "sku": "RP-050-S-304-05-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -724,7 +728,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-230",
+      "sku": "RP-050-S-304-05-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -735,7 +739,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-250",
+      "sku": "RP-050-S-304-05-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -746,7 +750,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-300",
+      "sku": "RP-050-S-304-05-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -757,7 +761,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-350",
+      "sku": "RP-050-S-304-05-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -768,7 +772,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-400",
+      "sku": "RP-050-S-304-05-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -779,7 +783,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-450",
+      "sku": "RP-050-S-304-05-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -790,7 +794,7 @@
       }
     },
     {
-      "sku": "RP-S-304-05-N-500",
+      "sku": "RP-050-S-304-05-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -801,7 +805,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-100",
+      "sku": "RP-050-S-304-08-N-100",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -812,7 +816,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-110",
+      "sku": "RP-050-S-304-08-N-110",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -823,7 +827,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-120",
+      "sku": "RP-050-S-304-08-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -834,7 +838,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-125",
+      "sku": "RP-050-S-304-08-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -845,7 +849,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-130",
+      "sku": "RP-050-S-304-08-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -856,7 +860,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-140",
+      "sku": "RP-050-S-304-08-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -867,7 +871,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-150",
+      "sku": "RP-050-S-304-08-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -878,7 +882,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-160",
+      "sku": "RP-050-S-304-08-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -889,7 +893,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-180",
+      "sku": "RP-050-S-304-08-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -900,7 +904,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-200",
+      "sku": "RP-050-S-304-08-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -911,7 +915,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-220",
+      "sku": "RP-050-S-304-08-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -922,7 +926,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-230",
+      "sku": "RP-050-S-304-08-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -933,7 +937,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-250",
+      "sku": "RP-050-S-304-08-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -944,7 +948,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-300",
+      "sku": "RP-050-S-304-08-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -955,7 +959,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-350",
+      "sku": "RP-050-S-304-08-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -966,7 +970,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-400",
+      "sku": "RP-050-S-304-08-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -977,7 +981,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-450",
+      "sku": "RP-050-S-304-08-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -988,7 +992,7 @@
       }
     },
     {
-      "sku": "RP-S-304-08-N-500",
+      "sku": "RP-050-S-304-08-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -999,7 +1003,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-120",
+      "sku": "RP-050-S-304-10-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1010,7 +1014,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-125",
+      "sku": "RP-050-S-304-10-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1021,7 +1025,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-130",
+      "sku": "RP-050-S-304-10-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1032,7 +1036,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-140",
+      "sku": "RP-050-S-304-10-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1043,7 +1047,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-150",
+      "sku": "RP-050-S-304-10-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1054,7 +1058,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-160",
+      "sku": "RP-050-S-304-10-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1065,7 +1069,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-180",
+      "sku": "RP-050-S-304-10-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1076,7 +1080,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-200",
+      "sku": "RP-050-S-304-10-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1087,7 +1091,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-220",
+      "sku": "RP-050-S-304-10-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1098,7 +1102,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-230",
+      "sku": "RP-050-S-304-10-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1109,7 +1113,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-250",
+      "sku": "RP-050-S-304-10-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1120,7 +1124,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-300",
+      "sku": "RP-050-S-304-10-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1131,7 +1135,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-350",
+      "sku": "RP-050-S-304-10-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1142,7 +1146,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-400",
+      "sku": "RP-050-S-304-10-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1153,7 +1157,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-450",
+      "sku": "RP-050-S-304-10-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1164,7 +1168,7 @@
       }
     },
     {
-      "sku": "RP-S-304-10-N-500",
+      "sku": "RP-050-S-304-10-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais304",
@@ -1175,7 +1179,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-100",
+      "sku": "RP-050-S-321-08-N-100",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1186,7 +1190,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-110",
+      "sku": "RP-050-S-321-08-N-110",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1197,7 +1201,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-120",
+      "sku": "RP-050-S-321-08-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1208,7 +1212,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-125",
+      "sku": "RP-050-S-321-08-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1219,7 +1223,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-130",
+      "sku": "RP-050-S-321-08-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1230,7 +1234,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-140",
+      "sku": "RP-050-S-321-08-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1241,7 +1245,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-150",
+      "sku": "RP-050-S-321-08-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1252,7 +1256,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-160",
+      "sku": "RP-050-S-321-08-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1263,7 +1267,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-180",
+      "sku": "RP-050-S-321-08-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1274,7 +1278,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-200",
+      "sku": "RP-050-S-321-08-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1285,7 +1289,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-220",
+      "sku": "RP-050-S-321-08-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1296,7 +1300,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-230",
+      "sku": "RP-050-S-321-08-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1307,7 +1311,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-250",
+      "sku": "RP-050-S-321-08-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1318,7 +1322,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-300",
+      "sku": "RP-050-S-321-08-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1329,7 +1333,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-350",
+      "sku": "RP-050-S-321-08-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1340,7 +1344,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-400",
+      "sku": "RP-050-S-321-08-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1351,7 +1355,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-450",
+      "sku": "RP-050-S-321-08-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1362,7 +1366,7 @@
       }
     },
     {
-      "sku": "RP-S-321-08-N-500",
+      "sku": "RP-050-S-321-08-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1373,7 +1377,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-120",
+      "sku": "RP-050-S-321-10-N-120",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1384,7 +1388,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-125",
+      "sku": "RP-050-S-321-10-N-125",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1395,7 +1399,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-130",
+      "sku": "RP-050-S-321-10-N-130",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1406,7 +1410,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-140",
+      "sku": "RP-050-S-321-10-N-140",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1417,7 +1421,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-150",
+      "sku": "RP-050-S-321-10-N-150",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1428,7 +1432,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-160",
+      "sku": "RP-050-S-321-10-N-160",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1439,7 +1443,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-180",
+      "sku": "RP-050-S-321-10-N-180",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1450,7 +1454,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-200",
+      "sku": "RP-050-S-321-10-N-200",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1461,7 +1465,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-220",
+      "sku": "RP-050-S-321-10-N-220",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1472,7 +1476,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-230",
+      "sku": "RP-050-S-321-10-N-230",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1483,7 +1487,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-250",
+      "sku": "RP-050-S-321-10-N-250",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1494,7 +1498,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-300",
+      "sku": "RP-050-S-321-10-N-300",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1505,7 +1509,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-350",
+      "sku": "RP-050-S-321-10-N-350",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1516,7 +1520,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-400",
+      "sku": "RP-050-S-321-10-N-400",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1527,7 +1531,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-450",
+      "sku": "RP-050-S-321-10-N-450",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1538,7 +1542,7 @@
       }
     },
     {
-      "sku": "RP-S-321-10-N-500",
+      "sku": "RP-050-S-321-10-N-500",
       "attributes": {
         "chimneyType": "single",
         "steelGrade": "ais321",
@@ -1549,7 +1553,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-100-160",
+      "sku": "RP-050-T-201-05-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1560,7 +1564,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-110-180",
+      "sku": "RP-050-T-201-05-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1571,7 +1575,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-120-180",
+      "sku": "RP-050-T-201-05-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1582,7 +1586,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-130-200",
+      "sku": "RP-050-T-201-05-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1593,7 +1597,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-140-200",
+      "sku": "RP-050-T-201-05-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1604,7 +1608,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-150-220",
+      "sku": "RP-050-T-201-05-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1615,7 +1619,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-160-220",
+      "sku": "RP-050-T-201-05-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1626,7 +1630,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-180-250",
+      "sku": "RP-050-T-201-05-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1637,7 +1641,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-200-260",
+      "sku": "RP-050-T-201-05-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1648,7 +1652,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-220-280",
+      "sku": "RP-050-T-201-05-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1659,7 +1663,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-230-300",
+      "sku": "RP-050-T-201-05-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1670,7 +1674,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-250-320",
+      "sku": "RP-050-T-201-05-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1681,7 +1685,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-300-360",
+      "sku": "RP-050-T-201-05-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1692,7 +1696,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-350-420",
+      "sku": "RP-050-T-201-05-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1703,7 +1707,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-400-460",
+      "sku": "RP-050-T-201-05-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1714,7 +1718,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-450-520",
+      "sku": "RP-050-T-201-05-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1725,7 +1729,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NO-30-500-560",
+      "sku": "RP-050-T-201-05-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1736,7 +1740,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-100-160",
+      "sku": "RP-050-T-201-05-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1747,7 +1751,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-110-180",
+      "sku": "RP-050-T-201-05-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1758,7 +1762,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-120-180",
+      "sku": "RP-050-T-201-05-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1769,7 +1773,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-130-200",
+      "sku": "RP-050-T-201-05-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1780,7 +1784,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-140-200",
+      "sku": "RP-050-T-201-05-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1791,7 +1795,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-150-220",
+      "sku": "RP-050-T-201-05-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1802,7 +1806,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-160-220",
+      "sku": "RP-050-T-201-05-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1813,7 +1817,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-180-250",
+      "sku": "RP-050-T-201-05-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1824,7 +1828,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-200-260",
+      "sku": "RP-050-T-201-05-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1835,7 +1839,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-220-280",
+      "sku": "RP-050-T-201-05-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1846,7 +1850,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-230-300",
+      "sku": "RP-050-T-201-05-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1857,7 +1861,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-250-320",
+      "sku": "RP-050-T-201-05-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1868,7 +1872,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-300-360",
+      "sku": "RP-050-T-201-05-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1879,7 +1883,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-350-420",
+      "sku": "RP-050-T-201-05-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1890,7 +1894,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-400-460",
+      "sku": "RP-050-T-201-05-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1901,7 +1905,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-450-520",
+      "sku": "RP-050-T-201-05-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1912,7 +1916,7 @@
       }
     },
     {
-      "sku": "RP-T-201-05-NN-30-500-560",
+      "sku": "RP-050-T-201-05-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1923,7 +1927,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-120-180",
+      "sku": "RP-050-T-201-08-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1934,7 +1938,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-130-200",
+      "sku": "RP-050-T-201-08-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1945,7 +1949,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-140-200",
+      "sku": "RP-050-T-201-08-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1956,7 +1960,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-150-220",
+      "sku": "RP-050-T-201-08-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1967,7 +1971,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-160-220",
+      "sku": "RP-050-T-201-08-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1978,7 +1982,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-180-250",
+      "sku": "RP-050-T-201-08-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -1989,7 +1993,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-200-260",
+      "sku": "RP-050-T-201-08-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2000,7 +2004,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-220-280",
+      "sku": "RP-050-T-201-08-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2011,7 +2015,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-230-300",
+      "sku": "RP-050-T-201-08-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2022,7 +2026,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-250-320",
+      "sku": "RP-050-T-201-08-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2033,7 +2037,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-300-360",
+      "sku": "RP-050-T-201-08-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2044,7 +2048,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-350-420",
+      "sku": "RP-050-T-201-08-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2055,7 +2059,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-400-460",
+      "sku": "RP-050-T-201-08-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2066,7 +2070,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-450-520",
+      "sku": "RP-050-T-201-08-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2077,7 +2081,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NO-30-500-560",
+      "sku": "RP-050-T-201-08-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2088,7 +2092,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-120-180",
+      "sku": "RP-050-T-201-08-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2099,7 +2103,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-130-200",
+      "sku": "RP-050-T-201-08-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2110,7 +2114,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-140-200",
+      "sku": "RP-050-T-201-08-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2121,7 +2125,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-150-220",
+      "sku": "RP-050-T-201-08-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2132,7 +2136,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-160-220",
+      "sku": "RP-050-T-201-08-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2143,7 +2147,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-180-250",
+      "sku": "RP-050-T-201-08-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2154,7 +2158,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-200-260",
+      "sku": "RP-050-T-201-08-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2165,7 +2169,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-220-280",
+      "sku": "RP-050-T-201-08-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2176,7 +2180,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-230-300",
+      "sku": "RP-050-T-201-08-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2187,7 +2191,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-250-320",
+      "sku": "RP-050-T-201-08-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2198,7 +2202,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-300-360",
+      "sku": "RP-050-T-201-08-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2209,7 +2213,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-350-420",
+      "sku": "RP-050-T-201-08-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2220,7 +2224,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-400-460",
+      "sku": "RP-050-T-201-08-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2231,7 +2235,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-450-520",
+      "sku": "RP-050-T-201-08-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2242,7 +2246,7 @@
       }
     },
     {
-      "sku": "RP-T-201-08-NN-30-500-560",
+      "sku": "RP-050-T-201-08-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2253,7 +2257,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-120-180",
+      "sku": "RP-050-T-201-10-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2264,7 +2268,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-130-200",
+      "sku": "RP-050-T-201-10-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2275,7 +2279,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-140-200",
+      "sku": "RP-050-T-201-10-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2286,7 +2290,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-150-220",
+      "sku": "RP-050-T-201-10-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2297,7 +2301,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-160-220",
+      "sku": "RP-050-T-201-10-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2308,7 +2312,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-180-250",
+      "sku": "RP-050-T-201-10-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2319,7 +2323,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-200-260",
+      "sku": "RP-050-T-201-10-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2330,7 +2334,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-220-280",
+      "sku": "RP-050-T-201-10-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2341,7 +2345,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-230-300",
+      "sku": "RP-050-T-201-10-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2352,7 +2356,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-250-320",
+      "sku": "RP-050-T-201-10-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2363,7 +2367,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-300-360",
+      "sku": "RP-050-T-201-10-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2374,7 +2378,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-350-420",
+      "sku": "RP-050-T-201-10-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2385,7 +2389,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-400-460",
+      "sku": "RP-050-T-201-10-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2396,7 +2400,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-450-520",
+      "sku": "RP-050-T-201-10-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2407,7 +2411,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NO-30-500-560",
+      "sku": "RP-050-T-201-10-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2418,7 +2422,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-120-180",
+      "sku": "RP-050-T-201-10-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2429,7 +2433,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-130-200",
+      "sku": "RP-050-T-201-10-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2440,7 +2444,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-140-200",
+      "sku": "RP-050-T-201-10-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2451,7 +2455,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-150-220",
+      "sku": "RP-050-T-201-10-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2462,7 +2466,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-160-220",
+      "sku": "RP-050-T-201-10-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2473,7 +2477,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-180-250",
+      "sku": "RP-050-T-201-10-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2484,7 +2488,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-200-260",
+      "sku": "RP-050-T-201-10-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2495,7 +2499,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-220-280",
+      "sku": "RP-050-T-201-10-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2506,7 +2510,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-230-300",
+      "sku": "RP-050-T-201-10-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2517,7 +2521,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-250-320",
+      "sku": "RP-050-T-201-10-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2528,7 +2532,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-300-360",
+      "sku": "RP-050-T-201-10-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2539,7 +2543,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-350-420",
+      "sku": "RP-050-T-201-10-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2550,7 +2554,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-400-460",
+      "sku": "RP-050-T-201-10-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2561,7 +2565,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-450-520",
+      "sku": "RP-050-T-201-10-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2572,7 +2576,7 @@
       }
     },
     {
-      "sku": "RP-T-201-10-NN-30-500-560",
+      "sku": "RP-050-T-201-10-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais201",
@@ -2583,7 +2587,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-100-160",
+      "sku": "RP-050-T-304-05-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2594,7 +2598,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-110-180",
+      "sku": "RP-050-T-304-05-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2605,7 +2609,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-120-180",
+      "sku": "RP-050-T-304-05-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2616,7 +2620,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-130-200",
+      "sku": "RP-050-T-304-05-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2627,7 +2631,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-140-200",
+      "sku": "RP-050-T-304-05-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2638,7 +2642,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-150-220",
+      "sku": "RP-050-T-304-05-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2649,7 +2653,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-160-220",
+      "sku": "RP-050-T-304-05-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2660,7 +2664,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-180-250",
+      "sku": "RP-050-T-304-05-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2671,7 +2675,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-200-260",
+      "sku": "RP-050-T-304-05-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2682,7 +2686,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-220-280",
+      "sku": "RP-050-T-304-05-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2693,7 +2697,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-230-300",
+      "sku": "RP-050-T-304-05-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2704,7 +2708,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-250-320",
+      "sku": "RP-050-T-304-05-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2715,7 +2719,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-300-360",
+      "sku": "RP-050-T-304-05-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2726,7 +2730,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-350-420",
+      "sku": "RP-050-T-304-05-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2737,7 +2741,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-400-460",
+      "sku": "RP-050-T-304-05-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2748,7 +2752,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-450-520",
+      "sku": "RP-050-T-304-05-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2759,7 +2763,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-500-560",
+      "sku": "RP-050-T-304-05-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2770,7 +2774,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-100-200",
+      "sku": "RP-050-T-304-05-NO-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2781,7 +2785,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-120-220",
+      "sku": "RP-050-T-304-05-NO-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2792,7 +2796,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-30-130-230",
+      "sku": "RP-050-T-304-05-NO-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2803,7 +2807,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-100-160",
+      "sku": "RP-050-T-304-05-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2814,7 +2818,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-110-180",
+      "sku": "RP-050-T-304-05-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2825,7 +2829,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-120-180",
+      "sku": "RP-050-T-304-05-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2836,7 +2840,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-130-200",
+      "sku": "RP-050-T-304-05-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2847,7 +2851,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-140-200",
+      "sku": "RP-050-T-304-05-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2858,7 +2862,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-150-220",
+      "sku": "RP-050-T-304-05-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2869,7 +2873,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-160-220",
+      "sku": "RP-050-T-304-05-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2880,7 +2884,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-180-250",
+      "sku": "RP-050-T-304-05-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2891,7 +2895,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-200-260",
+      "sku": "RP-050-T-304-05-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2902,7 +2906,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-220-280",
+      "sku": "RP-050-T-304-05-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2913,7 +2917,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-230-300",
+      "sku": "RP-050-T-304-05-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2924,7 +2928,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-250-320",
+      "sku": "RP-050-T-304-05-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2935,7 +2939,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-300-360",
+      "sku": "RP-050-T-304-05-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2946,7 +2950,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-350-420",
+      "sku": "RP-050-T-304-05-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2957,7 +2961,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-400-460",
+      "sku": "RP-050-T-304-05-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2968,7 +2972,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-450-520",
+      "sku": "RP-050-T-304-05-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2979,7 +2983,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-500-560",
+      "sku": "RP-050-T-304-05-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -2990,7 +2994,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-100-200",
+      "sku": "RP-050-T-304-05-NN-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3001,7 +3005,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-120-220",
+      "sku": "RP-050-T-304-05-NN-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3012,7 +3016,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-30-130-230",
+      "sku": "RP-050-T-304-05-NN-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3023,7 +3027,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-100-160",
+      "sku": "RP-050-T-304-05-NO-50-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3034,7 +3038,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-110-180",
+      "sku": "RP-050-T-304-05-NO-50-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3045,7 +3049,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-120-180",
+      "sku": "RP-050-T-304-05-NO-50-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3056,7 +3060,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-130-200",
+      "sku": "RP-050-T-304-05-NO-50-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3067,7 +3071,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-140-200",
+      "sku": "RP-050-T-304-05-NO-50-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3078,7 +3082,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-150-220",
+      "sku": "RP-050-T-304-05-NO-50-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3089,7 +3093,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-160-220",
+      "sku": "RP-050-T-304-05-NO-50-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3100,7 +3104,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-180-250",
+      "sku": "RP-050-T-304-05-NO-50-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3111,7 +3115,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-200-260",
+      "sku": "RP-050-T-304-05-NO-50-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3122,7 +3126,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-220-280",
+      "sku": "RP-050-T-304-05-NO-50-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3133,7 +3137,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-230-300",
+      "sku": "RP-050-T-304-05-NO-50-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3144,7 +3148,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-250-320",
+      "sku": "RP-050-T-304-05-NO-50-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3155,7 +3159,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-300-360",
+      "sku": "RP-050-T-304-05-NO-50-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3166,7 +3170,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-350-420",
+      "sku": "RP-050-T-304-05-NO-50-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3177,7 +3181,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-400-460",
+      "sku": "RP-050-T-304-05-NO-50-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3188,7 +3192,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-450-520",
+      "sku": "RP-050-T-304-05-NO-50-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3199,7 +3203,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-500-560",
+      "sku": "RP-050-T-304-05-NO-50-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3210,7 +3214,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-100-200",
+      "sku": "RP-050-T-304-05-NO-50-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3221,7 +3225,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-120-220",
+      "sku": "RP-050-T-304-05-NO-50-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3232,7 +3236,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-130-230",
+      "sku": "RP-050-T-304-05-NO-50-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3243,7 +3247,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-140-240",
+      "sku": "RP-050-T-304-05-NO-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3254,7 +3258,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-150-250",
+      "sku": "RP-050-T-304-05-NO-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3265,7 +3269,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-160-260",
+      "sku": "RP-050-T-304-05-NO-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3276,7 +3280,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-180-280",
+      "sku": "RP-050-T-304-05-NO-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3287,7 +3291,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NO-50-200-300",
+      "sku": "RP-050-T-304-05-NO-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3298,7 +3302,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-100-160",
+      "sku": "RP-050-T-304-05-NN-50-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3309,7 +3313,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-110-180",
+      "sku": "RP-050-T-304-05-NN-50-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3320,7 +3324,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-120-180",
+      "sku": "RP-050-T-304-05-NN-50-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3331,7 +3335,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-130-200",
+      "sku": "RP-050-T-304-05-NN-50-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3342,7 +3346,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-140-200",
+      "sku": "RP-050-T-304-05-NN-50-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3353,7 +3357,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-150-220",
+      "sku": "RP-050-T-304-05-NN-50-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3364,7 +3368,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-160-220",
+      "sku": "RP-050-T-304-05-NN-50-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3375,7 +3379,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-180-250",
+      "sku": "RP-050-T-304-05-NN-50-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3386,7 +3390,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-200-260",
+      "sku": "RP-050-T-304-05-NN-50-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3397,7 +3401,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-220-280",
+      "sku": "RP-050-T-304-05-NN-50-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3408,7 +3412,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-230-300",
+      "sku": "RP-050-T-304-05-NN-50-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3419,7 +3423,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-250-320",
+      "sku": "RP-050-T-304-05-NN-50-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3430,7 +3434,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-300-360",
+      "sku": "RP-050-T-304-05-NN-50-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3441,7 +3445,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-350-420",
+      "sku": "RP-050-T-304-05-NN-50-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3452,7 +3456,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-400-460",
+      "sku": "RP-050-T-304-05-NN-50-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3463,7 +3467,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-450-520",
+      "sku": "RP-050-T-304-05-NN-50-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3474,7 +3478,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-500-560",
+      "sku": "RP-050-T-304-05-NN-50-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3485,7 +3489,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-100-200",
+      "sku": "RP-050-T-304-05-NN-50-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3496,7 +3500,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-120-220",
+      "sku": "RP-050-T-304-05-NN-50-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3507,7 +3511,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-130-230",
+      "sku": "RP-050-T-304-05-NN-50-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3518,7 +3522,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-140-240",
+      "sku": "RP-050-T-304-05-NN-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3529,7 +3533,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-150-250",
+      "sku": "RP-050-T-304-05-NN-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3540,7 +3544,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-160-260",
+      "sku": "RP-050-T-304-05-NN-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3551,7 +3555,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-180-280",
+      "sku": "RP-050-T-304-05-NN-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3562,7 +3566,7 @@
       }
     },
     {
-      "sku": "RP-T-304-05-NN-50-200-300",
+      "sku": "RP-050-T-304-05-NN-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3573,7 +3577,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-100-160",
+      "sku": "RP-050-T-304-08-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3584,7 +3588,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-110-180",
+      "sku": "RP-050-T-304-08-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3595,7 +3599,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-120-180",
+      "sku": "RP-050-T-304-08-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3606,7 +3610,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-130-200",
+      "sku": "RP-050-T-304-08-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3617,7 +3621,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-140-200",
+      "sku": "RP-050-T-304-08-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3628,7 +3632,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-150-220",
+      "sku": "RP-050-T-304-08-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3639,7 +3643,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-160-220",
+      "sku": "RP-050-T-304-08-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3650,7 +3654,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-180-250",
+      "sku": "RP-050-T-304-08-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3661,7 +3665,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-200-260",
+      "sku": "RP-050-T-304-08-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3672,7 +3676,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-220-280",
+      "sku": "RP-050-T-304-08-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3683,7 +3687,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-230-300",
+      "sku": "RP-050-T-304-08-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3694,7 +3698,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-250-320",
+      "sku": "RP-050-T-304-08-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3705,7 +3709,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-300-360",
+      "sku": "RP-050-T-304-08-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3716,7 +3720,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-350-420",
+      "sku": "RP-050-T-304-08-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3727,7 +3731,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-400-460",
+      "sku": "RP-050-T-304-08-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3738,7 +3742,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-450-520",
+      "sku": "RP-050-T-304-08-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3749,7 +3753,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-500-560",
+      "sku": "RP-050-T-304-08-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3760,7 +3764,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-100-200",
+      "sku": "RP-050-T-304-08-NO-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3771,7 +3775,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-120-220",
+      "sku": "RP-050-T-304-08-NO-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3782,7 +3786,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-30-130-230",
+      "sku": "RP-050-T-304-08-NO-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3793,7 +3797,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-100-160",
+      "sku": "RP-050-T-304-08-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3804,7 +3808,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-110-180",
+      "sku": "RP-050-T-304-08-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3815,7 +3819,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-120-180",
+      "sku": "RP-050-T-304-08-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3826,7 +3830,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-130-200",
+      "sku": "RP-050-T-304-08-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3837,7 +3841,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-140-200",
+      "sku": "RP-050-T-304-08-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3848,7 +3852,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-150-220",
+      "sku": "RP-050-T-304-08-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3859,7 +3863,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-160-220",
+      "sku": "RP-050-T-304-08-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3870,7 +3874,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-180-250",
+      "sku": "RP-050-T-304-08-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3881,7 +3885,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-200-260",
+      "sku": "RP-050-T-304-08-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3892,7 +3896,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-220-280",
+      "sku": "RP-050-T-304-08-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3903,7 +3907,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-230-300",
+      "sku": "RP-050-T-304-08-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3914,7 +3918,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-250-320",
+      "sku": "RP-050-T-304-08-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3925,7 +3929,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-300-360",
+      "sku": "RP-050-T-304-08-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3936,7 +3940,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-350-420",
+      "sku": "RP-050-T-304-08-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3947,7 +3951,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-400-460",
+      "sku": "RP-050-T-304-08-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3958,7 +3962,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-450-520",
+      "sku": "RP-050-T-304-08-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3969,7 +3973,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-500-560",
+      "sku": "RP-050-T-304-08-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3980,7 +3984,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-100-200",
+      "sku": "RP-050-T-304-08-NN-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -3991,7 +3995,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-120-220",
+      "sku": "RP-050-T-304-08-NN-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4002,7 +4006,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-30-130-230",
+      "sku": "RP-050-T-304-08-NN-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4013,7 +4017,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-100-160",
+      "sku": "RP-050-T-304-08-NO-50-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4024,7 +4028,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-110-180",
+      "sku": "RP-050-T-304-08-NO-50-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4035,7 +4039,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-120-180",
+      "sku": "RP-050-T-304-08-NO-50-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4046,7 +4050,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-130-200",
+      "sku": "RP-050-T-304-08-NO-50-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4057,7 +4061,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-140-200",
+      "sku": "RP-050-T-304-08-NO-50-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4068,7 +4072,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-150-220",
+      "sku": "RP-050-T-304-08-NO-50-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4079,7 +4083,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-160-220",
+      "sku": "RP-050-T-304-08-NO-50-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4090,7 +4094,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-180-250",
+      "sku": "RP-050-T-304-08-NO-50-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4101,7 +4105,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-200-260",
+      "sku": "RP-050-T-304-08-NO-50-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4112,7 +4116,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-220-280",
+      "sku": "RP-050-T-304-08-NO-50-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4123,7 +4127,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-230-300",
+      "sku": "RP-050-T-304-08-NO-50-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4134,7 +4138,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-250-320",
+      "sku": "RP-050-T-304-08-NO-50-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4145,7 +4149,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-300-360",
+      "sku": "RP-050-T-304-08-NO-50-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4156,7 +4160,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-350-420",
+      "sku": "RP-050-T-304-08-NO-50-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4167,7 +4171,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-400-460",
+      "sku": "RP-050-T-304-08-NO-50-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4178,7 +4182,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-450-520",
+      "sku": "RP-050-T-304-08-NO-50-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4189,7 +4193,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-500-560",
+      "sku": "RP-050-T-304-08-NO-50-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4200,7 +4204,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-100-200",
+      "sku": "RP-050-T-304-08-NO-50-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4211,7 +4215,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-120-220",
+      "sku": "RP-050-T-304-08-NO-50-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4222,7 +4226,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-130-230",
+      "sku": "RP-050-T-304-08-NO-50-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4233,7 +4237,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-140-240",
+      "sku": "RP-050-T-304-08-NO-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4244,7 +4248,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-150-250",
+      "sku": "RP-050-T-304-08-NO-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4255,7 +4259,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-160-260",
+      "sku": "RP-050-T-304-08-NO-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4266,7 +4270,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-180-280",
+      "sku": "RP-050-T-304-08-NO-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4277,7 +4281,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NO-50-200-300",
+      "sku": "RP-050-T-304-08-NO-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4288,7 +4292,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-100-160",
+      "sku": "RP-050-T-304-08-NN-50-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4299,7 +4303,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-110-180",
+      "sku": "RP-050-T-304-08-NN-50-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4310,7 +4314,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-120-180",
+      "sku": "RP-050-T-304-08-NN-50-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4321,7 +4325,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-130-200",
+      "sku": "RP-050-T-304-08-NN-50-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4332,7 +4336,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-140-200",
+      "sku": "RP-050-T-304-08-NN-50-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4343,7 +4347,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-150-220",
+      "sku": "RP-050-T-304-08-NN-50-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4354,7 +4358,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-160-220",
+      "sku": "RP-050-T-304-08-NN-50-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4365,7 +4369,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-180-250",
+      "sku": "RP-050-T-304-08-NN-50-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4376,7 +4380,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-200-260",
+      "sku": "RP-050-T-304-08-NN-50-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4387,7 +4391,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-220-280",
+      "sku": "RP-050-T-304-08-NN-50-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4398,7 +4402,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-230-300",
+      "sku": "RP-050-T-304-08-NN-50-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4409,7 +4413,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-250-320",
+      "sku": "RP-050-T-304-08-NN-50-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4420,7 +4424,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-300-360",
+      "sku": "RP-050-T-304-08-NN-50-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4431,7 +4435,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-350-420",
+      "sku": "RP-050-T-304-08-NN-50-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4442,7 +4446,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-400-460",
+      "sku": "RP-050-T-304-08-NN-50-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4453,7 +4457,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-450-520",
+      "sku": "RP-050-T-304-08-NN-50-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4464,7 +4468,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-500-560",
+      "sku": "RP-050-T-304-08-NN-50-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4475,7 +4479,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-100-200",
+      "sku": "RP-050-T-304-08-NN-50-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4486,7 +4490,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-120-220",
+      "sku": "RP-050-T-304-08-NN-50-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4497,7 +4501,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-130-230",
+      "sku": "RP-050-T-304-08-NN-50-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4508,7 +4512,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-140-240",
+      "sku": "RP-050-T-304-08-NN-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4519,7 +4523,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-150-250",
+      "sku": "RP-050-T-304-08-NN-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4530,7 +4534,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-160-260",
+      "sku": "RP-050-T-304-08-NN-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4541,7 +4545,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-180-280",
+      "sku": "RP-050-T-304-08-NN-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4552,7 +4556,7 @@
       }
     },
     {
-      "sku": "RP-T-304-08-NN-50-200-300",
+      "sku": "RP-050-T-304-08-NN-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4563,7 +4567,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-100-160",
+      "sku": "RP-050-T-304-10-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4574,7 +4578,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-110-180",
+      "sku": "RP-050-T-304-10-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4585,7 +4589,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-120-180",
+      "sku": "RP-050-T-304-10-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4596,7 +4600,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-130-200",
+      "sku": "RP-050-T-304-10-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4607,7 +4611,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-140-200",
+      "sku": "RP-050-T-304-10-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4618,7 +4622,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-150-220",
+      "sku": "RP-050-T-304-10-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4629,7 +4633,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-160-220",
+      "sku": "RP-050-T-304-10-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4640,7 +4644,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-180-250",
+      "sku": "RP-050-T-304-10-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4651,7 +4655,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-200-260",
+      "sku": "RP-050-T-304-10-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4662,7 +4666,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-220-280",
+      "sku": "RP-050-T-304-10-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4673,7 +4677,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-230-300",
+      "sku": "RP-050-T-304-10-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4684,7 +4688,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-250-320",
+      "sku": "RP-050-T-304-10-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4695,7 +4699,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-300-360",
+      "sku": "RP-050-T-304-10-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4706,7 +4710,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-350-420",
+      "sku": "RP-050-T-304-10-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4717,7 +4721,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-400-460",
+      "sku": "RP-050-T-304-10-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4728,7 +4732,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-450-520",
+      "sku": "RP-050-T-304-10-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4739,7 +4743,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-500-560",
+      "sku": "RP-050-T-304-10-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4750,7 +4754,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-120-220",
+      "sku": "RP-050-T-304-10-NO-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4761,7 +4765,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-30-130-230",
+      "sku": "RP-050-T-304-10-NO-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4772,7 +4776,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-100-160",
+      "sku": "RP-050-T-304-10-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4783,7 +4787,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-110-180",
+      "sku": "RP-050-T-304-10-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4794,7 +4798,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-120-180",
+      "sku": "RP-050-T-304-10-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4805,7 +4809,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-130-200",
+      "sku": "RP-050-T-304-10-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4816,7 +4820,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-140-200",
+      "sku": "RP-050-T-304-10-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4827,7 +4831,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-150-220",
+      "sku": "RP-050-T-304-10-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4838,7 +4842,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-160-220",
+      "sku": "RP-050-T-304-10-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4849,7 +4853,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-180-250",
+      "sku": "RP-050-T-304-10-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4860,7 +4864,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-200-260",
+      "sku": "RP-050-T-304-10-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4871,7 +4875,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-220-280",
+      "sku": "RP-050-T-304-10-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4882,7 +4886,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-230-300",
+      "sku": "RP-050-T-304-10-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4893,7 +4897,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-250-320",
+      "sku": "RP-050-T-304-10-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4904,7 +4908,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-300-360",
+      "sku": "RP-050-T-304-10-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4915,7 +4919,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-350-420",
+      "sku": "RP-050-T-304-10-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4926,7 +4930,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-400-460",
+      "sku": "RP-050-T-304-10-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4937,7 +4941,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-450-520",
+      "sku": "RP-050-T-304-10-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4948,7 +4952,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-500-560",
+      "sku": "RP-050-T-304-10-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4959,7 +4963,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-120-220",
+      "sku": "RP-050-T-304-10-NN-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4970,7 +4974,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-30-130-230",
+      "sku": "RP-050-T-304-10-NN-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4981,7 +4985,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-50-140-240",
+      "sku": "RP-050-T-304-10-NO-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -4992,7 +4996,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-50-150-250",
+      "sku": "RP-050-T-304-10-NO-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5003,7 +5007,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-50-160-260",
+      "sku": "RP-050-T-304-10-NO-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5014,7 +5018,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-50-180-280",
+      "sku": "RP-050-T-304-10-NO-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5025,7 +5029,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NO-50-200-300",
+      "sku": "RP-050-T-304-10-NO-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5036,7 +5040,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-50-140-240",
+      "sku": "RP-050-T-304-10-NN-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5047,7 +5051,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-50-150-250",
+      "sku": "RP-050-T-304-10-NN-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5058,7 +5062,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-50-160-260",
+      "sku": "RP-050-T-304-10-NN-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5069,7 +5073,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-50-180-280",
+      "sku": "RP-050-T-304-10-NN-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5080,7 +5084,7 @@
       }
     },
     {
-      "sku": "RP-T-304-10-NN-50-200-300",
+      "sku": "RP-050-T-304-10-NN-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais304",
@@ -5091,7 +5095,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-100-160",
+      "sku": "RP-050-T-321-08-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5102,7 +5106,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-110-180",
+      "sku": "RP-050-T-321-08-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5113,7 +5117,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-120-180",
+      "sku": "RP-050-T-321-08-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5124,7 +5128,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-130-200",
+      "sku": "RP-050-T-321-08-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5135,7 +5139,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-140-200",
+      "sku": "RP-050-T-321-08-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5146,7 +5150,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-150-220",
+      "sku": "RP-050-T-321-08-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5157,7 +5161,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-160-220",
+      "sku": "RP-050-T-321-08-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5168,7 +5172,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-180-250",
+      "sku": "RP-050-T-321-08-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5179,7 +5183,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-200-260",
+      "sku": "RP-050-T-321-08-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5190,7 +5194,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-220-280",
+      "sku": "RP-050-T-321-08-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5201,7 +5205,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-230-300",
+      "sku": "RP-050-T-321-08-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5212,7 +5216,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-250-320",
+      "sku": "RP-050-T-321-08-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5223,7 +5227,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-300-360",
+      "sku": "RP-050-T-321-08-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5234,7 +5238,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-350-420",
+      "sku": "RP-050-T-321-08-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5245,7 +5249,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-400-460",
+      "sku": "RP-050-T-321-08-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5256,7 +5260,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-450-520",
+      "sku": "RP-050-T-321-08-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5267,7 +5271,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-500-560",
+      "sku": "RP-050-T-321-08-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5278,7 +5282,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-100-200",
+      "sku": "RP-050-T-321-08-NO-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5289,7 +5293,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-120-220",
+      "sku": "RP-050-T-321-08-NO-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5300,7 +5304,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-30-130-230",
+      "sku": "RP-050-T-321-08-NO-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5311,7 +5315,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-100-160",
+      "sku": "RP-050-T-321-08-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5322,7 +5326,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-110-180",
+      "sku": "RP-050-T-321-08-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5333,7 +5337,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-120-180",
+      "sku": "RP-050-T-321-08-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5344,7 +5348,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-130-200",
+      "sku": "RP-050-T-321-08-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5355,7 +5359,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-140-200",
+      "sku": "RP-050-T-321-08-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5366,7 +5370,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-150-220",
+      "sku": "RP-050-T-321-08-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5377,7 +5381,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-160-220",
+      "sku": "RP-050-T-321-08-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5388,7 +5392,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-180-250",
+      "sku": "RP-050-T-321-08-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5399,7 +5403,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-200-260",
+      "sku": "RP-050-T-321-08-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5410,7 +5414,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-220-280",
+      "sku": "RP-050-T-321-08-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5421,7 +5425,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-230-300",
+      "sku": "RP-050-T-321-08-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5432,7 +5436,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-250-320",
+      "sku": "RP-050-T-321-08-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5443,7 +5447,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-300-360",
+      "sku": "RP-050-T-321-08-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5454,7 +5458,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-350-420",
+      "sku": "RP-050-T-321-08-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5465,7 +5469,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-400-460",
+      "sku": "RP-050-T-321-08-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5476,7 +5480,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-450-520",
+      "sku": "RP-050-T-321-08-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5487,7 +5491,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-500-560",
+      "sku": "RP-050-T-321-08-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5498,7 +5502,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-100-200",
+      "sku": "RP-050-T-321-08-NN-30-100-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5509,7 +5513,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-120-220",
+      "sku": "RP-050-T-321-08-NN-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5520,7 +5524,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-30-130-230",
+      "sku": "RP-050-T-321-08-NN-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5531,7 +5535,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-50-140-240",
+      "sku": "RP-050-T-321-08-NO-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5542,7 +5546,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-50-150-250",
+      "sku": "RP-050-T-321-08-NO-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5553,7 +5557,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-50-160-260",
+      "sku": "RP-050-T-321-08-NO-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5564,7 +5568,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-50-180-280",
+      "sku": "RP-050-T-321-08-NO-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5575,7 +5579,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NO-50-200-300",
+      "sku": "RP-050-T-321-08-NO-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5586,7 +5590,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-50-140-240",
+      "sku": "RP-050-T-321-08-NN-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5597,7 +5601,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-50-150-250",
+      "sku": "RP-050-T-321-08-NN-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5608,7 +5612,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-50-160-260",
+      "sku": "RP-050-T-321-08-NN-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5619,7 +5623,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-50-180-280",
+      "sku": "RP-050-T-321-08-NN-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5630,7 +5634,7 @@
       }
     },
     {
-      "sku": "RP-T-321-08-NN-50-200-300",
+      "sku": "RP-050-T-321-08-NN-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5641,7 +5645,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-100-160",
+      "sku": "RP-050-T-321-10-NO-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5652,7 +5656,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-110-180",
+      "sku": "RP-050-T-321-10-NO-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5663,7 +5667,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-120-180",
+      "sku": "RP-050-T-321-10-NO-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5674,7 +5678,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-130-200",
+      "sku": "RP-050-T-321-10-NO-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5685,7 +5689,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-140-200",
+      "sku": "RP-050-T-321-10-NO-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5696,7 +5700,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-150-220",
+      "sku": "RP-050-T-321-10-NO-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5707,7 +5711,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-160-220",
+      "sku": "RP-050-T-321-10-NO-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5718,7 +5722,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-180-250",
+      "sku": "RP-050-T-321-10-NO-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5729,7 +5733,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-200-260",
+      "sku": "RP-050-T-321-10-NO-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5740,7 +5744,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-220-280",
+      "sku": "RP-050-T-321-10-NO-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5751,7 +5755,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-230-300",
+      "sku": "RP-050-T-321-10-NO-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5762,7 +5766,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-250-320",
+      "sku": "RP-050-T-321-10-NO-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5773,7 +5777,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-300-360",
+      "sku": "RP-050-T-321-10-NO-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5784,7 +5788,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-350-420",
+      "sku": "RP-050-T-321-10-NO-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5795,7 +5799,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-400-460",
+      "sku": "RP-050-T-321-10-NO-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5806,7 +5810,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-450-520",
+      "sku": "RP-050-T-321-10-NO-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5817,7 +5821,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-500-560",
+      "sku": "RP-050-T-321-10-NO-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5828,7 +5832,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-120-220",
+      "sku": "RP-050-T-321-10-NO-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5839,7 +5843,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-30-130-230",
+      "sku": "RP-050-T-321-10-NO-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5850,7 +5854,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-100-160",
+      "sku": "RP-050-T-321-10-NN-30-100-160",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5861,7 +5865,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-110-180",
+      "sku": "RP-050-T-321-10-NN-30-110-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5872,7 +5876,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-120-180",
+      "sku": "RP-050-T-321-10-NN-30-120-180",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5883,7 +5887,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-130-200",
+      "sku": "RP-050-T-321-10-NN-30-130-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5894,7 +5898,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-140-200",
+      "sku": "RP-050-T-321-10-NN-30-140-200",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5905,7 +5909,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-150-220",
+      "sku": "RP-050-T-321-10-NN-30-150-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5916,7 +5920,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-160-220",
+      "sku": "RP-050-T-321-10-NN-30-160-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5927,7 +5931,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-180-250",
+      "sku": "RP-050-T-321-10-NN-30-180-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5938,7 +5942,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-200-260",
+      "sku": "RP-050-T-321-10-NN-30-200-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5949,7 +5953,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-220-280",
+      "sku": "RP-050-T-321-10-NN-30-220-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5960,7 +5964,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-230-300",
+      "sku": "RP-050-T-321-10-NN-30-230-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5971,7 +5975,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-250-320",
+      "sku": "RP-050-T-321-10-NN-30-250-320",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5982,7 +5986,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-300-360",
+      "sku": "RP-050-T-321-10-NN-30-300-360",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -5993,7 +5997,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-350-420",
+      "sku": "RP-050-T-321-10-NN-30-350-420",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6004,7 +6008,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-400-460",
+      "sku": "RP-050-T-321-10-NN-30-400-460",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6015,7 +6019,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-450-520",
+      "sku": "RP-050-T-321-10-NN-30-450-520",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6026,7 +6030,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-500-560",
+      "sku": "RP-050-T-321-10-NN-30-500-560",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6037,7 +6041,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-120-220",
+      "sku": "RP-050-T-321-10-NN-30-120-220",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6048,7 +6052,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-30-130-230",
+      "sku": "RP-050-T-321-10-NN-30-130-230",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6059,7 +6063,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-50-140-240",
+      "sku": "RP-050-T-321-10-NO-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6070,7 +6074,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-50-150-250",
+      "sku": "RP-050-T-321-10-NO-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6081,7 +6085,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-50-160-260",
+      "sku": "RP-050-T-321-10-NO-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6092,7 +6096,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-50-180-280",
+      "sku": "RP-050-T-321-10-NO-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6103,7 +6107,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NO-50-200-300",
+      "sku": "RP-050-T-321-10-NO-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6114,7 +6118,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-50-140-240",
+      "sku": "RP-050-T-321-10-NN-50-140-240",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6125,7 +6129,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-50-150-250",
+      "sku": "RP-050-T-321-10-NN-50-150-250",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6136,7 +6140,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-50-160-260",
+      "sku": "RP-050-T-321-10-NN-50-160-260",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6147,7 +6151,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-50-180-280",
+      "sku": "RP-050-T-321-10-NN-50-180-280",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",
@@ -6158,7 +6162,7 @@
       }
     },
     {
-      "sku": "RP-T-321-10-NN-50-200-300",
+      "sku": "RP-050-T-321-10-NN-50-200-300",
       "attributes": {
         "chimneyType": "thermo",
         "steelGrade": "ais321",

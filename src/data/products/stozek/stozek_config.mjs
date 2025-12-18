@@ -36,7 +36,6 @@ const addVariants = (type, grade, thick, exec, ins, diameters) => {
 };
 
 
-
 // Thermo/AiSi304
 const diams_Thermo_304_05_iso30 = [
     '100/160', '110/180', '120/180', '130/200', '140/200',
@@ -78,7 +77,7 @@ const diams_Thermo_304_10_iso30 = [
     '230/300', '250/320', '300/360', '350/420', '400/460',
     '450/520', '500/560', '120/220', '130/230', '140/240',
     '150/250', '160/260', '180/280', '200/300'
-    
+
 ];
 const diams_Thermo_304_10_iso50 = [
     '120/180', '130/200', '140/200',
@@ -118,7 +117,7 @@ const diams_Thermo_321_10_iso30 = [
     '230/300', '250/320', '300/360', '350/420',
 ];
 const diams_Thermo_321_10_iso50 = [
-     '140/240', '150/250', '160/260', '180/280', '200/300',
+    '140/240', '150/250', '160/260', '180/280', '200/300',
 ];
 
 addVariants('thermo', 'ais321', 't10', 'nerzh_oc', 'iso30', diams_Thermo_321_10_iso30);
@@ -147,9 +146,9 @@ const finalObject = {
 
     applicableAttributes: [
         'chimneyType',
-        'steelGrade', 
+        'steelGrade',
         'steelThickness',
-        'execution', 
+        'execution',
         'insulation',
         'diameter'
     ],
