@@ -58,13 +58,14 @@ const imageVariant = {
 const ConfigSelect = ({ label, options, value, onChange, attributeName, checkAvailability, disabled = false }) => {
     const { t } = useTranslation();
 
-
     if (!options || options.length === 0) return null;
+
+    const translatedLabel = t(`configurator.attributes.${attributeName}.label`, label);
 
     return (
         <motion.div className="mb-4" variants={selectorVariant}>
             <label className="block text-[#A0AEC0] text-xs uppercase tracking-widest font-bold mb-2">
-                {label}
+                {translatedLabel}
             </label>
             <div className="relative">
                 <select
@@ -75,9 +76,24 @@ const ConfigSelect = ({ label, options, value, onChange, attributeName, checkAva
                 >
                     {options.map((opt) => {
                         const isAvailable = attributeName === 'chimneyType' ? true : checkAvailability(attributeName, opt.id);
+                        
+                        let displayName = opt.name;
+                        let extraText = opt.text;
+
+                        if (attributeName !== 'diameter') {
+                            const trKey = `configurator.attributes.${attributeName}.options.${opt.id}`;
+                            
+                            const tr = t(trKey, { returnObjects: true });
+                            
+                            if (typeof tr === 'object' && !Array.isArray(tr) && tr !== null && tr.name) {
+                                displayName = tr.name;
+                                extraText = tr.text;
+                            }
+                        }
+
                         return (
                             <option key={opt.id} value={opt.id} disabled={!isAvailable} className={isAvailable ? "bg-[#13151A]" : "bg-[#1C1F26] text-gray-500"}>
-                                {opt.name} {opt.text ? `- ${opt.text}` : ''}
+                                {displayName} {extraText ? `- ${extraText}` : ''}
                                 {!isAvailable ? t('configurator.unavailable_option') : ''}
                             </option>
                         );

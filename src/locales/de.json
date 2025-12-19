@@ -1,0 +1,558 @@
+{
+  "nav": {
+    "technology": "Technologie",
+    "products": "Produkte",
+    "realizations": "Projekte",
+    "contact": "Kontakt",
+    "hotline": "Technische Hotline"
+  },
+  "header": {
+    "order_call": "Rückruf anfordern"
+  },
+  "hero": {
+    "title": "Schornstein- &<br /> Lüftungs-<br /> elemente",
+    "description": "Herstellung von Präzisionskomponenten aus Edelstahl. Individuelle Durchmesser, zertifizierter Stahl, passgenau für Industrie und Bauwesen.",
+    "cta_catalog": "Produkt katalog",
+    "cta_contact": "Rückruf anfordern"
+  },
+  "trustbar": {
+    "steel_label": "Zertifizierter Stahl",
+    "steel_title": "AISI 304 / 321",
+    "steel_desc": "Säure- und hitzebeständig",
+    "tech_label": "Verbindungstechnik",
+    "tech_title": "Plasmaschweißen",
+    "tech_desc": "Perfekte Schweißnahtdichtheit",
+    "thermal_label": "Temperaturbeständigkeit",
+    "thermal_title": "Max 1000°C",
+    "thermal_desc": "Rußbrandbeständig",
+    "safety_label": "Sicherheitsstandards",
+    "safety_title": "PN-EN 1856-1",
+    "safety_desc": "CE-Konformitätszertifikat"
+  },
+  "safety": {
+    "label": "Qualitätssicherung",
+    "title": "Kompromisslose<br />Sicherheit",
+    "corrosion_title": "Korrosionsbeständigkeit",
+    "corrosion_desc": "Vergessen Sie den Schornsteinaustausch für Jahrzehnte. Wir verwenden nur hochwertigen säurebeständigen Stahl, der in aggressiven Abgasumgebungen nicht korrodiert.",
+    "fire_title": "Rußbrandbeständigkeit",
+    "fire_desc": "Hält extremen Temperaturen bis zu 1000°C stand. Ihr Haus und Ihre Familie bleiben auch bei Kesselausfall oder Rußentzündung sicher.",
+    "warranty_title": "Herstellergarantie",
+    "warranty_desc": "Volle Verantwortung für jedes Systemelement. Unsere Produkte besitzen die CE-Zertifizierung und unterliegen strengen Qualitätskontrollen."
+  },
+  "catalog_section": {
+    "sidebar": {
+      "mode_label": "Visualisierungsmodus",
+      "diagram_title": "Konstruktions-<br />diagramm",
+      "diagram_desc": "Übersicht der Schornsteinsystemelemente. Sehen Sie die Montagereihenfolge.",
+      "help_title": "Brauchen Sie Hilfe?",
+      "help_desc": "Unsere Ingenieure helfen Ihnen bei der Auswahl der richtigen Durchmesser und Elemente für Ihr Projekt.",
+      "ask_expert": "Experten fragen"
+    },
+    "main": {
+      "label": "Teilekatalog",
+      "title": "Elementübersicht",
+      "desc": "Vollständiges Sortiment an Präzisionskomponenten aus Edelstahl, kategorisiert nach Montagezonen."
+    }
+  },
+  "portfolio": {
+    "label": "Fotobereicht",
+    "title": "Realisierungen unserer<br />Produkte",
+    "project_prefix": "Projekt #"
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Haben Sie Fragen?<br />Lassen Sie uns reden",
+    "direct_data": "Direkte Kontaktdaten",
+    "hotline_label": "Technische Hotline",
+    "email_label": "E-Mail-Adresse",
+    "hours_label": "Hotline-Zeiten",
+    "hours_value": "Mo-Fr: 08:00 - 16:00",
+    "response_label": "E-Mail-Antwortzeit",
+    "response_value": "Durchschn. < 2h (Werktage)",
+    "form_title": "Hinterlassen Sie eine Nachricht",
+    "form_desc": "Füllen Sie das Formular aus und unser Ingenieur wird Sie so schnell wie möglich telefonisch kontaktieren, um Ihr Projekt zu besprechen.",
+    "form_name": "Vollständiger Name",
+    "form_name_ph": "Geben Sie Ihre Daten ein...",
+    "form_phone": "Telefonnummer",
+    "form_phone_ph": "+49...",
+    "form_message": "Nachricht",
+    "form_message_ph": "Beschreiben Sie kurz Ihr Projekt oder Ihre technische Frage...",
+    "optional": "(optional)",
+    "submit_btn": "Rückruf anfordern",
+    "privacy_note": "* Pflichtfelder. Ihre Daten werden gemäß unserer Datenschutzrichtlinie verarbeitet, um Ihre Anfrage zu bearbeiten."
+  },
+  "catalog": {
+    "code_label": "CODE",
+    "sections": {
+      "section-1": "Mündung (Über Dach)",
+      "section-2": "Führung (Wand)",
+      "section-3": "Basis (Heizraum)"
+    },
+    "products": {
+      "DF-01": {
+        "name": "Deflektor",
+        "description": "Gerät zur Montage auf der Schornsteinspitze, entwickelt zur Unterstützung des Schornsteinzugs und zum Schutz des Rauchrohrs vor Niederschlag.",
+        "benefits": [
+          {
+            "title": "Zugstabilisierung",
+            "text": "Die Konstruktion nutzt die Windkraft zur Erzeugung von Unterdruck, was den Schornsteinzug effektiv verbessert und stabilisiert."
+          },
+          {
+            "title": "Windschutz",
+            "text": "Schützt das Rauchrohr vor Fallwinden (katabatischen Winden) und verhindert Rauchrückschlag in das Gebäude."
+          }
+        ]
+      },
+      "NK-02": {
+        "name": "Drehbarer Schornsteinaufsatz \"Hahn\"",
+        "description": "Selbstausrichtender Schornsteinaufsatz, der sich immer in Windrichtung stellt. Nutzt die Windkraft zur Zugunterstützung und zum Schutz des Rauchrohrs.",
+        "benefits": [
+          {
+            "title": "Maximale Effizienz",
+            "text": "Dank der Lagerkonstruktion dreht sich der Aufsatz reibungslos, positioniert sich vom Wind weg und erzeugt Unterdruck, der Abgase effektiv absaugt."
+          },
+          {
+            "title": "Rückstauschutz",
+            "text": "Das spezielle Design schirmt den Schornsteinauslass vollständig vor Fallwinden ab und eliminiert das Risiko von Rückstau und Raucheintritt in den Raum."
+          }
+        ]
+      },
+      "WW-03": {
+        "name": "Wolpert Schornsteinaufsatz",
+        "description": "Zylindrischer Schornsteinaufsatz, der Windenergie zur Zugunterstützung nutzt. Schützt das Rauchrohr vor Niederschlag und stabilisiert die Belüftung.",
+        "benefits": [
+          {
+            "title": "Effektive Belüftung",
+            "text": "Die Konstruktion mit vertikalen Lamellen erzeugt bei jedem Windstoß Unterdruck und saugt verbrauchte Luft oder Abgase effektiv aus dem Schornstein."
+          },
+          {
+            "title": "Kompaktes Design",
+            "text": "Keine beweglichen Teile machen ihn störungsfrei, geräuschlos und widerstandsfähig gegen raue Wetterbedingungen, ideal für die Schwerkraftlüftung."
+          }
+        ]
+      },
+      "PG-04": {
+        "name": "Regenhaube / Pilz",
+        "description": "Klassischer Schornsteinabschluss zum Schutz des Rauchrohrs vor Niederschlag. Gewährleistet freien Abgasaustritt.",
+        "benefits": [
+          {
+            "title": "Regenschutz",
+            "text": "Schützt das Schornsteininnere effektiv vor Regen und Schnee und verhindert Feuchtigkeit und Korrosion im Rauchrohr."
+          },
+          {
+            "title": "Minimaler Widerstand",
+            "text": "Das offene Design stört den Schornsteinzug nicht und ermöglicht einen freien und sicheren Abgasaustritt in die Atmosphäre."
+          }
+        ]
+      },
+      "IS-05": {
+        "name": "Funkenfänger",
+        "description": "Spezialisierter Schornsteinabschluss mit einem Netz, das glühende Partikel stoppt. Unerlässlich für Dächer aus brennbaren Materialien.",
+        "benefits": [
+          {
+            "title": "Brandschutz",
+            "text": "Bricht und löscht effektiv Funken, die aus dem Rauchrohr austreten, und schützt Dach und Umgebung vor Entzündung."
+          },
+          {
+            "title": "Gesetzliche Anforderung",
+            "text": "Die Verwendung eines Funkenfängers ist für Gebäude mit brennbarer Bedachung (z.B. Stroh, Holzschindeln) vorgeschrieben."
+          }
+        ]
+      },
+      "US-06": {
+        "name": "Mündungsabschluss / Konus",
+        "description": "Element zum Verschließen des oberen Teils des doppelwandigen (isolierten) Schornsteins. Schützt die Isolierschicht vor Niederschlag.",
+        "benefits": [
+          {
+            "title": "Isolationsschutz",
+            "text": "Dichtet den Raum zwischen Innenrohr und Außenmantel fest ab und verhindert, dass die Mineralwolle nass wird."
+          },
+          {
+            "title": "Ästhetischer Abschluss",
+            "text": "Sorgt für einen eleganten und professionellen Abschluss des Schornsteinsystems und gewährleistet dessen Langlebigkeit und Dichtheit."
+          }
+        ]
+      },
+      "ZK-07": {
+        "name": "Schornsteinabschluss",
+        "description": "Ästhetisches Element zur Krönung des Schornsteinauslasses. Sichert die Rohrkante und verleiht der gesamten Installation ein professionelles Aussehen.",
+        "benefits": [
+          {
+            "title": "Ästhetische Ausführung",
+            "text": "Präzise gefertigtes Element verdeckt die Kanten der Schornsteinzüge und sorgt für einen sauberen Systemabschluss auf dem Dach."
+          },
+          {
+            "title": "Mechanischer Schutz",
+            "text": "Die starre Edelstahlkonstruktion verstärkt den Rohrauslass und schützt ihn vor Verformung und mechanischen Beschädigungen."
+          }
+        ]
+      },
+      "SO-08": {
+        "name": "Schutzgitter",
+        "description": "Element zur Sicherung des Schornsteinauslasses gegen Vögel, Laub und anderen Schmutz. Garantiert die Durchgängigkeit des Rauchrohrs.",
+        "benefits": [
+          {
+            "title": "Vogelschutz",
+            "text": "Effektive physische Barriere verhindert, dass Vögel im Schornstein nisten, und vermeidet gefährliche Verstopfungen und Kohlenmonoxidvergiftungen."
+          },
+          {
+            "title": "Freier Durchfluss",
+            "text": "Entsprechend gewählte Maschenweite sorgt für freien Abgasaustritt und Belüftung, während größerer Schmutz aufgehalten wird."
+          }
+        ]
+      },
+      "RP-100": {
+        "name": "Längenelement 1m",
+        "description": "Basiselement des Schornsteinsystems, 1 Meter lang. Sorgt für eine schnelle und stabile Montage gerader Schornsteinabschnitte.",
+        "benefits": [
+          {
+            "title": "Hohe Beständigkeit",
+            "text": "Hergestellt aus hochwertigem Edelstahl, beständig gegen aggressive Umgebungen, Säuren und Kondensat."
+          },
+          {
+            "title": "Hitzebeständigkeit",
+            "text": "Hält Temperaturen bis zu 800°C stand, ideal für Kamine, Öfen und Festbrennstoffkessel."
+          }
+        ]
+      },
+      "RP-050": {
+        "name": "Längenelement 0.5m",
+        "description": "Schornsteinelement, 0,5 Meter lang. Dient zur präzisen Anpassung der Schornsteinhöhe, wenn ein voller Abschnitt zu lang ist.",
+        "benefits": [
+          {
+            "title": "Hohe Beständigkeit",
+            "text": "Hergestellt aus hochwertigem Edelstahl, beständig gegen Säuren und Kondensat."
+          },
+          {
+            "title": "Hitzebeständigkeit",
+            "text": "Beständig gegen Temperaturen bis zu 800°C, sicher für jeden Kesseltyp."
+          }
+        ]
+      },
+      "RP-030": {
+        "name": "Längenelement 0.3m",
+        "description": "Kurzes Element, 0,3 Meter lang. Ideal zum Verbinden und Anpassen von Abschnitten auf engem Raum.",
+        "benefits": [
+          {
+            "title": "Hohe Beständigkeit",
+            "text": "Edelstahl garantiert eine lange Lebensdauer."
+          },
+          {
+            "title": "Universalität",
+            "text": "Passt zu allen einwandigen und doppelwandigen Systemen."
+          }
+        ]
+      },
+      "RP-025": {
+        "name": "Längenelement 0.25m",
+        "description": "Der kürzeste Abschnitt (0,25m) zur präzisen Einstellung der Länge des Rauchrohrs oder der Schornsteinverrohrung.",
+        "benefits": [
+          {
+            "title": "Präzision",
+            "text": "Ermöglicht eine genaue Anpassung der Installationslänge."
+          },
+          {
+            "title": "Langlebigkeit",
+            "text": "Beständig gegen Korrosion und hohe Temperaturen."
+          }
+        ]
+      },
+      "KL-45": {
+        "name": "Bogen 45°",
+        "description": "Element zur Änderung der Richtung des Rauchrohrs um 45 Grad. Ermöglicht das Umgehen von Hindernissen.",
+        "benefits": [
+          {
+            "title": "Präzise Ausführung",
+            "text": "Lasergeschnitten und plasmageschweißt für perfekte Dichtheit."
+          },
+          {
+            "title": "Einfache Montage",
+            "text": "Muffensystem sorgt für schnelle Verbindung."
+          }
+        ]
+      },
+      "KL-90": {
+        "name": "Bogen 90°",
+        "description": "Element zur Änderung der Richtung des Rauchrohrs um 90 Grad. Besteht aus verstellbaren Segmenten.",
+        "benefits": [
+          {
+            "title": "Präzise Ausführung",
+            "text": "Lasergeschnitten und plasmageschweißt für perfekte Dichtheit."
+          },
+          {
+            "title": "Einfache Montage",
+            "text": "Muffensystem sorgt für schnelle Verbindung."
+          }
+        ]
+      },
+      "OS-13": {
+        "name": "Wandhalter",
+        "description": "Element zur Befestigung des Schornsteins an der Wand. Sorgt für strukturelle Stabilität und verhindert Verschiebung.",
+        "benefits": [
+          {
+            "title": "Stabilität",
+            "text": "Sichere Befestigung von Schornsteinelementen an der Fassade oder Tragkonstruktion."
+          },
+          {
+            "title": "Verstellbarkeit",
+            "text": "Ermöglicht die Einstellung des Wandabstands (bei Verwendung entsprechender Verlängerungen)."
+          }
+        ]
+      },
+      "PP-14": {
+        "name": "Durchführungsplatte",
+        "description": "Element zur Abdeckung der Durchführung des doppelwandigen Schornsteins durch Wände oder Decken. Bietet einen ästhetischen Abschluss und deckt das Montageloch ab.",
+        "benefits": [
+          {
+            "title": "Ästhetik",
+            "text": "Verdeckt Unregelmäßigkeiten des Lochs in Wand oder Decke und verleiht der Installation ein professionelles Aussehen."
+          },
+          {
+            "title": "Sicherheit",
+            "text": "Aus nicht brennbarem Material gefertigt, dient als zusätzlicher Schutz an der Durchführung durch Gebäudeteile."
+          }
+        ]
+      },
+      "TR-45": {
+        "name": "T-Stück 45°",
+        "description": "Element zum Anschluss eines Heizgerätes an den Schornstein in einem 45-Grad-Winkel. Sorgt für optimalen Abgasstrom und besseren Zug.",
+        "benefits": [
+          {
+            "title": "Reibungsloser Fluss",
+            "text": "Der 45-Grad-Neigungswinkel minimiert den Strömungswiderstand der Abgase und unterstützt den Schornsteinzug."
+          },
+          {
+            "title": "WIG-Schweißen",
+            "text": "Höchste Qualität der unter Schutzgas geschweißten Verbindungen garantiert Dichtheit und Sicherheit."
+          }
+        ]
+      },
+      "TR-90": {
+        "name": "T-Stück 90°",
+        "description": "Standardelement zum rechtwinkligen Anschluss des Rauchrohrs an den Schornstein. Ermöglicht den einfachen Anschluss von Kessel oder Kamin.",
+        "benefits": [
+          {
+            "title": "Universalität",
+            "text": "Passt zu den meisten Standardanschlüssen von Kesseln und Kamineinsätzen."
+          },
+          {
+            "title": "WIG-Schweißen",
+            "text": "Garantie für Haltbarkeit und Dichtheit der Verbindungen dank professionellem Schweißen."
+          }
+        ]
+      },
+      "WC-01": {
+        "name": "Reinigungselement / Revision",
+        "description": "Element, das den Zugang zum Schornsteininneren zur Reinigung und Inspektion ermöglicht. Ausgestattet mit einer dichten Tür.",
+        "benefits": [
+          {
+            "title": "Wartungszugang",
+            "text": "Unerlässlich für die regelmäßige Rußreinigung und Inspektion des Rauchrohrzustands."
+          },
+          {
+            "title": "Dichtheit",
+            "text": "Türen (in der Thermo-Version isoliert) sorgen für Sicherheit und verhindern Wärmeverlust."
+          }
+        ]
+      },
+      "OD-18": {
+        "name": "Kondensatablauf",
+        "description": "Element, das am unteren Ende des Schornsteins montiert wird. Dient zum Ableiten von Kondensat, das während des Verbrennungsprozesses entsteht.",
+        "benefits": [
+          {
+            "title": "Kesselschutz",
+            "text": "Verhindert, dass saures Kondensat in das Heizgerät zurückfließt."
+          },
+          {
+            "title": "Systemhygiene",
+            "text": "Ermöglicht eine einfache und kontrollierte Feuchtigkeitsabfuhr aus dem Rauchrohr."
+          }
+        ]
+      },
+      "PW-19": {
+        "name": "Fundamentplatte",
+        "description": "Startelement des Schornsteins, montiert auf Fundament oder Konsole. Ermöglicht die Installation des Reinigungs-T-Stücks und des Kondensatablaufs.",
+        "benefits": [
+          {
+            "title": "Stabiler Start",
+            "text": "Bietet eine solide Basis für den gesamten vertikalen Schornsteinzug, der vom Boden aus montiert wird."
+          },
+          {
+            "title": "Säurebeständigkeit",
+            "text": "Vollständig aus säurebeständigem Stahl 304 gefertigt, was Langlebigkeit garantiert."
+          }
+        ]
+      },
+      "RD-20": {
+        "name": "Reduzierung / Adapter",
+        "description": "Element zur Verbindung von Rohren mit unterschiedlichen Durchmessern. Unerlässlich bei Änderung des Rauchrohrdurchmessers oder Anschluss an ein Heizgerät.",
+        "benefits": [
+          {
+            "title": "Passgenauigkeit",
+            "text": "Ermöglicht eine dichte Verbindung von Elementen mit unterschiedlichen Abmessungen."
+          },
+          {
+            "title": "Langlebigkeit",
+            "text": "Hergestellt aus säurebeständigem Edelstahl, was eine lange Lebensdauer garantiert."
+          }
+        ]
+      },
+      "SZ-21": {
+        "name": "Drosselklappe",
+        "description": "Element zur Regulierung des Schornsteinzugs. Ermöglicht das Schließen des Rauchrohrs nach Erlöschen des Ofens.",
+        "benefits": [
+          {
+            "title": "Wärmeersparnis",
+            "text": "Verhindert, dass warme Luft aus dem Raum durch den Schornstein gezogen wird, wenn der Ofen nicht in Betrieb ist."
+          },
+          {
+            "title": "Zugregulierung",
+            "text": "Ermöglicht die manuelle Steuerung der Verbrennungsintensität durch Änderung des Abgasstroms."
+          }
+        ]
+      },
+      "RA-050": {
+        "name": "Radiator 0.5m",
+        "description": "Element zur Vergrößerung der Heizfläche des Schornsteins (0,5m). Gewinnt Wärme aus Abgasen zurück und heizt den Raum zusätzlich.",
+        "benefits": [
+          {
+            "title": "Wärmerückgewinnung",
+            "text": "Dank der Rippung wird die Wärmeabgabefläche deutlich vergrößert und die Heizeffizienz gesteigert."
+          },
+          {
+            "title": "Einsparungen",
+            "text": "Ermöglicht eine bessere Nutzung der Verbrennungsenergie, was zu einem geringeren Brennstoffverbrauch führt."
+          }
+        ]
+      },
+      "RA-100": {
+        "name": "Radiator 1m",
+        "description": "Langes Radiatorelement (1m) zur Maximierung der Wärmerückgewinnung aus dem Schornsteinsystem. Ideal für hohe Räume.",
+        "benefits": [
+          {
+            "title": "Wärmerückgewinnung",
+            "text": "Vergrößert die Heizfläche des Schornsteins erheblich."
+          },
+          {
+            "title": "Einsparungen",
+            "text": "Maximale Nutzung der thermischen Energie der Abgase."
+          }
+        ]
+      },
+      "WX-23": {
+        "name": "Wasserwärmetauscher 14L (AISI 321 1mm)",
+        "description": "Effektives Element zur Erwärmung von Wasser durch Abgaswärme. Tankkapazität 14 Liter.\n\nDas Set besteht aus drei Teilen:\n1. Rauchrohr 1m (d120mm, 1mm, AISI 321);\n2. Wassermantel 0,6m (d220mm, 1mm, AISI 321);\n3. Reduzierung d120-/120+ (1mm, AISI 321).",
+        "benefits": [
+          {
+            "title": "Energieeinsparung",
+            "text": "Ermöglicht die Gewinnung von 14 Litern heißem Wasser durch Nutzung der Wärme, die normalerweise durch den Schornstein entweicht."
+          },
+          {
+            "title": "Zuverlässige Materialien",
+            "text": "Alle Elemente bestehen aus hitzebeständigem Edelstahl AISI 321, 1mm dick."
+          }
+        ]
+      }
+    }
+  },
+  "product_page": {
+    "back": "Zurück zum Katalog"
+  },
+  "configurator": {
+    "thermo_badge": "Thermo",
+    "benefits_title": "Produktvorteile",
+    "code_label": "CODE",
+    "config_header": "Konfiguration",
+    "quote_title": "Individuelles Angebot",
+    "quote_desc": "Der Preis hängt vom Auftragsvolumen und den technischen Spezifikationen ab.",
+    "ask_price_btn": "Preis anfragen",
+    "unavailable_combination": "Diese Kombination ist in der Serienproduktion nicht verfügbar. Bitte ändern Sie die Parameter.",
+    "unavailable_option": " (Nicht verfügbar)",
+    "attributes": {
+      "chimneyType": {
+        "label": "Schornsteinsystem",
+        "options": {
+          "single": {
+            "name": "Einwandig"
+          },
+          "thermo": {
+            "name": "Doppelwandig"
+          }
+        }
+      },
+      "steelGrade": {
+        "label": "Stahlsorte",
+        "options": {
+          "ais201": {
+            "name": "AISI 201",
+            "text": "Economy"
+          },
+          "ais304": {
+            "name": "AISI 304",
+            "text": "Standard"
+          },
+          "ais321": {
+            "name": "AISI 321",
+            "text": "Industrie"
+          }
+        }
+      },
+      "steelThickness": {
+        "label": "Stahlstärke",
+        "options": {
+          "t05": {
+            "name": "0.5 mm"
+          },
+          "t08": {
+            "name": "0.8 mm"
+          },
+          "t10": {
+            "name": "1.0 mm"
+          }
+        }
+      },
+      "execution": {
+        "label": "Materialausführung",
+        "options": {
+          "nerzh": {
+            "name": "Edelstahl",
+            "text": "Säurebeständiger Stahl"
+          },
+          "oc": {
+            "name": "Verzinkt",
+            "text": "Verzinkter Stahl"
+          },
+          "nerzh_oc": {
+            "name": "Edelstahl/Verzinkt",
+            "text": "Innen Säurebest. / Außen Verzinkt"
+          },
+          "nerzh_nerzh": {
+            "name": "Edelstahl/Edelstahl",
+            "text": "Vollständig Säurebeständig"
+          }
+        }
+      },
+      "insulation": {
+        "label": "Isolierung",
+        "options": {
+          "iso30": {
+            "name": "30 mm",
+            "text": "Mineralwolle"
+          },
+          "iso50": {
+            "name": "50 mm",
+            "text": "Industriewolle"
+          }
+        }
+      },
+      "diameter": {
+        "label": "Durchmesser"
+      }
+    }
+  },
+  "footer": {
+    "rights": "Industrielle Schornsteinsysteme.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen"
+  }
+}

@@ -114,7 +114,7 @@ const Catalog = () => {
                         ref={diagramRef}
                         src="/assets/chimney_system_diagram.png"
                         alt="Chimney System Diagram"
-                        className="h-full w-auto max-w-full object-contain mx-auto will-change-transform"
+                        className="h-auto w-auto max-h-[200px] lg:max-h-full max-w-[80%] lg:max-w-full object-contain mx-auto will-change-transform"
                         style={{ filter: 'dropShadow(0 0 20px rgba(255, 79, 0, 0.15))' }}
 
                         variants={floatingVariant}
@@ -182,7 +182,7 @@ const Catalog = () => {
                             variants={sectionHeaderVariants}
                             initial="hidden"
                             whileInView="visible"
-                            viewport={{ once: true, margin: "-100px" }} 
+                            viewport={{ once: true, margin: "-100px" }}
                         >
                             <span className="text-[#FF4F00] font-mono font-bold text-xl">{section.number}</span>
                             <h4 className="text-lg font-bold text-white uppercase tracking-tight">

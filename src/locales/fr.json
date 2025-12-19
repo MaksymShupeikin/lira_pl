@@ -1,0 +1,558 @@
+{
+  "nav": {
+    "technology": "Technologie",
+    "products": "Produits",
+    "realizations": "Projets",
+    "contact": "Contact",
+    "hotline": "Hotline Technique"
+  },
+  "header": {
+    "order_call": "Demander un rappel"
+  },
+  "hero": {
+    "title": "Éléments de<br />Cheminée et<br />Ventilation",
+    "description": "Production de composants de précision en acier inoxydable. Diamètres sur mesure, acier certifié, ajustement parfait pour l'industrie et la construction.",
+    "cta_catalog": "Catalogue Produits",
+    "cta_contact": "Demander un rappel"
+  },
+  "trustbar": {
+    "steel_label": "Acier Certifié",
+    "steel_title": "AISI 304 / 321",
+    "steel_desc": "Résistant aux acides et à la chaleur",
+    "tech_label": "Technologie d'Assemblage",
+    "tech_title": "Soudage Plasma",
+    "tech_desc": "Étanchéité parfaite des soudures",
+    "thermal_label": "Résistance Thermique",
+    "thermal_title": "Max 1000°C",
+    "thermal_desc": "Résistant aux feux de suie",
+    "safety_label": "Normes de Sécurité",
+    "safety_title": "PN-EN 1856-1",
+    "safety_desc": "Certificat de Conformité CE"
+  },
+  "safety": {
+    "label": "Assurance Qualité",
+    "title": "Sécurité<br />Sans Compromis",
+    "corrosion_title": "Résistance à la Corrosion",
+    "corrosion_desc": "Oubliez le remplacement de cheminée pour des décennies. Nous utilisons uniquement de l'acier résistant aux acides de première qualité qui ne se dégrade pas dans les environnements de gaz de combustion agressifs.",
+    "fire_title": "Résistance aux Feux de Suie",
+    "fire_desc": "Résiste à des températures extrêmes jusqu'à 1000°C. Votre maison et votre famille restent en sécurité même en cas de panne de chaudière ou d'inflammation de suie.",
+    "warranty_title": "Garantie Fabricant",
+    "warranty_desc": "Responsabilité totale pour chaque élément du système. Nos produits détiennent la certification CE et subissent des contrôles de qualité rigoureux."
+  },
+  "catalog_section": {
+    "sidebar": {
+      "mode_label": "Mode Visualisation",
+      "diagram_title": "Schéma de<br />Construction",
+      "diagram_desc": "Aperçu des éléments du système de cheminée. Voir l'ordre d'assemblage.",
+      "help_title": "Besoin d'aide ?",
+      "help_desc": "Nos ingénieurs vous aideront à sélectionner les bons diamètres et éléments pour votre projet.",
+      "ask_expert": "Demander à un Expert"
+    },
+    "main": {
+      "label": "Catalogue de Pièces",
+      "title": "Aperçu des Éléments",
+      "desc": "Gamme complète de composants de précision en acier inoxydable, classés par zones d'assemblage."
+    }
+  },
+  "portfolio": {
+    "label": "Reportage Photo",
+    "title": "Réalisations de nos<br />produits",
+    "project_prefix": "Projet #"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Des questions ?<br />Parlons-en",
+    "direct_data": "Coordonnées Directes",
+    "hotline_label": "Hotline Technique",
+    "email_label": "Adresse E-mail",
+    "hours_label": "Horaires Hotline",
+    "hours_value": "Lun-Ven : 08:00 - 16:00",
+    "response_label": "Temps de Réponse E-mail",
+    "response_value": "Moy < 2h (ouvrable)",
+    "form_title": "Laissez un message",
+    "form_desc": "Remplissez le formulaire et notre ingénieur vous contactera par téléphone dès que possible pour discuter de votre projet.",
+    "form_name": "Nom Complet",
+    "form_name_ph": "Entrez vos coordonnées...",
+    "form_phone": "Numéro de Téléphone",
+    "form_phone_ph": "+33...",
+    "form_message": "Message",
+    "form_message_ph": "Décrivez brièvement votre projet ou question technique...",
+    "optional": "(optionnel)",
+    "submit_btn": "Demander un Rappel",
+    "privacy_note": "* Champs obligatoires. Vos données sont traitées conformément à notre politique de confidentialité pour gérer votre demande."
+  },
+  "catalog": {
+    "code_label": "CODE",
+    "sections": {
+      "section-1": "Sortie (Toiture)",
+      "section-2": "Conduit (Mur)",
+      "section-3": "Base (Chaufferie)"
+    },
+    "products": {
+      "DF-01": {
+        "name": "Déflecteur",
+        "description": "Dispositif monté sur le dessus de la cheminée, conçu pour soutenir le tirage de la cheminée et protéger le conduit des précipitations.",
+        "benefits": [
+          {
+            "title": "Stabilisation du Tirage",
+            "text": "La structure utilise la force du vent pour créer une pression négative, améliorant et stabilisant efficacement le tirage de la cheminée."
+          },
+          {
+            "title": "Protection contre le Vent",
+            "text": "Protège le conduit des courants descendants (vents catabatiques), empêchant le refoulement de fumée dans le bâtiment."
+          }
+        ]
+      },
+      "NK-02": {
+        "name": "Chapeau Rotatif \"Coq\"",
+        "description": "Chapeau de cheminée auto-ajustable qui s'aligne toujours avec la direction du vent. Utilise la force du vent pour soutenir le tirage et protéger le conduit.",
+        "benefits": [
+          {
+            "title": "Efficacité Maximale",
+            "text": "Grâce à la construction sur roulement, le chapeau tourne en douceur, se positionnant à l'opposé du vent et créant une pression négative qui extrait efficacement les gaz d'échappement."
+          },
+          {
+            "title": "Protection Refoulement",
+            "text": "La conception spéciale protège complètement la sortie de la cheminée des courants descendants, éliminant le risque de refoulement et d'entrée de fumée dans la pièce."
+          }
+        ]
+      },
+      "WW-03": {
+        "name": "Chapeau Volpert",
+        "description": "Chapeau de cheminée cylindrique utilisant l'énergie du vent pour soutenir le tirage. Protège le conduit des précipitations et stabilise la ventilation.",
+        "benefits": [
+          {
+            "title": "Ventilation Efficace",
+            "text": "La structure avec des lattes verticales crée une pression négative à chaque coup de vent, extrayant efficacement l'air vicié ou les gaz d'échappement de la cheminée."
+          },
+          {
+            "title": "Design Compact",
+            "text": "L'absence de pièces mobiles le rend sans panne, silencieux et résistant aux conditions météorologiques difficiles, idéal pour la ventilation gravitaire."
+          }
+        ]
+      },
+      "PG-04": {
+        "name": "Chapeau Pare-pluie / Champignon",
+        "description": "Terminaison classique du système de cheminée, protégeant le conduit des précipitations. Assure une sortie libre des gaz d'échappement.",
+        "benefits": [
+          {
+            "title": "Protection Pluie",
+            "text": "Protège efficacement l'intérieur de la cheminée de la pluie et de la neige, empêchant l'humidité et la corrosion du conduit."
+          },
+          {
+            "title": "Résistance Minimale",
+            "text": "La conception ouverte ne perturbe pas le tirage de la cheminée, permettant une évacuation libre et sûre des gaz d'échappement dans l'atmosphère."
+          }
+        ]
+      },
+      "IS-05": {
+        "name": "Pare-étincelles",
+        "description": "Terminaison de cheminée spécialisée équipée d'un treillis qui arrête les particules incandescentes. Essentiel pour les toits en matériaux inflammables.",
+        "benefits": [
+          {
+            "title": "Sécurité Incendie",
+            "text": "Brise et éteint efficacement les étincelles émergeant du conduit, protégeant le toit et les environs de l'inflammation."
+          },
+          {
+            "title": "Exigence Légale",
+            "text": "L'utilisation d'un pare-étincelles est obligatoire pour les bâtiments avec une toiture inflammable (ex: chaume, bardeaux de bois)."
+          }
+        ]
+      },
+      "US-06": {
+        "name": "Cône de Finition",
+        "description": "Élément fermant la partie supérieure de la cheminée double paroi (isolée). Protège la couche d'isolation des précipitations.",
+        "benefits": [
+          {
+            "title": "Protection Isolation",
+            "text": "Scelle hermétiquement l'espace entre le tuyau intérieur et l'enveloppe extérieure, empêchant la laine minérale de se mouiller."
+          },
+          {
+            "title": "Finition Esthétique",
+            "text": "Fournit une terminaison élégante et professionnelle du système de cheminée, assurant sa durabilité et son étanchéité."
+          }
+        ]
+      },
+      "ZK-07": {
+        "name": "Terminaison de Cheminée",
+        "description": "Élément esthétique couronnant la sortie de la cheminée. Sécurise le bord du tuyau et donne à l'ensemble de l'installation un aspect professionnel et fini.",
+        "benefits": [
+          {
+            "title": "Exécution Esthétique",
+            "text": "Élément fabriqué avec précision masque les bords des conduits de cheminée, assurant une terminaison nette du système sur le toit."
+          },
+          {
+            "title": "Protection Mécanique",
+            "text": "La construction rigide en acier inoxydable renforce la sortie du tuyau, la protégeant de la déformation et des dommages mécaniques."
+          }
+        ]
+      },
+      "SO-08": {
+        "name": "Grille de Protection",
+        "description": "Élément sécurisant la sortie de la cheminée contre les oiseaux, les feuilles et autres débris. Garantit la perméabilité du conduit.",
+        "benefits": [
+          {
+            "title": "Protection Oiseaux",
+            "text": "Une barrière physique efficace empêche les oiseaux de nicher à l'intérieur de la cheminée, évitant les blocages dangereux et l'intoxication au monoxyde de carbone."
+          },
+          {
+            "title": "Flux Libre",
+            "text": "La taille de maille sélectionnée de manière appropriée assure une évacuation libre des gaz d'échappement et une ventilation tout en arrêtant les plus gros débris."
+          }
+        ]
+      },
+      "RP-100": {
+        "name": "Tuyau Droit 1m",
+        "description": "Élément de base du système de cheminée, long de 1 mètre. Assure une installation rapide et stable des sections droites de la cheminée.",
+        "benefits": [
+          {
+            "title": "Haute Résistance",
+            "text": "Fabriqué en acier inoxydable de haute qualité, résistant aux environnements agressifs, aux acides et aux condensats."
+          },
+          {
+            "title": "Résistance Chaleur",
+            "text": "Résiste à des températures jusqu'à 800°C, idéal pour les cheminées, les poêles et les chaudières à combustible solide."
+          }
+        ]
+      },
+      "RP-050": {
+        "name": "Tuyau Droit 0.5m",
+        "description": "Élément de cheminée, long de 0,5 mètre. Utilisé pour l'ajustement précis de la hauteur de la cheminée lorsqu'une section complète est trop longue.",
+        "benefits": [
+          {
+            "title": "Haute Résistance",
+            "text": "Fabriqué en acier inoxydable de haute qualité, résistant aux acides et aux condensats."
+          },
+          {
+            "title": "Résistance Chaleur",
+            "text": "Résistant à des températures jusqu'à 800°C, sûr pour tout type de chaudière."
+          }
+        ]
+      },
+      "RP-030": {
+        "name": "Tuyau Droit 0.3m",
+        "description": "Élément court, long de 0,3 mètre. Idéal pour connecter et ajuster des sections dans des espaces limités.",
+        "benefits": [
+          {
+            "title": "Haute Résistance",
+            "text": "L'acier inoxydable assure une longue durée de vie."
+          },
+          {
+            "title": "Universalité",
+            "text": "S'adapte à tous les systèmes simple paroi et double paroi."
+          }
+        ]
+      },
+      "RP-025": {
+        "name": "Tuyau Droit 0.25m",
+        "description": "La section la plus courte (0,25m) pour un ajustement précis de la longueur du conduit ou du tubage de cheminée.",
+        "benefits": [
+          {
+            "title": "Précision",
+            "text": "Permet un ajustement précis de la longueur de l'installation."
+          },
+          {
+            "title": "Durabilité",
+            "text": "Résistant à la corrosion et aux températures élevées."
+          }
+        ]
+      },
+      "KL-45": {
+        "name": "Coude 45°",
+        "description": "Élément utilisé pour changer la direction du conduit de 45 degrés. Permet de contourner les obstacles.",
+        "benefits": [
+          {
+            "title": "Exécution Précise",
+            "text": "Découpé au laser et soudé au plasma pour une étanchéité parfaite."
+          },
+          {
+            "title": "Assemblage Facile",
+            "text": "Le système d'emboîtement assure une connexion rapide."
+          }
+        ]
+      },
+      "KL-90": {
+        "name": "Coude 90°",
+        "description": "Élément utilisé pour changer la direction du conduit de 90 degrés. Composé de segments réglables.",
+        "benefits": [
+          {
+            "title": "Exécution Précise",
+            "text": "Découpé au laser et soudé au plasma pour une étanchéité parfaite."
+          },
+          {
+            "title": "Assemblage Facile",
+            "text": "Le système d'emboîtement assure une connexion rapide."
+          }
+        ]
+      },
+      "OS-13": {
+        "name": "Support Mural",
+        "description": "Élément fixant la cheminée au mur. Assure la stabilité structurelle, empêchant le déplacement.",
+        "benefits": [
+          {
+            "title": "Stabilité",
+            "text": "Fixation sûre des éléments de cheminée à la façade ou à la structure de support."
+          },
+          {
+            "title": "Réglage",
+            "text": "Permet d'ajuster la distance par rapport au mur (en utilisant des extensions appropriées)."
+          }
+        ]
+      },
+      "PP-14": {
+        "name": "Plaque de Passage",
+        "description": "Élément masquant le passage de la cheminée double paroi à travers les murs ou les plafonds. Fournit une finition esthétique et couvre le trou de montage.",
+        "benefits": [
+          {
+            "title": "Esthétique",
+            "text": "Masque les irrégularités du trou dans le mur ou le plafond, donnant à l'installation un aspect professionnel."
+          },
+          {
+            "title": "Sécurité",
+            "text": "Fabriqué en matériau ininflammable, agit comme un bouclier supplémentaire au passage à travers les cloisons du bâtiment."
+          }
+        ]
+      },
+      "TR-45": {
+        "name": "Té 45°",
+        "description": "Élément permettant de connecter un appareil de chauffage à la cheminée à un angle de 45 degrés. Assure un flux d'échappement optimal et un meilleur tirage.",
+        "benefits": [
+          {
+            "title": "Flux Fluide",
+            "text": "L'angle d'inclinaison de 45 degrés minimise la résistance au flux d'échappement, soutenant le tirage de la cheminée."
+          },
+          {
+            "title": "Soudage TIG",
+            "text": "La plus haute qualité de joints soudés sous argon garantit étanchéité et sécurité."
+          }
+        ]
+      },
+      "TR-90": {
+        "name": "Té 90°",
+        "description": "Élément standard connectant le tuyau de fumée à la cheminée à angle droit. Permet une connexion facile d'une chaudière ou d'un foyer.",
+        "benefits": [
+          {
+            "title": "Universalité",
+            "text": "S'adapte à la plupart des connexions standard de chaudières et d'inserts de cheminée."
+          },
+          {
+            "title": "Soudage TIG",
+            "text": "Garantie de durabilité et d'étanchéité des connexions grâce à un soudage professionnel."
+          }
+        ]
+      },
+      "WC-01": {
+        "name": "Trappe de Nettoyage / Visite",
+        "description": "Élément permettant l'accès à l'intérieur de la cheminée pour le nettoyage et l'inspection. Équipé d'une porte étanche.",
+        "benefits": [
+          {
+            "title": "Accès Service",
+            "text": "Essentiel pour le nettoyage périodique de la suie et l'inspection de l'état du conduit."
+          },
+          {
+            "title": "Étanchéité",
+            "text": "Les portes (isolées dans la version thermo) assurent la sécurité et aucune perte de chaleur."
+          }
+        ]
+      },
+      "OD-18": {
+        "name": "Collecteur de Condensats",
+        "description": "Élément monté au bas de la cheminée. Utilisé pour drainer les condensats formés pendant le processus de combustion.",
+        "benefits": [
+          {
+            "title": "Protection Chaudière",
+            "text": "Empêche le condensat acide de refluer dans l'appareil de chauffage."
+          },
+          {
+            "title": "Hygiène Système",
+            "text": "Permet une évacuation facile et contrôlée de l'humidité du conduit."
+          }
+        ]
+      },
+      "PW-19": {
+        "name": "Plaque de Support",
+        "description": "Élément de départ de la cheminée monté sur une fondation ou un support. Permet l'installation du té de nettoyage et du drainage des condensats.",
+        "benefits": [
+          {
+            "title": "Départ Stable",
+            "text": "Fournit une base solide pour toute la colonne de cheminée verticale montée depuis le sol."
+          },
+          {
+            "title": "Résistance Acide",
+            "text": "Fabriqué entièrement en acier résistant aux acides 304, garantissant la longévité."
+          }
+        ]
+      },
+      "RD-20": {
+        "name": "Réducteur / Adaptateur",
+        "description": "Élément connectant des tuyaux de différents diamètres. Essentiel lors du changement de diamètre de conduit ou de la connexion à un appareil de chauffage.",
+        "benefits": [
+          {
+            "title": "Ajustement",
+            "text": "Permet une connexion étanche d'éléments de dimensions différentes."
+          },
+          {
+            "title": "Durabilité",
+            "text": "Fabriqué en acier inoxydable résistant aux acides, garantissant une longue durée de vie."
+          }
+        ]
+      },
+      "SZ-21": {
+        "name": "Clé de Tirage",
+        "description": "Élément utilisé pour réguler le tirage de la cheminée. Permet de fermer le conduit après l'extinction du poêle.",
+        "benefits": [
+          {
+            "title": "Économie Chaleur",
+            "text": "Empêche l'air chaud d'être aspiré hors de la pièce par la cheminée lorsque le poêle ne fonctionne pas."
+          },
+          {
+            "title": "Régulation Tirage",
+            "text": "Permet un contrôle manuel de l'intensité de combustion en modifiant le flux d'échappement."
+          }
+        ]
+      },
+      "RA-050": {
+        "name": "Radiateur 0.5m",
+        "description": "Élément augmentant la surface de chauffe de la cheminée (0,5m). Récupère la chaleur des gaz d'échappement, chauffant ainsi la pièce.",
+        "benefits": [
+          {
+            "title": "Récupération Chaleur",
+            "text": "Grâce aux nervures, augmente considérablement la surface d'émission de chaleur, augmentant l'efficacité du chauffage."
+          },
+          {
+            "title": "Économies",
+            "text": "Permet une meilleure utilisation de l'énergie de combustion, entraînant une consommation de carburant plus faible."
+          }
+        ]
+      },
+      "RA-100": {
+        "name": "Radiateur 1m",
+        "description": "Long élément radiateur (1m) maximisant la récupération de chaleur du système de cheminée. Idéal pour les pièces hautes.",
+        "benefits": [
+          {
+            "title": "Récupération Chaleur",
+            "text": "Augmente considérablement la surface de chauffe de la cheminée."
+          },
+          {
+            "title": "Économies",
+            "text": "Utilisation maximale de l'énergie thermique des gaz d'échappement."
+          }
+        ]
+      },
+      "WX-23": {
+        "name": "Échangeur de Chaleur à Eau 14L (AISI 321 1mm)",
+        "description": "Élément efficace pour chauffer l'eau en utilisant la chaleur des gaz d'échappement. Capacité du réservoir 14 litres.\n\nL'ensemble se compose de trois parties :\n1. Tuyau de fumée 1m (d120mm, 1mm, AISI 321) ;\n2. Manteau d'eau 0,6m (d220mm, 1mm, AISI 321) ;\n3. Réducteur d120-/120+ (1mm, AISI 321).",
+        "benefits": [
+          {
+            "title": "Économie d'Énergie",
+            "text": "Permet d'obtenir 14 litres d'eau chaude en utilisant la chaleur qui s'échappe normalement par la cheminée."
+          },
+          {
+            "title": "Matériaux Fiables",
+            "text": "Tous les éléments sont en acier inoxydable résistant à la chaleur AISI 321, épaisseur 1mm."
+          }
+        ]
+      }
+    }
+  },
+  "product_page": {
+    "back": "Retour au catalogue"
+  },
+  "configurator": {
+    "thermo_badge": "Thermo",
+    "benefits_title": "Avantages Produit",
+    "code_label": "CODE",
+    "config_header": "Configuration",
+    "quote_title": "Devis Individuel",
+    "quote_desc": "Le prix dépend du volume de commande et des spécifications techniques.",
+    "ask_price_btn": "Demander le Prix",
+    "unavailable_combination": "Cette combinaison n'est pas disponible en production série. Veuillez modifier les paramètres.",
+    "unavailable_option": " (Indisponible)",
+    "attributes": {
+      "chimneyType": {
+        "label": "Système de Cheminée",
+        "options": {
+          "single": {
+            "name": "Simple Paroi"
+          },
+          "thermo": {
+            "name": "Double Paroi"
+          }
+        }
+      },
+      "steelGrade": {
+        "label": "Nuance d'Acier",
+        "options": {
+          "ais201": {
+            "name": "AISI 201",
+            "text": "Éco"
+          },
+          "ais304": {
+            "name": "AISI 304",
+            "text": "Standard"
+          },
+          "ais321": {
+            "name": "AISI 321",
+            "text": "Industriel"
+          }
+        }
+      },
+      "steelThickness": {
+        "label": "Épaisseur d'Acier",
+        "options": {
+          "t05": {
+            "name": "0.5 mm"
+          },
+          "t08": {
+            "name": "0.8 mm"
+          },
+          "t10": {
+            "name": "1.0 mm"
+          }
+        }
+      },
+      "execution": {
+        "label": "Version Matériau",
+        "options": {
+          "nerzh": {
+            "name": "Inox",
+            "text": "Acier résistant aux acides"
+          },
+          "oc": {
+            "name": "Galvanisé",
+            "text": "Acier galvanisé"
+          },
+          "nerzh_oc": {
+            "name": "Inox/Galva",
+            "text": "Int. Résistant aux acides / Ext. Galva"
+          },
+          "nerzh_nerzh": {
+            "name": "Inox/Inox",
+            "text": "Entièrement résistant aux acides"
+          }
+        }
+      },
+      "insulation": {
+        "label": "Isolation",
+        "options": {
+          "iso30": {
+            "name": "30 mm",
+            "text": "Laine Minérale"
+          },
+          "iso50": {
+            "name": "50 mm",
+            "text": "Laine Industrielle"
+          }
+        }
+      },
+      "diameter": {
+        "label": "Diamètre"
+      }
+    }
+  },
+  "footer": {
+    "rights": "Systèmes de Cheminées Industrielles.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  }
+}

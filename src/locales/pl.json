@@ -469,12 +469,86 @@
         "unavailable_combination": "Ta kombinacja parametrów nie jest dostępna w produkcji seryjnej. Zmień parametry.",
         "unavailable_option": " (Niedostępne)",
         "attributes": {
-            "chimneyType": "System kominowy",
-            "steelGrade": "Gatunek stali",
-            "steelThickness": "Grubość stali",
-            "execution": "Wersja materiałowa",
-            "insulation": "Izolacja",
-            "diameter": "Średnica"
+            "chimneyType": {
+                "label": "System kominowy",
+                "options": {
+                    "single": {
+                        "name": "Jednościenny"
+                    },
+                    "thermo": {
+                        "name": "Dwuścienny"
+                    }
+                }
+            },
+            "steelGrade": {
+                "label": "Gatunek stali",
+                "options": {
+                    "ais304": {
+                        "name": "AISI 304",
+                        "text": "Standard"
+                    },
+                    "ais321": {
+                        "name": "AISI 321",
+                        "text": "Przemysłowa"
+                    }
+                }
+            },
+            "steelThickness": {
+                "label": "Grubość stali",
+                "options": {
+                    "t05": {
+                        "name": "0.5 mm"
+                    },
+                    "t08": {
+                        "name": "0.8 mm"
+                    },
+                    "t10": {
+                        "name": "1.0 mm"
+                    }
+                }
+            },
+            "execution": {
+                "label": "Wersja materiałowa",
+                "options": {
+                    "nerzh": {
+                        "name": "Nierdzewna",
+                        "text": "Stal kwasoodporna"
+                    },
+                    "oc": {
+                        "name": "Ocynk",
+                        "text": "Stal ocynkowana"
+                    },
+                    "nerzh_oc": {
+                        "name": "Nierdz/Ocynk",
+                        "text": "Wewn. kwasoodporna / Zewn. ocynk"
+                    },
+                    "nerzh_nerzh": {
+                        "name": "Nierdz/Nierdz",
+                        "text": "Wewn. kwasoodporna / Zewn. nierdzewna"
+                    }
+                }
+            },
+            "insulation": {
+                "label": "Izolacja",
+                "options": {
+                    "iso30": {
+                        "name": "30 mm",
+                        "text": "Wełna mineralna"
+                    },
+                    "iso50": {
+                        "name": "50 mm",
+                        "text": "Izolacja przemysłowa"
+                    }
+                }
+            },
+            "diameter": {
+                "label": "Średnica"
+            }
         }
+    },
+    "footer": {
+        "rights": "Industrial Chimney Systems.",
+        "privacy": "Polityka Prywatności",
+        "terms": "Regulamin Serwisu"
     }
 }

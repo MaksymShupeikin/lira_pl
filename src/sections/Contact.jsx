@@ -1,12 +1,24 @@
 import React from 'react';
-import { Cpu, Phone, Mail, Clock, Zap, PhoneOutgoing } from 'lucide-react';
+import { Cpu, Phone, Mail, Clock, Zap, PhoneOutgoing, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import { useTranslation, Trans } from 'react-i18next';
 import { motion } from 'framer-motion';
+import { useSubmitContact } from "../hooks/useSubmitContact";
 
 const Contact = () => {
     const { t } = useTranslation();
+    const { submit, isLoading, status } = useSubmitContact();
 
-    // Анимация контейнера для левой колонки (каскад)
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        const formData = {
+            name: e.target.name.value,
+            phone: e.target.phone.value,
+            message: e.target.message.value,
+            source: 'Контакты',
+        };
+        submit(formData);
+    };
+
     const staggerContainer = {
         hidden: { opacity: 0 },
         visible: {
@@ -147,62 +159,84 @@ const Contact = () => {
                         whileInView="visible"
                         viewport={{ once: true, amount: 0.3 }}
                     >
-                        <div className="bg-[#1C1F26] p-8 md:p-12 sharp-border relative overflow-hidden">
-
+                        <div className="bg-[#1C1F26] p-8 md:p-12 sharp-border relative overflow-hidden h-full">
                             <div className="absolute top-0 right-0 w-20 h-20 bg-[#FF4F00]/5 blur-2xl pointer-events-none"></div>
 
-                            <h3 className="text-2xl font-black text-white uppercase tracking-tight mb-4 flex items-center gap-3">
-                                {t('contact.form_title')}
-                            </h3>
-                            <p className="text-[#A0AEC0] text-sm mb-8 leading-relaxed">
-                                {t('contact.form_desc')}
-                            </p>
-
-                            <form action="#" method="POST" className="space-y-6">
-                                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                    <div className="space-y-2">
-                                        <label htmlFor="name" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
-                                            {t('contact.form_name')} <span className="text-[#FF4F00]">*</span>
-                                        </label>
-                                        <input type="text" id="name" name="name" required
-                                            className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096]"
-                                            placeholder={t('contact.form_name_ph')} />
-                                    </div>
-                                    <div className="space-y-2">
-                                        <label htmlFor="phone" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
-                                            {t('contact.form_phone')} <span className="text-[#FF4F00]">*</span>
-                                        </label>
-                                        <input type="tel" id="phone" name="phone" required
-                                            className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096]"
-                                            placeholder={t('contact.form_phone_ph')} />
-                                    </div>
+                            {status === 'success' ? (
+                                <div className="flex flex-col items-center justify-center h-full text-center py-20">
+                                    <CheckCircle className="w-20 h-20 text-green-500 mb-6" />
+                                    <h3 className="text-3xl font-bold text-white mb-4">{t('contact.success_title', 'Dziękujemy!')}</h3>
+                                    <p className="text-[#A0AEC0] text-lg">{t('contact.success_message', 'Twoja wiadomość została wysłana.')}</p>
                                 </div>
-
-                                <div className="space-y-2">
-                                    <label htmlFor="message" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
-                                        {t('contact.form_message')} <span className="text-[#718096] text-[10px] normal-case">{t('contact.optional')}</span>
-                                    </label>
-                                    <textarea id="message" name="message" rows="5"
-                                        className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096] resize-none"
-                                        placeholder={t('contact.form_message_ph')}></textarea>
-                                </div>
-
-                                <div className="pt-4">
-                                    <motion.button
-                                        type="submit"
-                                        whileHover={{ scale: 1.02 }}
-                                        whileTap={{ scale: 0.98 }}
-                                        className="w-full md:w-auto h-[56px] bg-[#FF4F00] text-white px-12 uppercase font-bold text-sm tracking-[0.15em] hover:bg-white hover:text-black transition-colors duration-300 sharp-border orange-glow-hover flex items-center justify-center gap-3 group"
-                                    >
-                                        <PhoneOutgoing className="w-4 h-4 group-hover:rotate-12 transition-transform" />
-                                        {t('contact.submit_btn')}
-                                    </motion.button>
-                                    <p className="text-[#718096] text-xs mt-4 ml-1">
-                                        {t('contact.privacy_note')}
+                            ) : (
+                                <>
+                                    <h3 className="text-2xl font-black text-white uppercase tracking-tight mb-4 flex items-center gap-3">
+                                        {t('contact.form_title')}
+                                    </h3>
+                                    <p className="text-[#A0AEC0] text-sm mb-8 leading-relaxed">
+                                        {t('contact.form_desc')}
                                     </p>
-                                </div>
-                            </form>
 
+                                    <form onSubmit={handleSubmit} className="space-y-6">
+                                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                            <div className="space-y-2">
+                                                <label htmlFor="name" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
+                                                    {t('contact.form_name')} <span className="text-[#FF4F00]">*</span>
+                                                </label>
+                                                <input type="text" id="name" name="name" required
+                                                    className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096]"
+                                                    placeholder={t('contact.form_name_ph')} />
+                                            </div>
+                                            <div className="space-y-2">
+                                                <label htmlFor="phone" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
+                                                    {t('contact.form_phone')} <span className="text-[#FF4F00]">*</span>
+                                                </label>
+                                                <input type="tel" id="phone" name="phone" required
+                                                    className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096]"
+                                                    placeholder={t('contact.form_phone_ph')} />
+                                            </div>
+                                        </div>
+
+                                        <div className="space-y-2">
+                                            <label htmlFor="message" className="text-xs text-[#A0AEC0] uppercase tracking-widest font-bold ml-1">
+                                                {t('contact.form_message')} <span className="text-[#718096] text-[10px] normal-case">{t('contact.optional')}</span>
+                                            </label>
+                                            <textarea id="message" name="message" rows="5"
+                                                className="w-full bg-[#0F1115] border border-white/10 text-white p-4 sharp-border focus:outline-none focus:border-[#FF4F00] focus:bg-[#0F1115]/80 transition-colors font-mono text-sm placeholder-[#718096] resize-none"
+                                                placeholder={t('contact.form_message_ph')}></textarea>
+                                        </div>
+
+                                        {status === 'error' && (
+                                            <div className="flex items-center gap-2 text-red-500 text-xs">
+                                                <AlertCircle className="w-4 h-4" />
+                                                <span>{t('contact.error_message', 'Wystąpił błąd. Spróbuj ponownie.')}</span>
+                                            </div>
+                                        )}
+
+                                        <div className="pt-4">
+                                            <motion.button
+                                                type="submit"
+                                                disabled={isLoading}
+                                                whileHover={!isLoading ? { scale: 1.02 } : {}}
+                                                whileTap={!isLoading ? { scale: 0.98 } : {}}
+                                                className={`w-full md:w-auto h-[56px] bg-[#FF4F00] text-white px-12 uppercase font-bold text-sm tracking-[0.15em] hover:bg-white hover:text-black transition-colors duration-300 sharp-border orange-glow-hover flex items-center justify-center gap-3 group ${isLoading ? 'opacity-70 cursor-not-allowed' : ''}`}
+                                            >
+                                                {isLoading ? (
+                                                    <Loader2 className="w-5 h-5 animate-spin" />
+                                                ) : (
+                                                    <>
+                                                        <PhoneOutgoing className="w-4 h-4 group-hover:rotate-12 transition-transform" />
+                                                        {t('contact.submit_btn')}
+                                                    </>
+                                                )}
+                                            </motion.button>
+                                            <p className="text-[#718096] text-xs mt-4 ml-1">
+                                                {t('contact.privacy_note')}
+                                            </p>
+                                        </div>
+                                    </form>
+                                </>
+                            )}
                         </div>
                     </motion.div>
 

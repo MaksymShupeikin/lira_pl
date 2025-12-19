@@ -1,4 +1,4 @@
-import { Menu, X } from 'lucide-react';
+import { Menu, X, Phone } from 'lucide-react'; // Добавили иконку Phone
 import { Link } from 'react-router-dom';
 import { useHeader } from '../hooks/useHeader';
 
@@ -36,10 +36,6 @@ const Header = () => {
               className={`transform group-hover:-translate-y-1 transition-all duration-300 object-contain w-auto
                           ${isScrolled ? 'h-10' : 'h-12'}`}
             />
-
-            <div className="flex flex-col">
-
-            </div>
           </Link>
 
           <nav className="hidden lg:flex items-center gap-10">
@@ -67,7 +63,15 @@ const Header = () => {
               </a>
             </div>
 
-            <div className="flex items-center gap-1 text-sm font-medium text-[#A0AEC0]">
+            <a
+              href="tel:+48500123456"
+              className="md:hidden flex items-center gap-2 text-white font-bold text-sm hover:text-[#FF4F00] transition-colors"
+            >
+              <Phone className="w-4 h-4 text-[#FF4F00]" />
+              <span>+48 500 123 456</span>
+            </a>
+
+            <div className="hidden md:flex items-center gap-1 text-sm font-medium text-[#A0AEC0]">
               <button
                 onClick={() => changeLanguage('pl')}
                 className={`transition-colors hover:text-white ${currentLanguage === 'pl' ? 'text-white font-bold' : ''}`}
@@ -81,6 +85,20 @@ const Header = () => {
               >
                 EN
               </button>
+              <span className="text-[#2D333F]">|</span>
+              <button
+                onClick={() => changeLanguage('de')}
+                className={`transition-colors hover:text-white ${currentLanguage === 'de' ? 'text-white font-bold' : ''}`}
+              >
+                DE
+              </button>
+              <span className="text-[#2D333F]">|</span>
+              <button
+                onClick={() => changeLanguage('fr')}
+                className={`transition-colors hover:text-white ${currentLanguage === 'fr' ? 'text-white font-bold' : ''}`}
+              >
+                FR
+              </button>
             </div>
 
             <button
@@ -93,6 +111,7 @@ const Header = () => {
         </div>
       </header>
 
+      {/* Mobile Menu */}
       <div className={`fixed inset-0 z-40 bg-[#13151A] pt-32 px-6 transition-transform duration-300 lg:hidden ${isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}`}>
         <nav className="flex flex-col gap-8">
           {navLinks.map((link) => (
@@ -107,13 +126,14 @@ const Header = () => {
           ))}
 
           <div className="mt-8 pt-8 border-t border-white/10">
-            <span className="text-sm text-[#A0AEC0] uppercase tracking-widest block mb-2">{t('nav.contact')}</span>
-            <a href="tel:+48500123456" className="text-2xl font-bold text-[#FF4F00] block mb-6">+48 500 123 456</a>
-
-            <div className="flex gap-4 text-lg font-bold text-white">
+            <div className="flex gap-4 text-lg font-bold text-white justify-center">
               <button onClick={() => changeLanguage('pl')} className={currentLanguage === 'pl' ? 'text-[#FF4F00]' : ''}>PL</button>
               <span>/</span>
               <button onClick={() => changeLanguage('en')} className={currentLanguage === 'en' ? 'text-[#FF4F00]' : ''}>EN</button>
+              <span>/</span>
+              <button onClick={() => changeLanguage('de')} className={currentLanguage === 'de' ? 'text-[#FF4F00]' : ''}>DE</button>
+              <span>/</span>
+              <button onClick={() => changeLanguage('fr')} className={currentLanguage === 'fr' ? 'text-[#FF4F00]' : ''}>FR</button>
             </div>
           </div>
         </nav>

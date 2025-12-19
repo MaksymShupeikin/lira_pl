@@ -462,19 +462,97 @@
     "thermo_badge": "Thermo",
     "benefits_title": "Product Benefits",
     "code_label": "CODE",
-    "config_header": "Element Configuration",
+    "config_header": "Configuration",
     "quote_title": "Individual Quote",
-    "quote_desc": "Price depends on order size and technical specifications.",
+    "quote_desc": "Price depends on order volume and technical specifications.",
     "ask_price_btn": "Ask for Price",
-    "unavailable_combination": "This parameter combination is not available in serial production. Please change parameters.",
+    "unavailable_combination": "This combination is not available in serial production. Please change parameters.",
     "unavailable_option": " (Unavailable)",
     "attributes": {
-      "chimneyType": "Chimney System",
-      "steelGrade": "Steel Grade",
-      "steelThickness": "Steel Thickness",
-      "execution": "Material Version",
-      "insulation": "Insulation",
-      "diameter": "Diameter"
+      "chimneyType": {
+        "label": "Chimney System",
+        "options": {
+          "single": {
+            "name": "Single Wall"
+          },
+          "thermo": {
+            "name": "Double Wall"
+          }
+        }
+      },
+      "steelGrade": {
+        "label": "Steel Grade",
+        "options": {
+          "ais201": {
+            "name": "AISI 201",
+            "text": "Economy"
+          },
+          "ais304": {
+            "name": "AISI 304",
+            "text": "Standard"
+          },
+          "ais321": {
+            "name": "AISI 321",
+            "text": "Industrial"
+          }
+        }
+      },
+      "steelThickness": {
+        "label": "Steel Thickness",
+        "options": {
+          "t05": {
+            "name": "0.5 mm"
+          },
+          "t08": {
+            "name": "0.8 mm"
+          },
+          "t10": {
+            "name": "1.0 mm"
+          }
+        }
+      },
+      "execution": {
+        "label": "Material Version",
+        "options": {
+          "nerzh": {
+            "name": "Stainless",
+            "text": "Acid-resistant steel"
+          },
+          "oc": {
+            "name": "Galvanized",
+            "text": "Galvanized steel"
+          },
+          "nerzh_oc": {
+            "name": "Stainless/Galv",
+            "text": "Inner Acid-resistant / Outer Galv."
+          },
+          "nerzh_nerzh": {
+            "name": "Stainless/Stainless",
+            "text": "Full Acid-resistant"
+          }
+        }
+      },
+      "insulation": {
+        "label": "Insulation",
+        "options": {
+          "iso30": {
+            "name": "30 mm",
+            "text": "Mineral Wool"
+          },
+          "iso50": {
+            "name": "50 mm",
+            "text": "Industrial Wool"
+          }
+        }
+      },
+      "diameter": {
+        "label": "Diameter"
+      }
     }
+  },
+  "footer": {
+    "rights": "Industrial Chimney Systems.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
   }
 }

@@ -1,34 +1,31 @@
 
 export const chimneyTypes = [
-    { id: 'single', name: 'Jednościenny' },
-    { id: 'thermo', name: 'Dwuścienny' },
+    { id: 'single' },
+    { id: 'thermo' },
 ];
 
-
 export const steelGrades = [
-    { id: 'ais201', name: 'AISI 201', text: 'Ekonomiczna' },
-    { id: 'ais304', name: 'AISI 304', text: 'Standard' },
-    { id: 'ais321', name: 'AISI 321', text: 'Przemysłowa' },
+    { id: 'ais304' },
+    { id: 'ais321' },
 ];
 
 export const steelThicknesses = [
-    { id: 't05', name: '0.5 mm' },
-    { id: 't08', name: '0.8 mm' },
-    { id: 't10', name: '1.0 mm' },
+    { id: 't05' },
+    { id: 't08' },
+    { id: 't10' },
 ];
 
 export const executionVariants = [
-    { id: 'nerzh', name: 'Nierdzewna', text: 'Stal kwasoodporna' },
-    { id: 'oc', name: 'Ocynk', text: 'Stal ocynkowana' },
-    { id: 'nerzh_oc', name: 'Nierdz/Ocynk', text: 'Wewn. kwasoodporna / Zewn. ocynk' },
-    { id: 'nerzh_nerzh', name: 'Nierdz/Nierdz', text: 'Wewn. kwasoodporna / Zewn. nierdzewna' },
+    { id: 'nerzh' },
+    { id: 'oc' },
+    { id: 'nerzh_oc' },
+    { id: 'nerzh_nerzh' },
 ];
 
 export const insulationThicknesses = [
-    { id: 'iso30', name: '30 mm', text: 'Wełna mineralna' },
-    { id: 'iso50', name: '50 mm', text: 'Izolacja przemysłowa' },
+    { id: 'iso30' },
+    { id: 'iso50' },
 ];
-
 
 
 const rawSingle = [
@@ -42,12 +39,11 @@ const rawThermo = [
 
 const formatDiameter = (d) => ({
     id: `d${d.replace('/', '_')}`,
-    name: `${d} mm`
+    name: `${d} mm` // Оставляем name для диаметров как fallback
 });
 
 export const diametersSingle = rawSingle.map(formatDiameter);
 export const diametersThermo = rawThermo.map(formatDiameter);
-
 
 export const allAttributesDefinitions = {
     chimneyType: chimneyTypes,
@@ -55,4 +51,5 @@ export const allAttributesDefinitions = {
     steelThickness: steelThicknesses,
     execution: executionVariants,
     insulation: insulationThicknesses,
+    diameter: [] 
 };
